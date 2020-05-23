@@ -1,0 +1,761 @@
+dophy6@dophy6-K56CM ~/S/U/M/Progetto> python MM_project_ALL.py
+
+
+STARTING TEXT_ON_IMG
+
+
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMono_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeMonoBold_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerif_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSerifBold_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSans_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Jig I - FreeSansBold_100_LF.jpeg	saved
+
+
+STARTING MAKE_WAV_FROM_IMG
+
+
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMono_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeMonoBold_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerif_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSerifBold_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSans_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Jig I - FreeSansBold_100_LF.jpeg.wav	saved
+
+
+STARTING WAV_OVERLAY
+
+
+wav_overlay	Jig I - FreeMono_25_HF.png.wav	saved
+wav_overlay	Jig I - FreeMono_25_LF.png.wav	saved
+wav_overlay	Jig I - FreeMono_25_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeMono_25_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeMono_25_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeMono_25_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeMono_50_HF.png.wav	saved
+wav_overlay	Jig I - FreeMono_50_LF.png.wav	saved
+wav_overlay	Jig I - FreeMono_50_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeMono_50_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeMono_50_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeMono_50_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeMono_75_HF.png.wav	saved
+wav_overlay	Jig I - FreeMono_75_LF.png.wav	saved
+wav_overlay	Jig I - FreeMono_75_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeMono_75_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeMono_75_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeMono_75_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeMono_100_HF.png.wav	saved
+wav_overlay	Jig I - FreeMono_100_LF.png.wav	saved
+wav_overlay	Jig I - FreeMono_100_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeMono_100_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeMono_100_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeMono_100_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeMonoBold_25_HF.png.wav	saved
+wav_overlay	Jig I - FreeMonoBold_25_LF.png.wav	saved
+wav_overlay	Jig I - FreeMonoBold_25_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeMonoBold_25_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeMonoBold_25_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeMonoBold_25_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeMonoBold_50_HF.png.wav	saved
+wav_overlay	Jig I - FreeMonoBold_50_LF.png.wav	saved
+wav_overlay	Jig I - FreeMonoBold_50_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeMonoBold_50_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeMonoBold_50_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeMonoBold_50_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeMonoBold_75_HF.png.wav	saved
+wav_overlay	Jig I - FreeMonoBold_75_LF.png.wav	saved
+wav_overlay	Jig I - FreeMonoBold_75_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeMonoBold_75_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeMonoBold_75_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeMonoBold_75_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeMonoBold_100_HF.png.wav	saved
+wav_overlay	Jig I - FreeMonoBold_100_LF.png.wav	saved
+wav_overlay	Jig I - FreeMonoBold_100_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeMonoBold_100_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeMonoBold_100_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeMonoBold_100_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSerif_25_HF.png.wav	saved
+wav_overlay	Jig I - FreeSerif_25_LF.png.wav	saved
+wav_overlay	Jig I - FreeSerif_25_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeSerif_25_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeSerif_25_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSerif_25_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSerif_50_HF.png.wav	saved
+wav_overlay	Jig I - FreeSerif_50_LF.png.wav	saved
+wav_overlay	Jig I - FreeSerif_50_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeSerif_50_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeSerif_50_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSerif_50_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSerif_75_HF.png.wav	saved
+wav_overlay	Jig I - FreeSerif_75_LF.png.wav	saved
+wav_overlay	Jig I - FreeSerif_75_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeSerif_75_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeSerif_75_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSerif_75_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSerif_100_HF.png.wav	saved
+wav_overlay	Jig I - FreeSerif_100_LF.png.wav	saved
+wav_overlay	Jig I - FreeSerif_100_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeSerif_100_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeSerif_100_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSerif_100_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSerifBold_25_HF.png.wav	saved
+wav_overlay	Jig I - FreeSerifBold_25_LF.png.wav	saved
+wav_overlay	Jig I - FreeSerifBold_25_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeSerifBold_25_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeSerifBold_25_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSerifBold_25_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSerifBold_50_HF.png.wav	saved
+wav_overlay	Jig I - FreeSerifBold_50_LF.png.wav	saved
+wav_overlay	Jig I - FreeSerifBold_50_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeSerifBold_50_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeSerifBold_50_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSerifBold_50_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSerifBold_75_HF.png.wav	saved
+wav_overlay	Jig I - FreeSerifBold_75_LF.png.wav	saved
+wav_overlay	Jig I - FreeSerifBold_75_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeSerifBold_75_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeSerifBold_75_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSerifBold_75_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSerifBold_100_HF.png.wav	saved
+wav_overlay	Jig I - FreeSerifBold_100_LF.png.wav	saved
+wav_overlay	Jig I - FreeSerifBold_100_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeSerifBold_100_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeSerifBold_100_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSerifBold_100_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSans_25_HF.png.wav	saved
+wav_overlay	Jig I - FreeSans_25_LF.png.wav	saved
+wav_overlay	Jig I - FreeSans_25_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeSans_25_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeSans_25_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSans_25_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSans_50_HF.png.wav	saved
+wav_overlay	Jig I - FreeSans_50_LF.png.wav	saved
+wav_overlay	Jig I - FreeSans_50_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeSans_50_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeSans_50_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSans_50_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSans_75_HF.png.wav	saved
+wav_overlay	Jig I - FreeSans_75_LF.png.wav	saved
+wav_overlay	Jig I - FreeSans_75_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeSans_75_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeSans_75_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSans_75_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSans_100_HF.png.wav	saved
+wav_overlay	Jig I - FreeSans_100_LF.png.wav	saved
+wav_overlay	Jig I - FreeSans_100_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeSans_100_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeSans_100_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSans_100_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSansBold_25_HF.png.wav	saved
+wav_overlay	Jig I - FreeSansBold_25_LF.png.wav	saved
+wav_overlay	Jig I - FreeSansBold_25_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeSansBold_25_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeSansBold_25_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSansBold_25_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSansBold_50_HF.png.wav	saved
+wav_overlay	Jig I - FreeSansBold_50_LF.png.wav	saved
+wav_overlay	Jig I - FreeSansBold_50_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeSansBold_50_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeSansBold_50_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSansBold_50_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSansBold_75_HF.png.wav	saved
+wav_overlay	Jig I - FreeSansBold_75_LF.png.wav	saved
+wav_overlay	Jig I - FreeSansBold_75_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeSansBold_75_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeSansBold_75_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSansBold_75_LF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSansBold_100_HF.png.wav	saved
+wav_overlay	Jig I - FreeSansBold_100_LF.png.wav	saved
+wav_overlay	Jig I - FreeSansBold_100_HF.pbm.wav	saved
+wav_overlay	Jig I - FreeSansBold_100_LF.pbm.wav	saved
+wav_overlay	Jig I - FreeSansBold_100_HF.jpeg.wav	saved
+wav_overlay	Jig I - FreeSansBold_100_LF.jpeg.wav	saved
+
+
+STARTING CALC_SPECTO
+
+
+
+
+STARTING CREATE_SAVE_PLOT
+
+
+
+
+STARTING IMAGES_POST_PROCESSING
+
+
+
+
+STARTING IMAGES_IN_OCR
+
+
+- IMG: Jig I - FreeSansBold_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: nea
+- IMG: Jig I - FreeMono_25_LF.pbm.wav.png.png
+	- OCR_TEXT: 
+- IMG: Jig I - FreeSerif_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: Ut
+- IMG: Jig I - FreeMonoBold_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: JIG 15 UP
+- IMG: Jig I - FreeMono_100_HF.png.wav.png.png
+	- OCR_TEXT: JIG [5 UP
+- IMG: Jig I - FreeSerif_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: 
+- IMG: Jig I - FreeMono_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: 
+- IMG: Jig I - FreeMonoBold_50_LF.png.wav.png.png
+	- OCR_TEXT: Ca
+- IMG: Jig I - FreeSerif_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: ru
+- IMG: Jig I - FreeMono_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSerif_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: Gabe
+- IMG: Jig I - FreeMono_100_LF.png.wav.png.png
+	- OCR_TEXT: UpRC een a
+- IMG: Jig I - FreeSansBold_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: TE
+- IMG: Jig I - FreeSerifBold_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: th
+- IMG: Jig I - FreeMono_75_LF.pbm.wav.png.png
+	- OCR_TEXT: Ultemu.
+- IMG: Jig I - FreeSerifBold_25_HF.pbm.wav.png.png
+	- OCR_TEXT: aaa
+- IMG: Jig I - FreeMono_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: UeRm.
+- IMG: Jig I - FreeSans_75_HF.png.wav.png.png
+	- OCR_TEXT: GIS UP
+- IMG: Jig I - FreeSerifBold_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: aa
+- IMG: Jig I - FreeSansBold_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: CARO
+- IMG: Jig I - FreeSans_50_LF.png.wav.png.png
+	- OCR_TEXT: CNN
+- IMG: Jig I - FreeSansBold_75_HF.png.wav.png.png
+	- OCR_TEXT: MCN
+- IMG: Jig I - FreeMonoBold_75_LF.png.wav.png.png
+	- OCR_TEXT: ite
+- IMG: Jig I - FreeSansBold_100_LF.pbm.wav.png.png
+	- OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSansBold_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: NU
+- IMG: Jig I - FreeMonoBold_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: AC
+- IMG: Jig I - FreeSerifBold_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: Naha
+- IMG: Jig I - FreeSansBold_50_HF.png.wav.png.png
+	- OCR_TEXT: JIG 3 UF
+- IMG: Jig I - FreeSerif_100_HF.png.wav.png.png
+	- OCR_TEXT: GINO
+- IMG: Jig I - FreeSerifBold_50_LF.png.wav.png.png
+	- OCR_TEXT: (ahs
+- IMG: Jig I - FreeMono_100_LF.pbm.wav.png.png
+	- OCR_TEXT: UpRC een a
+- IMG: Jig I - FreeSansBold_25_LF.png.wav.png.png
+	- OCR_TEXT: CRY
+- IMG: Jig I - FreeSerifBold_25_LF.pbm.wav.png.png
+	- OCR_TEXT: NGWaR
+- IMG: Jig I - FreeMonoBold_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSerifBold_100_HF.pbm.wav.png.png
+	- OCR_TEXT: WaNU
+- IMG: Jig I - FreeSansBold_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSerifBold_50_LF.pbm.wav.png.png
+	- OCR_TEXT: (ahs
+- IMG: Jig I - FreeMono_50_LF.png.wav.png.png
+	- OCR_TEXT: 
+- IMG: Jig I - FreeSerifBold_75_HF.pbm.wav.png.png
+	- OCR_TEXT: aa
+- IMG: Jig I - FreeMonoBold_100_LF.pbm.wav.png.png
+	- OCR_TEXT: UaCCan a)
+- IMG: Jig I - FreeSerifBold_75_LF.png.wav.png.png
+	- OCR_TEXT: Nita ha
+- IMG: Jig I - FreeSansBold_50_HF.pbm.wav.png.png
+	- OCR_TEXT: JIG 3 UF
+- IMG: Jig I - FreeSerifBold_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: eA
+- IMG: Jig I - FreeSans_50_LF.pbm.wav.png.png
+	- OCR_TEXT: CNN
+- IMG: Jig I - FreeMono_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: ita tomy
+- IMG: Jig I - FreeSerif_100_LF.png.wav.png.png
+	- OCR_TEXT: CNN
+- IMG: Jig I - FreeSans_75_LF.pbm.wav.png.png
+	- OCR_TEXT: JIGISUP
+- IMG: Jig I - FreeSans_75_LF.png.wav.png.png
+	- OCR_TEXT: JIGISUP
+- IMG: Jig I - FreeMonoBold_100_HF.pbm.wav.png.png
+	- OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSerif_75_LF.png.wav.png.png
+	- OCR_TEXT: Gabel
+- IMG: Jig I - FreeSans_100_LF.pbm.wav.png.png
+	- OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSans_100_HF.png.wav.png.png
+	- OCR_TEXT: Cay
+- IMG: Jig I - FreeSerif_100_HF.pbm.wav.png.png
+	- OCR_TEXT: GINO
+- IMG: Jig I - FreeSerifBold_50_HF.pbm.wav.png.png
+	- OCR_TEXT: tah
+- IMG: Jig I - FreeSansBold_100_HF.png.wav.png.png
+	- OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeMono_50_HF.png.wav.png.png
+	- OCR_TEXT: 
+- IMG: Jig I - FreeSerif_50_HF.png.wav.png.png
+	- OCR_TEXT: 
+- IMG: Jig I - FreeSans_25_LF.png.wav.png.png
+	- OCR_TEXT: Wise
+- IMG: Jig I - FreeSans_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: CRs
+- IMG: Jig I - FreeSerifBold_75_HF.png.wav.png.png
+	- OCR_TEXT: aa
+- IMG: Jig I - FreeSerif_25_LF.png.wav.png.png
+	- OCR_TEXT: ht
+- IMG: Jig I - FreeSans_100_HF.pbm.wav.png.png
+	- OCR_TEXT: Cay
+- IMG: Jig I - FreeMonoBold_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: te
+- IMG: Jig I - FreeMonoBold_75_HF.png.wav.png.png
+	- OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSansBold_50_LF.pbm.wav.png.png
+	- OCR_TEXT: RLU
+- IMG: Jig I - FreeMono_100_HF.pbm.wav.png.png
+	- OCR_TEXT: JIG [5 UP
+- IMG: Jig I - FreeMonoBold_100_HF.png.wav.png.png
+	- OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSans_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: aN
+- IMG: Jig I - FreeSerifBold_75_LF.pbm.wav.png.png
+	- OCR_TEXT: Nita ha
+- IMG: Jig I - FreeSerif_75_HF.pbm.wav.png.png
+	- OCR_TEXT: GNU
+- IMG: Jig I - FreeSerif_25_HF.pbm.wav.png.png
+	- OCR_TEXT: ru
+- IMG: Jig I - FreeSerif_25_LF.pbm.wav.png.png
+	- OCR_TEXT: ht
+- IMG: Jig I - FreeMonoBold_50_HF.png.wav.png.png
+	- OCR_TEXT: AC
+- IMG: Jig I - FreeMonoBold_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: Cn
+- IMG: Jig I - FreeSerifBold_50_HF.png.wav.png.png
+	- OCR_TEXT: tah
+- IMG: Jig I - FreeSerifBold_100_LF.png.wav.png.png
+	- OCR_TEXT: IG ISUP
+- IMG: Jig I - FreeSansBold_100_HF.pbm.wav.png.png
+	- OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeMono_50_HF.pbm.wav.png.png
+	- OCR_TEXT: 
+- IMG: Jig I - FreeMono_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: 
+- IMG: Jig I - FreeSans_50_HF.png.wav.png.png
+	- OCR_TEXT: tr
+- IMG: Jig I - FreeSansBold_75_HF.pbm.wav.png.png
+	- OCR_TEXT: MCN
+- IMG: Jig I - FreeSans_100_LF.png.wav.png.png
+	- OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSerif_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: GNU
+- IMG: Jig I - FreeMono_75_LF.png.wav.png.png
+	- OCR_TEXT: Ultemu.
+- IMG: Jig I - FreeSans_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSerif_100_LF.pbm.wav.png.png
+	- OCR_TEXT: CNN
+- IMG: Jig I - FreeMonoBold_25_HF.png.wav.png.png
+	- OCR_TEXT: yt
+- IMG: Jig I - FreeSerif_75_HF.png.wav.png.png
+	- OCR_TEXT: GNU
+- IMG: Jig I - FreeSerif_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: GaN
+- IMG: Jig I - FreeSerif_50_LF.png.wav.png.png
+	- OCR_TEXT: NENA
+- IMG: Jig I - FreeSansBold_25_HF.pbm.wav.png.png
+	- OCR_TEXT: GIG UF
+- IMG: Jig I - FreeSans_25_HF.png.wav.png.png
+	- OCR_TEXT: I
+- IMG: Jig I - FreeSerif_50_HF.pbm.wav.png.png
+	- OCR_TEXT: 
+- IMG: Jig I - FreeMono_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: ceo
+- IMG: Jig I - FreeSerifBold_25_LF.png.wav.png.png
+	- OCR_TEXT: NGWaR
+- IMG: Jig I - FreeMonoBold_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: ac
+- IMG: Jig I - FreeSerifBold_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeMonoBold_25_LF.png.wav.png.png
+	- OCR_TEXT: wen
+- IMG: Jig I - FreeSansBold_50_LF.png.wav.png.png
+	- OCR_TEXT: RLU
+- IMG: Jig I - FreeSerifBold_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: (aha
+- IMG: Jig I - FreeSerif_50_LF.pbm.wav.png.png
+	- OCR_TEXT: NENA
+- IMG: Jig I - FreeSans_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: JIGISUP
+- IMG: Jig I - FreeMono_75_HF.pbm.wav.png.png
+	- OCR_TEXT: ita toms
+- IMG: Jig I - FreeSans_50_HF.pbm.wav.png.png
+	- OCR_TEXT: tr
+- IMG: Jig I - FreeMono_75_HF.png.wav.png.png
+	- OCR_TEXT: ita toms
+- IMG: Jig I - FreeMono_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: 
+- IMG: Jig I - FreeSans_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: i
+- IMG: Jig I - FreeSansBold_75_LF.png.wav.png.png
+	- OCR_TEXT: CARR
+- IMG: Jig I - FreeSans_25_HF.pbm.wav.png.png
+	- OCR_TEXT: I
+- IMG: Jig I - FreeMono_25_LF.png.wav.png.png
+	- OCR_TEXT: 
+- IMG: Jig I - FreeMonoBold_100_LF.png.wav.png.png
+	- OCR_TEXT: UaCCan a)
+- IMG: Jig I - FreeSerifBold_100_LF.pbm.wav.png.png
+	- OCR_TEXT: IG ISUP
+- IMG: Jig I - FreeSansBold_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSans_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: CUS
+- IMG: Jig I - FreeMono_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: ic
+
+Os
+- IMG: Jig I - FreeSans_75_HF.pbm.wav.png.png
+	- OCR_TEXT: GIS UP
+- IMG: Jig I - FreeMonoBold_75_LF.pbm.wav.png.png
+	- OCR_TEXT: ite
+- IMG: Jig I - FreeMonoBold_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: JIG [5 UP
+- IMG: Jig I - FreeSerif_25_HF.png.wav.png.png
+	- OCR_TEXT: ru
+- IMG: Jig I - FreeSans_25_LF.pbm.wav.png.png
+	- OCR_TEXT: Wise
+- IMG: Jig I - FreeSerifBold_100_HF.png.wav.png.png
+	- OCR_TEXT: WaNU
+- IMG: Jig I - FreeSansBold_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: GRAY
+- IMG: Jig I - FreeSerifBold_25_HF.png.wav.png.png
+	- OCR_TEXT: aaa
+- IMG: Jig I - FreeMonoBold_75_HF.pbm.wav.png.png
+	- OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSansBold_100_LF.png.wav.png.png
+	- OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeMonoBold_25_LF.pbm.wav.png.png
+	- OCR_TEXT: wen
+- IMG: Jig I - FreeSans_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: RIA
+- IMG: Jig I - FreeSerif_75_LF.pbm.wav.png.png
+	- OCR_TEXT: Gabel
+- IMG: Jig I - FreeSansBold_25_HF.png.wav.png.png
+	- OCR_TEXT: GIG UF
+- IMG: Jig I - FreeMonoBold_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: wet
+- IMG: Jig I - FreeSansBold_75_LF.pbm.wav.png.png
+	- OCR_TEXT: CARR
+- IMG: Jig I - FreeMonoBold_25_HF.pbm.wav.png.png
+	- OCR_TEXT: yt
+- IMG: Jig I - FreeSans_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: Ver
+- IMG: Jig I - FreeMonoBold_50_HF.pbm.wav.png.png
+	- OCR_TEXT: AC
+- IMG: Jig I - FreeSansBold_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: MCN
+- IMG: Jig I - FreeMono_25_HF.pbm.wav.png.png
+	- OCR_TEXT: 
+- IMG: Jig I - FreeSerifBold_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: Oba
+- IMG: Jig I - FreeSerif_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: JJG TS UP
+- IMG: Jig I - FreeMonoBold_50_LF.pbm.wav.png.png
+	- OCR_TEXT: Ca
+- IMG: Jig I - FreeMono_25_HF.png.wav.png.png
+	- OCR_TEXT: 
+- IMG: Jig I - FreeSerifBold_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: Hiri
+- IMG: Jig I - FreeMono_50_LF.pbm.wav.png.png
+	- OCR_TEXT: 
+- IMG: Jig I - FreeSerif_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: NaN
+
+po
+- IMG: Jig I - FreeSansBold_25_LF.pbm.wav.png.png
+	- OCR_TEXT: CRY
+dophy6@dophy6-K56CM ~/S/U/M/Progetto> 

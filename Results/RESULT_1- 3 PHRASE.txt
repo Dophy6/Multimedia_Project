@@ -1,0 +1,2273 @@
+dophy6@dophy6-K56CM ~/S/U/M/Progetto [SIGKILL]> python MM_project_ALL.py
+
+
+STARTING TEXT_ON_IMG
+
+
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMono_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeMonoBold_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerif_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSerifBold_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSans_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/My Cu - FreeSansBold_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMono_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeMonoBold_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerif_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSerifBold_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSans_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Right - FreeSansBold_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMono_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeMonoBold_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerif_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSerifBold_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSans_100_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_25_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_25_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_25_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_25_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_25_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_25_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_50_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_50_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_50_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_50_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_50_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_50_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_75_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_75_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_75_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_75_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_75_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_75_LF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_100_HF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_100_LF.png	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_100_HF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_100_LF.pbm	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_100_HF.jpeg	saved
+text_on_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/IMG/Shot  - FreeSansBold_100_LF.jpeg	saved
+
+
+STARTING MAKE_WAV_FROM_IMG
+
+
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMono_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeMonoBold_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerif_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSerifBold_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSans_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/My Cu - FreeSansBold_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMono_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeMonoBold_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerif_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSerifBold_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSans_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Right - FreeSansBold_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMono_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeMonoBold_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerif_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSerifBold_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSans_100_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_25_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_25_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_25_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_25_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_25_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_25_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_50_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_50_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_50_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_50_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_50_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_50_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_75_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_75_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_75_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_75_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_75_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_75_LF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_100_HF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_100_LF.png.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_100_HF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_100_LF.pbm.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_100_HF.jpeg.wav	saved
+make_wav_from_img	/home/dophy6/Scrivania/Universita/Multimedia/Progetto/DATA/WAV/Shot  - FreeSansBold_100_LF.jpeg.wav	saved
+
+
+STARTING WAV_OVERLAY
+
+
+wav_overlay	My Cu - FreeMono_25_HF.png.wav	saved
+wav_overlay	My Cu - FreeMono_25_LF.png.wav	saved
+wav_overlay	My Cu - FreeMono_25_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeMono_25_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeMono_25_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeMono_25_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeMono_50_HF.png.wav	saved
+wav_overlay	My Cu - FreeMono_50_LF.png.wav	saved
+wav_overlay	My Cu - FreeMono_50_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeMono_50_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeMono_50_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeMono_50_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeMono_75_HF.png.wav	saved
+wav_overlay	My Cu - FreeMono_75_LF.png.wav	saved
+wav_overlay	My Cu - FreeMono_75_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeMono_75_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeMono_75_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeMono_75_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeMono_100_HF.png.wav	saved
+wav_overlay	My Cu - FreeMono_100_LF.png.wav	saved
+wav_overlay	My Cu - FreeMono_100_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeMono_100_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeMono_100_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeMono_100_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeMonoBold_25_HF.png.wav	saved
+wav_overlay	My Cu - FreeMonoBold_25_LF.png.wav	saved
+wav_overlay	My Cu - FreeMonoBold_25_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeMonoBold_25_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeMonoBold_25_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeMonoBold_25_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeMonoBold_50_HF.png.wav	saved
+wav_overlay	My Cu - FreeMonoBold_50_LF.png.wav	saved
+wav_overlay	My Cu - FreeMonoBold_50_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeMonoBold_50_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeMonoBold_50_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeMonoBold_50_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeMonoBold_75_HF.png.wav	saved
+wav_overlay	My Cu - FreeMonoBold_75_LF.png.wav	saved
+wav_overlay	My Cu - FreeMonoBold_75_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeMonoBold_75_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeMonoBold_75_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeMonoBold_75_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeMonoBold_100_HF.png.wav	saved
+wav_overlay	My Cu - FreeMonoBold_100_LF.png.wav	saved
+wav_overlay	My Cu - FreeMonoBold_100_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeMonoBold_100_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeMonoBold_100_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeMonoBold_100_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSerif_25_HF.png.wav	saved
+wav_overlay	My Cu - FreeSerif_25_LF.png.wav	saved
+wav_overlay	My Cu - FreeSerif_25_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeSerif_25_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeSerif_25_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSerif_25_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSerif_50_HF.png.wav	saved
+wav_overlay	My Cu - FreeSerif_50_LF.png.wav	saved
+wav_overlay	My Cu - FreeSerif_50_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeSerif_50_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeSerif_50_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSerif_50_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSerif_75_HF.png.wav	saved
+wav_overlay	My Cu - FreeSerif_75_LF.png.wav	saved
+wav_overlay	My Cu - FreeSerif_75_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeSerif_75_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeSerif_75_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSerif_75_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSerif_100_HF.png.wav	saved
+wav_overlay	My Cu - FreeSerif_100_LF.png.wav	saved
+wav_overlay	My Cu - FreeSerif_100_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeSerif_100_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeSerif_100_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSerif_100_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSerifBold_25_HF.png.wav	saved
+wav_overlay	My Cu - FreeSerifBold_25_LF.png.wav	saved
+wav_overlay	My Cu - FreeSerifBold_25_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeSerifBold_25_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeSerifBold_25_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSerifBold_25_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSerifBold_50_HF.png.wav	saved
+wav_overlay	My Cu - FreeSerifBold_50_LF.png.wav	saved
+wav_overlay	My Cu - FreeSerifBold_50_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeSerifBold_50_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeSerifBold_50_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSerifBold_50_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSerifBold_75_HF.png.wav	saved
+wav_overlay	My Cu - FreeSerifBold_75_LF.png.wav	saved
+wav_overlay	My Cu - FreeSerifBold_75_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeSerifBold_75_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeSerifBold_75_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSerifBold_75_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSerifBold_100_HF.png.wav	saved
+wav_overlay	My Cu - FreeSerifBold_100_LF.png.wav	saved
+wav_overlay	My Cu - FreeSerifBold_100_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeSerifBold_100_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeSerifBold_100_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSerifBold_100_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSans_25_HF.png.wav	saved
+wav_overlay	My Cu - FreeSans_25_LF.png.wav	saved
+wav_overlay	My Cu - FreeSans_25_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeSans_25_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeSans_25_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSans_25_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSans_50_HF.png.wav	saved
+wav_overlay	My Cu - FreeSans_50_LF.png.wav	saved
+wav_overlay	My Cu - FreeSans_50_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeSans_50_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeSans_50_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSans_50_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSans_75_HF.png.wav	saved
+wav_overlay	My Cu - FreeSans_75_LF.png.wav	saved
+wav_overlay	My Cu - FreeSans_75_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeSans_75_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeSans_75_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSans_75_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSans_100_HF.png.wav	saved
+wav_overlay	My Cu - FreeSans_100_LF.png.wav	saved
+wav_overlay	My Cu - FreeSans_100_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeSans_100_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeSans_100_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSans_100_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSansBold_25_HF.png.wav	saved
+wav_overlay	My Cu - FreeSansBold_25_LF.png.wav	saved
+wav_overlay	My Cu - FreeSansBold_25_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeSansBold_25_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeSansBold_25_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSansBold_25_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSansBold_50_HF.png.wav	saved
+wav_overlay	My Cu - FreeSansBold_50_LF.png.wav	saved
+wav_overlay	My Cu - FreeSansBold_50_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeSansBold_50_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeSansBold_50_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSansBold_50_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSansBold_75_HF.png.wav	saved
+wav_overlay	My Cu - FreeSansBold_75_LF.png.wav	saved
+wav_overlay	My Cu - FreeSansBold_75_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeSansBold_75_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeSansBold_75_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSansBold_75_LF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSansBold_100_HF.png.wav	saved
+wav_overlay	My Cu - FreeSansBold_100_LF.png.wav	saved
+wav_overlay	My Cu - FreeSansBold_100_HF.pbm.wav	saved
+wav_overlay	My Cu - FreeSansBold_100_LF.pbm.wav	saved
+wav_overlay	My Cu - FreeSansBold_100_HF.jpeg.wav	saved
+wav_overlay	My Cu - FreeSansBold_100_LF.jpeg.wav	saved
+wav_overlay	Right - FreeMono_25_HF.png.wav	saved
+wav_overlay	Right - FreeMono_25_LF.png.wav	saved
+wav_overlay	Right - FreeMono_25_HF.pbm.wav	saved
+wav_overlay	Right - FreeMono_25_LF.pbm.wav	saved
+wav_overlay	Right - FreeMono_25_HF.jpeg.wav	saved
+wav_overlay	Right - FreeMono_25_LF.jpeg.wav	saved
+wav_overlay	Right - FreeMono_50_HF.png.wav	saved
+wav_overlay	Right - FreeMono_50_LF.png.wav	saved
+wav_overlay	Right - FreeMono_50_HF.pbm.wav	saved
+wav_overlay	Right - FreeMono_50_LF.pbm.wav	saved
+wav_overlay	Right - FreeMono_50_HF.jpeg.wav	saved
+wav_overlay	Right - FreeMono_50_LF.jpeg.wav	saved
+wav_overlay	Right - FreeMono_75_HF.png.wav	saved
+wav_overlay	Right - FreeMono_75_LF.png.wav	saved
+wav_overlay	Right - FreeMono_75_HF.pbm.wav	saved
+wav_overlay	Right - FreeMono_75_LF.pbm.wav	saved
+wav_overlay	Right - FreeMono_75_HF.jpeg.wav	saved
+wav_overlay	Right - FreeMono_75_LF.jpeg.wav	saved
+wav_overlay	Right - FreeMono_100_HF.png.wav	saved
+wav_overlay	Right - FreeMono_100_LF.png.wav	saved
+wav_overlay	Right - FreeMono_100_HF.pbm.wav	saved
+wav_overlay	Right - FreeMono_100_LF.pbm.wav	saved
+wav_overlay	Right - FreeMono_100_HF.jpeg.wav	saved
+wav_overlay	Right - FreeMono_100_LF.jpeg.wav	saved
+wav_overlay	Right - FreeMonoBold_25_HF.png.wav	saved
+wav_overlay	Right - FreeMonoBold_25_LF.png.wav	saved
+wav_overlay	Right - FreeMonoBold_25_HF.pbm.wav	saved
+wav_overlay	Right - FreeMonoBold_25_LF.pbm.wav	saved
+wav_overlay	Right - FreeMonoBold_25_HF.jpeg.wav	saved
+wav_overlay	Right - FreeMonoBold_25_LF.jpeg.wav	saved
+wav_overlay	Right - FreeMonoBold_50_HF.png.wav	saved
+wav_overlay	Right - FreeMonoBold_50_LF.png.wav	saved
+wav_overlay	Right - FreeMonoBold_50_HF.pbm.wav	saved
+wav_overlay	Right - FreeMonoBold_50_LF.pbm.wav	saved
+wav_overlay	Right - FreeMonoBold_50_HF.jpeg.wav	saved
+wav_overlay	Right - FreeMonoBold_50_LF.jpeg.wav	saved
+wav_overlay	Right - FreeMonoBold_75_HF.png.wav	saved
+wav_overlay	Right - FreeMonoBold_75_LF.png.wav	saved
+wav_overlay	Right - FreeMonoBold_75_HF.pbm.wav	saved
+wav_overlay	Right - FreeMonoBold_75_LF.pbm.wav	saved
+wav_overlay	Right - FreeMonoBold_75_HF.jpeg.wav	saved
+wav_overlay	Right - FreeMonoBold_75_LF.jpeg.wav	saved
+wav_overlay	Right - FreeMonoBold_100_HF.png.wav	saved
+wav_overlay	Right - FreeMonoBold_100_LF.png.wav	saved
+wav_overlay	Right - FreeMonoBold_100_HF.pbm.wav	saved
+wav_overlay	Right - FreeMonoBold_100_LF.pbm.wav	saved
+wav_overlay	Right - FreeMonoBold_100_HF.jpeg.wav	saved
+wav_overlay	Right - FreeMonoBold_100_LF.jpeg.wav	saved
+wav_overlay	Right - FreeSerif_25_HF.png.wav	saved
+wav_overlay	Right - FreeSerif_25_LF.png.wav	saved
+wav_overlay	Right - FreeSerif_25_HF.pbm.wav	saved
+wav_overlay	Right - FreeSerif_25_LF.pbm.wav	saved
+wav_overlay	Right - FreeSerif_25_HF.jpeg.wav	saved
+wav_overlay	Right - FreeSerif_25_LF.jpeg.wav	saved
+wav_overlay	Right - FreeSerif_50_HF.png.wav	saved
+wav_overlay	Right - FreeSerif_50_LF.png.wav	saved
+wav_overlay	Right - FreeSerif_50_HF.pbm.wav	saved
+wav_overlay	Right - FreeSerif_50_LF.pbm.wav	saved
+wav_overlay	Right - FreeSerif_50_HF.jpeg.wav	saved
+wav_overlay	Right - FreeSerif_50_LF.jpeg.wav	saved
+wav_overlay	Right - FreeSerif_75_HF.png.wav	saved
+wav_overlay	Right - FreeSerif_75_LF.png.wav	saved
+wav_overlay	Right - FreeSerif_75_HF.pbm.wav	saved
+wav_overlay	Right - FreeSerif_75_LF.pbm.wav	saved
+wav_overlay	Right - FreeSerif_75_HF.jpeg.wav	saved
+wav_overlay	Right - FreeSerif_75_LF.jpeg.wav	saved
+wav_overlay	Right - FreeSerif_100_HF.png.wav	saved
+wav_overlay	Right - FreeSerif_100_LF.png.wav	saved
+wav_overlay	Right - FreeSerif_100_HF.pbm.wav	saved
+wav_overlay	Right - FreeSerif_100_LF.pbm.wav	saved
+wav_overlay	Right - FreeSerif_100_HF.jpeg.wav	saved
+wav_overlay	Right - FreeSerif_100_LF.jpeg.wav	saved
+wav_overlay	Right - FreeSerifBold_25_HF.png.wav	saved
+wav_overlay	Right - FreeSerifBold_25_LF.png.wav	saved
+wav_overlay	Right - FreeSerifBold_25_HF.pbm.wav	saved
+wav_overlay	Right - FreeSerifBold_25_LF.pbm.wav	saved
+wav_overlay	Right - FreeSerifBold_25_HF.jpeg.wav	saved
+wav_overlay	Right - FreeSerifBold_25_LF.jpeg.wav	saved
+wav_overlay	Right - FreeSerifBold_50_HF.png.wav	saved
+wav_overlay	Right - FreeSerifBold_50_LF.png.wav	saved
+wav_overlay	Right - FreeSerifBold_50_HF.pbm.wav	saved
+wav_overlay	Right - FreeSerifBold_50_LF.pbm.wav	saved
+wav_overlay	Right - FreeSerifBold_50_HF.jpeg.wav	saved
+wav_overlay	Right - FreeSerifBold_50_LF.jpeg.wav	saved
+wav_overlay	Right - FreeSerifBold_75_HF.png.wav	saved
+wav_overlay	Right - FreeSerifBold_75_LF.png.wav	saved
+wav_overlay	Right - FreeSerifBold_75_HF.pbm.wav	saved
+wav_overlay	Right - FreeSerifBold_75_LF.pbm.wav	saved
+wav_overlay	Right - FreeSerifBold_75_HF.jpeg.wav	saved
+wav_overlay	Right - FreeSerifBold_75_LF.jpeg.wav	saved
+wav_overlay	Right - FreeSerifBold_100_HF.png.wav	saved
+wav_overlay	Right - FreeSerifBold_100_LF.png.wav	saved
+wav_overlay	Right - FreeSerifBold_100_HF.pbm.wav	saved
+wav_overlay	Right - FreeSerifBold_100_LF.pbm.wav	saved
+wav_overlay	Right - FreeSerifBold_100_HF.jpeg.wav	saved
+wav_overlay	Right - FreeSerifBold_100_LF.jpeg.wav	saved
+wav_overlay	Right - FreeSans_25_HF.png.wav	saved
+wav_overlay	Right - FreeSans_25_LF.png.wav	saved
+wav_overlay	Right - FreeSans_25_HF.pbm.wav	saved
+wav_overlay	Right - FreeSans_25_LF.pbm.wav	saved
+wav_overlay	Right - FreeSans_25_HF.jpeg.wav	saved
+wav_overlay	Right - FreeSans_25_LF.jpeg.wav	saved
+wav_overlay	Right - FreeSans_50_HF.png.wav	saved
+wav_overlay	Right - FreeSans_50_LF.png.wav	saved
+wav_overlay	Right - FreeSans_50_HF.pbm.wav	saved
+wav_overlay	Right - FreeSans_50_LF.pbm.wav	saved
+wav_overlay	Right - FreeSans_50_HF.jpeg.wav	saved
+wav_overlay	Right - FreeSans_50_LF.jpeg.wav	saved
+wav_overlay	Right - FreeSans_75_HF.png.wav	saved
+wav_overlay	Right - FreeSans_75_LF.png.wav	saved
+wav_overlay	Right - FreeSans_75_HF.pbm.wav	saved
+wav_overlay	Right - FreeSans_75_LF.pbm.wav	saved
+wav_overlay	Right - FreeSans_75_HF.jpeg.wav	saved
+wav_overlay	Right - FreeSans_75_LF.jpeg.wav	saved
+wav_overlay	Right - FreeSans_100_HF.png.wav	saved
+wav_overlay	Right - FreeSans_100_LF.png.wav	saved
+wav_overlay	Right - FreeSans_100_HF.pbm.wav	saved
+wav_overlay	Right - FreeSans_100_LF.pbm.wav	saved
+wav_overlay	Right - FreeSans_100_HF.jpeg.wav	saved
+wav_overlay	Right - FreeSans_100_LF.jpeg.wav	saved
+wav_overlay	Right - FreeSansBold_25_HF.png.wav	saved
+wav_overlay	Right - FreeSansBold_25_LF.png.wav	saved
+wav_overlay	Right - FreeSansBold_25_HF.pbm.wav	saved
+wav_overlay	Right - FreeSansBold_25_LF.pbm.wav	saved
+wav_overlay	Right - FreeSansBold_25_HF.jpeg.wav	saved
+wav_overlay	Right - FreeSansBold_25_LF.jpeg.wav	saved
+wav_overlay	Right - FreeSansBold_50_HF.png.wav	saved
+wav_overlay	Right - FreeSansBold_50_LF.png.wav	saved
+wav_overlay	Right - FreeSansBold_50_HF.pbm.wav	saved
+wav_overlay	Right - FreeSansBold_50_LF.pbm.wav	saved
+wav_overlay	Right - FreeSansBold_50_HF.jpeg.wav	saved
+wav_overlay	Right - FreeSansBold_50_LF.jpeg.wav	saved
+wav_overlay	Right - FreeSansBold_75_HF.png.wav	saved
+wav_overlay	Right - FreeSansBold_75_LF.png.wav	saved
+wav_overlay	Right - FreeSansBold_75_HF.pbm.wav	saved
+wav_overlay	Right - FreeSansBold_75_LF.pbm.wav	saved
+wav_overlay	Right - FreeSansBold_75_HF.jpeg.wav	saved
+wav_overlay	Right - FreeSansBold_75_LF.jpeg.wav	saved
+wav_overlay	Right - FreeSansBold_100_HF.png.wav	saved
+wav_overlay	Right - FreeSansBold_100_LF.png.wav	saved
+wav_overlay	Right - FreeSansBold_100_HF.pbm.wav	saved
+wav_overlay	Right - FreeSansBold_100_LF.pbm.wav	saved
+wav_overlay	Right - FreeSansBold_100_HF.jpeg.wav	saved
+wav_overlay	Right - FreeSansBold_100_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeMono_25_HF.png.wav	saved
+wav_overlay	Shot  - FreeMono_25_LF.png.wav	saved
+wav_overlay	Shot  - FreeMono_25_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeMono_25_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeMono_25_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeMono_25_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeMono_50_HF.png.wav	saved
+wav_overlay	Shot  - FreeMono_50_LF.png.wav	saved
+wav_overlay	Shot  - FreeMono_50_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeMono_50_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeMono_50_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeMono_50_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeMono_75_HF.png.wav	saved
+wav_overlay	Shot  - FreeMono_75_LF.png.wav	saved
+wav_overlay	Shot  - FreeMono_75_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeMono_75_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeMono_75_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeMono_75_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeMono_100_HF.png.wav	saved
+wav_overlay	Shot  - FreeMono_100_LF.png.wav	saved
+wav_overlay	Shot  - FreeMono_100_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeMono_100_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeMono_100_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeMono_100_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeMonoBold_25_HF.png.wav	saved
+wav_overlay	Shot  - FreeMonoBold_25_LF.png.wav	saved
+wav_overlay	Shot  - FreeMonoBold_25_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeMonoBold_25_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeMonoBold_25_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeMonoBold_25_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeMonoBold_50_HF.png.wav	saved
+wav_overlay	Shot  - FreeMonoBold_50_LF.png.wav	saved
+wav_overlay	Shot  - FreeMonoBold_50_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeMonoBold_50_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeMonoBold_50_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeMonoBold_50_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeMonoBold_75_HF.png.wav	saved
+wav_overlay	Shot  - FreeMonoBold_75_LF.png.wav	saved
+wav_overlay	Shot  - FreeMonoBold_75_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeMonoBold_75_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeMonoBold_75_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeMonoBold_75_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeMonoBold_100_HF.png.wav	saved
+wav_overlay	Shot  - FreeMonoBold_100_LF.png.wav	saved
+wav_overlay	Shot  - FreeMonoBold_100_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeMonoBold_100_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeMonoBold_100_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeMonoBold_100_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSerif_25_HF.png.wav	saved
+wav_overlay	Shot  - FreeSerif_25_LF.png.wav	saved
+wav_overlay	Shot  - FreeSerif_25_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeSerif_25_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeSerif_25_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSerif_25_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSerif_50_HF.png.wav	saved
+wav_overlay	Shot  - FreeSerif_50_LF.png.wav	saved
+wav_overlay	Shot  - FreeSerif_50_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeSerif_50_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeSerif_50_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSerif_50_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSerif_75_HF.png.wav	saved
+wav_overlay	Shot  - FreeSerif_75_LF.png.wav	saved
+wav_overlay	Shot  - FreeSerif_75_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeSerif_75_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeSerif_75_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSerif_75_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSerif_100_HF.png.wav	saved
+wav_overlay	Shot  - FreeSerif_100_LF.png.wav	saved
+wav_overlay	Shot  - FreeSerif_100_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeSerif_100_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeSerif_100_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSerif_100_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSerifBold_25_HF.png.wav	saved
+wav_overlay	Shot  - FreeSerifBold_25_LF.png.wav	saved
+wav_overlay	Shot  - FreeSerifBold_25_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeSerifBold_25_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeSerifBold_25_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSerifBold_25_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSerifBold_50_HF.png.wav	saved
+wav_overlay	Shot  - FreeSerifBold_50_LF.png.wav	saved
+wav_overlay	Shot  - FreeSerifBold_50_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeSerifBold_50_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeSerifBold_50_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSerifBold_50_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSerifBold_75_HF.png.wav	saved
+wav_overlay	Shot  - FreeSerifBold_75_LF.png.wav	saved
+wav_overlay	Shot  - FreeSerifBold_75_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeSerifBold_75_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeSerifBold_75_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSerifBold_75_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSerifBold_100_HF.png.wav	saved
+wav_overlay	Shot  - FreeSerifBold_100_LF.png.wav	saved
+wav_overlay	Shot  - FreeSerifBold_100_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeSerifBold_100_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeSerifBold_100_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSerifBold_100_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSans_25_HF.png.wav	saved
+wav_overlay	Shot  - FreeSans_25_LF.png.wav	saved
+wav_overlay	Shot  - FreeSans_25_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeSans_25_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeSans_25_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSans_25_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSans_50_HF.png.wav	saved
+wav_overlay	Shot  - FreeSans_50_LF.png.wav	saved
+wav_overlay	Shot  - FreeSans_50_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeSans_50_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeSans_50_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSans_50_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSans_75_HF.png.wav	saved
+wav_overlay	Shot  - FreeSans_75_LF.png.wav	saved
+wav_overlay	Shot  - FreeSans_75_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeSans_75_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeSans_75_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSans_75_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSans_100_HF.png.wav	saved
+wav_overlay	Shot  - FreeSans_100_LF.png.wav	saved
+wav_overlay	Shot  - FreeSans_100_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeSans_100_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeSans_100_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSans_100_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSansBold_25_HF.png.wav	saved
+wav_overlay	Shot  - FreeSansBold_25_LF.png.wav	saved
+wav_overlay	Shot  - FreeSansBold_25_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeSansBold_25_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeSansBold_25_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSansBold_25_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSansBold_50_HF.png.wav	saved
+wav_overlay	Shot  - FreeSansBold_50_LF.png.wav	saved
+wav_overlay	Shot  - FreeSansBold_50_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeSansBold_50_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeSansBold_50_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSansBold_50_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSansBold_75_HF.png.wav	saved
+wav_overlay	Shot  - FreeSansBold_75_LF.png.wav	saved
+wav_overlay	Shot  - FreeSansBold_75_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeSansBold_75_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeSansBold_75_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSansBold_75_LF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSansBold_100_HF.png.wav	saved
+wav_overlay	Shot  - FreeSansBold_100_LF.png.wav	saved
+wav_overlay	Shot  - FreeSansBold_100_HF.pbm.wav	saved
+wav_overlay	Shot  - FreeSansBold_100_LF.pbm.wav	saved
+wav_overlay	Shot  - FreeSansBold_100_HF.jpeg.wav	saved
+wav_overlay	Shot  - FreeSansBold_100_LF.jpeg.wav	saved
+
+
+STARTING CALC_SPECTO
+
+
+
+
+STARTING CREATE_SAVE_PLOT
+
+
+
+
+STARTING IMAGES_POST_PROCESSING
+
+
+
+
+STARTING IMAGES_IN_OCR
+
+
+- IMG: Right - FreeSerif_75_LF.pbm.wav.png.png
+	- OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: My Cu - FreeSerifBold_100_HF.pbm.wav.png.png
+	- OCR_TEXT: MY CUP OF TEA
+- IMG: My Cu - FreeSans_50_HF.png.wav.png.png
+	- OCR_TEXT: eee ass
+- IMG: My Cu - FreeSerifBold_25_LF.pbm.wav.png.png
+	- OCR_TEXT: VC EGH AE
+- IMG: Right - FreeSansBold_25_LF.png.wav.png.png
+	- OCR_TEXT: Ve Amnl NAO a hae
+- IMG: My Cu - FreeSerif_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: ea
+- IMG: Shot  - FreeSans_25_LF.png.wav.png.png
+	- OCR_TEXT: BN Aa ha
+- IMG: My Cu - FreeSans_50_LF.png.wav.png.png
+	- OCR_TEXT: NAA aia
+- IMG: Shot  - FreeSansBold_100_LF.pbm.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeSerif_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT OLTOE THE GAT:
+- IMG: Right - FreeSansBold_50_HF.pbm.wav.png.png
+	- OCR_TEXT: CU a
+- IMG: Shot  - FreeMono_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: niet
+He
+- IMG: My Cu - FreeSerif_75_LF.png.wav.png.png
+	- OCR_TEXT: AMG men
+- IMG: My Cu - FreeSerif_100_LF.pbm.wav.png.png
+	- OCR_TEXT: OGG ema a
+- IMG: Right - FreeSerifBold_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: COALS] He THT
+- IMG: My Cu - FreeSerif_75_HF.png.wav.png.png
+	- OCR_TEXT: NGC atlas
+- IMG: Shot  - FreeSans_25_HF.pbm.wav.png.png
+	- OCR_TEXT: a
+- IMG: Right - FreeSans_50_LF.pbm.wav.png.png
+	- OCR_TEXT: ON AO UEC aah acre
+- IMG: Right - FreeSerifBold_75_HF.pbm.wav.png.png
+	- OCR_TEXT: NU RCD
+- IMG: Shot  - FreeSerif_50_LF.pbm.wav.png.png
+	- OCR_TEXT: NOAM ATL ADAIGIN
+- IMG: My Cu - FreeSerifBold_25_HF.pbm.wav.png.png
+	- OCR_TEXT: aE ma
+- IMG: My Cu - FreeSerifBold_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: MY CUP OF TEA
+- IMG: My Cu - FreeSerif_75_LF.pbm.wav.png.png
+	- OCR_TEXT: AMG men
+- IMG: Shot  - FreeSerif_25_HF.pbm.wav.png.png
+	- OCR_TEXT: EDT REAL
+- IMG: My Cu - FreeMonoBold_50_HF.pbm.wav.png.png
+	- OCR_TEXT: Ua
+- IMG: My Cu - FreeSerifBold_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: NOU te aioe)
+- IMG: Shot  - FreeSerif_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: TAR ALA
+- IMG: Shot  - FreeSerif_100_HF.pbm.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeMono_25_HF.png.wav.png.png
+	- OCR_TEXT: a |e ie
+- IMG: Right - FreeSans_25_HF.pbm.wav.png.png
+	- OCR_TEXT: aby AE iat
+- IMG: Shot  - FreeSerif_100_HF.png.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: Shot  - FreeMonoBold_25_HF.pbm.wav.png.png
+	- OCR_TEXT: Sa
+- IMG: Shot  - FreeSansBold_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: ee
+- IMG: Right - FreeMono_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: aC
+- IMG: My Cu - FreeSerif_100_LF.png.wav.png.png
+	- OCR_TEXT: OGG ema a
+- IMG: Right - FreeMono_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: a |e ce
+- IMG: My Cu - FreeMono_100_HF.png.wav.png.png
+	- OCR_TEXT: VGC Oar
+- IMG: Shot  - FreeSans_50_HF.pbm.wav.png.png
+	- OCR_TEXT: aay
+- IMG: My Cu - FreeSerif_25_LF.pbm.wav.png.png
+	- OCR_TEXT: Ma
+- IMG: Shot  - FreeSansBold_50_LF.png.wav.png.png
+	- OCR_TEXT: MLM bs oat a
+- IMG: Right - FreeSansBold_25_HF.png.wav.png.png
+	- OCR_TEXT: UU aa
+- IMG: Shot  - FreeSerifBold_75_LF.pbm.wav.png.png
+	- OCR_TEXT: OMS RR NG
+- IMG: My Cu - FreeSansBold_100_LF.pbm.wav.png.png
+	- OCR_TEXT: het te ars!
+- IMG: Right - FreeSans_75_LF.pbm.wav.png.png
+	- OCR_TEXT: PICMG UR amisder ie
+- IMG: Shot  - FreeSansBold_75_LF.png.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: My Cu - FreeSansBold_50_HF.pbm.wav.png.png
+	- OCR_TEXT: WA aN aS!
+- IMG: My Cu - FreeSerifBold_50_LF.pbm.wav.png.png
+	- OCR_TEXT: ROB t Ue
+- IMG: Shot  - FreeSerif_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: TAMU
+- IMG: Shot  - FreeSerifBold_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: TOMO MLE Gs
+- IMG: My Cu - FreeSerif_25_LF.png.wav.png.png
+	- OCR_TEXT: Ma
+- IMG: My Cu - FreeMonoBold_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: VNGG RO) a
+- IMG: Right - FreeSerifBold_100_HF.pbm.wav.png.png
+	- OCR_TEXT: VCO MUL UMA) IUGR CRW UD
+- IMG: My Cu - FreeSansBold_50_LF.png.wav.png.png
+	- OCR_TEXT: VAG U Sa Nm
+- IMG: Right - FreeSerif_50_LF.pbm.wav.png.png
+	- OCR_TEXT: GHA ROMA O em VoL Te
+- IMG: Right - FreeSerifBold_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeSerifBold_100_HF.png.wav.png.png
+	- OCR_TEXT: LOBULE a
+- IMG: Shot  - FreeMonoBold_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: TU
+- IMG: Shot  - FreeMonoBold_25_LF.png.wav.png.png
+	- OCR_TEXT: ce ee
+- IMG: Right - FreeSerif_25_LF.pbm.wav.png.png
+	- OCR_TEXT: Tne
+- IMG: Right - FreeMonoBold_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: Sat OL an eV
+- IMG: Right - FreeSans_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: Allan? QUT OF THE GATE
+- IMG: Right - FreeSans_75_LF.png.wav.png.png
+	- OCR_TEXT: PICMG UR amisder ie
+- IMG: Right - FreeMonoBold_100_LF.png.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeSans_50_HF.png.wav.png.png
+	- OCR_TEXT: COUR tes
+- IMG: Right - FreeMono_75_HF.pbm.wav.png.png
+	- OCR_TEXT: NO ACTsMiane] ON OyammOr} Cr dS
+- IMG: My Cu - FreeMonoBold_100_HF.png.wav.png.png
+	- OCR_TEXT: MY CUP OF TEA
+- IMG: My Cu - FreeSansBold_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: The mas
+- IMG: My Cu - FreeMonoBold_50_LF.pbm.wav.png.png
+	- OCR_TEXT: mute
+- IMG: Shot  - FreeSerifBold_25_LF.pbm.wav.png.png
+	- OCR_TEXT: THURS IMERI
+- IMG: Shot  - FreeMonoBold_75_HF.png.wav.png.png
+	- OCR_TEXT: en CU
+- IMG: My Cu - FreeMono_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: VOC) Oar
+- IMG: Right - FreeMono_100_LF.png.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeSansBold_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: het te ar
+- IMG: Shot  - FreeSerif_50_HF.png.wav.png.png
+	- OCR_TEXT: TAMU
+- IMG: My Cu - FreeSerifBold_25_HF.png.wav.png.png
+	- OCR_TEXT: aE ma
+- IMG: My Cu - FreeSansBold_25_HF.png.wav.png.png
+	- OCR_TEXT: et at
+- IMG: Right - FreeMono_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: ARREST Oa
+- IMG: Right - FreeSans_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeSansBold_75_LF.pbm.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeMonoBold_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: net
+- IMG: My Cu - FreeMonoBold_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: MY CUP OF TEA
+- IMG: Right - FreeSerifBold_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: TORU
+- IMG: My Cu - FreeMono_75_LF.pbm.wav.png.png
+	- OCR_TEXT: UN On GLO) nO ams
+- IMG: Shot  - FreeSansBold_50_HF.pbm.wav.png.png
+	- OCR_TEXT: ea
+- IMG: Right - FreeSansBold_25_HF.pbm.wav.png.png
+	- OCR_TEXT: UU aa
+- IMG: Right - FreeSansBold_100_LF.png.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeMonoBold_25_LF.pbm.wav.png.png
+	- OCR_TEXT: i ee a
+- IMG: Shot  - FreeSans_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: 
+- IMG: Right - FreeSansBold_100_LF.pbm.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeMonoBold_100_LF.pbm.wav.png.png
+	- OCR_TEXT: bee) tO) may
+- IMG: My Cu - FreeSansBold_25_LF.png.wav.png.png
+	- OCR_TEXT: NY CUE OF TEA
+- IMG: Shot  - FreeSansBold_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: TARA
+- IMG: Shot  - FreeSans_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: My Cu - FreeSans_100_HF.png.wav.png.png
+	- OCR_TEXT: (CU eel,
+- IMG: My Cu - FreeMono_25_HF.pbm.wav.png.png
+	- OCR_TEXT: 
+- IMG: Right - FreeMonoBold_50_HF.pbm.wav.png.png
+	- OCR_TEXT: aC YAO) a eV
+- IMG: My Cu - FreeMono_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: MY CUP OF IBA
+- IMG: Shot  - FreeSerif_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: TOL IMUS ORBAN
+- IMG: Shot  - FreeMonoBold_25_HF.png.wav.png.png
+	- OCR_TEXT: Sa
+- IMG: My Cu - FreeSansBold_100_HF.pbm.wav.png.png
+	- OCR_TEXT: TRU ea
+- IMG: My Cu - FreeMonoBold_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: Nib Gt @le) at) my
+- IMG: Shot  - FreeMonoBold_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeSerifBold_50_HF.png.wav.png.png
+	- OCR_TEXT: TCU
+- IMG: Right - FreeSerifBold_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: ARORA
+- IMG: My Cu - FreeSansBold_75_LF.pbm.wav.png.png
+	- OCR_TEXT: hee ais
+- IMG: My Cu - FreeSerif_50_HF.png.wav.png.png
+	- OCR_TEXT: Na
+(
+A
+- IMG: My Cu - FreeSans_75_LF.png.wav.png.png
+	- OCR_TEXT: NhaGuiaQmi a
+- IMG: Shot  - FreeSans_100_LF.png.wav.png.png
+	- OCR_TEXT: ea OUI RR eR DANeIA
+- IMG: My Cu - FreeSans_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: Wea ass
+- IMG: My Cu - FreeMono_75_HF.pbm.wav.png.png
+	- OCR_TEXT: UNMR OO ie
+- IMG: Shot  - FreeSansBold_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: A Mala
+- IMG: My Cu - FreeMono_25_LF.pbm.wav.png.png
+	- OCR_TEXT: 
+- IMG: Shot  - FreeMono_100_LF.png.wav.png.png
+	- OCR_TEXT: SH OMRR NNO
+- IMG: My Cu - FreeMono_100_HF.pbm.wav.png.png
+	- OCR_TEXT: VGC Oar
+- IMG: My Cu - FreeSerif_75_HF.pbm.wav.png.png
+	- OCR_TEXT: NGC atlas
+- IMG: Shot  - FreeSans_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: NM sa Oalai
+- IMG: Shot  - FreeSerifBold_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: SHWRS TIMER
+- IMG: My Cu - FreeMono_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: UanOU nO) ots
+- IMG: Shot  - FreeMonoBold_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: SI CMa Wel MUNA
+- IMG: My Cu - FreeMonoBold_25_HF.png.wav.png.png
+	- OCR_TEXT: sant
+- IMG: My Cu - FreeSans_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: VhaGelne ata
+- IMG: Right - FreeMono_75_LF.pbm.wav.png.png
+	- OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Shot  - FreeSerif_75_HF.png.wav.png.png
+	- OCR_TEXT: HOMME RDEV
+- IMG: Right - FreeMono_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeSans_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeSerif_100_LF.pbm.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeSans_25_LF.png.wav.png.png
+	- OCR_TEXT: Tana
+- IMG: Shot  - FreeSans_50_LF.pbm.wav.png.png
+	- OCR_TEXT: SOM Mtaea Dh
+- IMG: Right - FreeSerifBold_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeMonoBold_100_HF.pbm.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeSans_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: aCe
+- IMG: Right - FreeSerifBold_75_HF.png.wav.png.png
+	- OCR_TEXT: NU RCD
+- IMG: My Cu - FreeMonoBold_50_LF.png.wav.png.png
+	- OCR_TEXT: mute
+- IMG: Shot  - FreeSerifBold_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: UAL
+- IMG: Shot  - FreeSans_50_LF.png.wav.png.png
+	- OCR_TEXT: SOM Mtaea Dh
+- IMG: Right - FreeSansBold_100_HF.png.wav.png.png
+	- OCR_TEXT: UCU a aC
+- IMG: Shot  - FreeMono_50_LF.pbm.wav.png.png
+	- OCR_TEXT: a
+
+T
+sf
+
+ik
+
+A
+
+a
+
+ie
+
+H
+
+l= =
+
+is
+
+1!
+
+a
+
+a
+
+eel
+- IMG: Right - FreeSansBold_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: My Cu - FreeSerif_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: ?een
+svat
+ain
+- IMG: Right - FreeSans_25_LF.pbm.wav.png.png
+	- OCR_TEXT: SEARO NG Ne
+- IMG: Right - FreeSansBold_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeMonoBold_75_LF.png.wav.png.png
+	- OCR_TEXT: Vet Oma
+- IMG: Shot  - FreeSansBold_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: Shot  - FreeSerif_75_LF.png.wav.png.png
+	- OCR_TEXT: ST OLMIS RDU
+- IMG: My Cu - FreeSansBold_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: et at
+- IMG: My Cu - FreeSerif_100_HF.pbm.wav.png.png
+	- OCR_TEXT: Pe aC hen
+- IMG: My Cu - FreeSerifBold_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: NCTE
+- IMG: My Cu - FreeSerif_100_HF.png.wav.png.png
+	- OCR_TEXT: Pe aC hen
+- IMG: Shot  - FreeMonoBold_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: SUE SL
+- IMG: Right - FreeSerifBold_25_LF.png.wav.png.png
+	- OCR_TEXT: TCUAUSRUM TRU
+- IMG: My Cu - FreeSans_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: NhaGuiaGimla
+- IMG: My Cu - FreeSans_100_LF.png.wav.png.png
+	- OCR_TEXT: VhaGeee ata:
+- IMG: My Cu - FreeSansBold_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: HVA U aN m3
+- IMG: My Cu - FreeSerifBold_75_LF.png.wav.png.png
+	- OCR_TEXT: AVVO) aa aoe
+- IMG: Shot  - FreeMonoBold_100_LF.pbm.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: My Cu - FreeMonoBold_75_HF.pbm.wav.png.png
+	- OCR_TEXT: VNGG SO
+- IMG: Right - FreeSansBold_50_HF.png.wav.png.png
+	- OCR_TEXT: CU a
+- IMG: My Cu - FreeMonoBold_75_LF.pbm.wav.png.png
+	- OCR_TEXT: Vet Oma
+- IMG: Shot  - FreeMono_50_LF.png.wav.png.png
+	- OCR_TEXT: a
+
+T
+sf
+
+ik
+
+A
+
+a
+
+ie
+
+H
+
+l= =
+
+is
+
+1!
+
+a
+
+a
+
+eel
+- IMG: Shot  - FreeMono_75_HF.png.wav.png.png
+	- OCR_TEXT: oI 0) nO et
+- IMG: My Cu - FreeSerif_50_HF.pbm.wav.png.png
+	- OCR_TEXT: Na
+(
+A
+- IMG: Right - FreeSerifBold_50_LF.png.wav.png.png
+	- OCR_TEXT: CCAS GO RD
+- IMG: Shot  - FreeMono_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: ao
+ae
+oy
+- IMG: My Cu - FreeMono_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: eee ee
+- IMG: Right - FreeMonoBold_50_HF.png.wav.png.png
+	- OCR_TEXT: aC YAO) a eV
+- IMG: Shot  - FreeSans_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: SOA Mta Di
+- IMG: My Cu - FreeSerif_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: PGC aa ien
+- IMG: Shot  - FreeMonoBold_75_LF.png.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeMono_50_LF.pbm.wav.png.png
+	- OCR_TEXT: 
+- IMG: Shot  - FreeSans_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: aa La
+- IMG: Right - FreeSerif_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeSerifBold_25_HF.pbm.wav.png.png
+	- OCR_TEXT: AULA
+- IMG: Shot  - FreeSansBold_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: MLM Us eae
+- IMG: Shot  - FreeSans_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: ca OUI Ral eMONntN
+- IMG: Shot  - FreeMono_25_LF.png.wav.png.png
+	- OCR_TEXT: cree
+- IMG: My Cu - FreeSerif_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: EL
+- IMG: Shot  - FreeSerifBold_50_HF.pbm.wav.png.png
+	- OCR_TEXT: ULL
+- IMG: Right - FreeSansBold_100_HF.pbm.wav.png.png
+	- OCR_TEXT: UCU a aC
+- IMG: My Cu - FreeMono_50_LF.pbm.wav.png.png
+	- OCR_TEXT: ue
+?i
+eer
+- IMG: My Cu - FreeMonoBold_50_HF.png.wav.png.png
+	- OCR_TEXT: Ua
+- IMG: Shot  - FreeSans_75_LF.png.wav.png.png
+	- OCR_TEXT: 
+- IMG: My Cu - FreeMono_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: 
+- IMG: My Cu - FreeSerif_25_HF.png.wav.png.png
+	- OCR_TEXT: Pe
+- IMG: Right - FreeMonoBold_100_LF.pbm.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeMonoBold_50_HF.pbm.wav.png.png
+	- OCR_TEXT: UE SL
+- IMG: My Cu - FreeSans_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: i i
+in ii i} Hl
+\ f
+- IMG: Shot  - FreeMonoBold_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: Shot  - FreeMono_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: LOPE sacs i
+- IMG: Shot  - FreeSans_100_HF.pbm.wav.png.png
+	- OCR_TEXT: OM a Oalai
+- IMG: Right - FreeSerifBold_100_HF.png.wav.png.png
+	- OCR_TEXT: VCO MUL UMA) IUGR CRW UD
+- IMG: Shot  - FreeMono_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: vs LO nN vi By ett
+- IMG: My Cu - FreeMonoBold_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: MY CUP OF TEA
+- IMG: My Cu - FreeMonoBold_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: MY CUP OF TEA
+- IMG: Right - FreeMono_100_HF.png.wav.png.png
+	- OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Shot  - FreeSerifBold_25_LF.png.wav.png.png
+	- OCR_TEXT: THURS IMERI
+- IMG: Shot  - FreeMonoBold_50_LF.png.wav.png.png
+	- OCR_TEXT: TO
+- IMG: Right - FreeMonoBold_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeMono_100_HF.pbm.wav.png.png
+	- OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Shot  - FreeSans_50_HF.png.wav.png.png
+	- OCR_TEXT: aay
+- IMG: Right - FreeSerifBold_100_LF.png.wav.png.png
+	- OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Right - FreeSansBold_75_HF.pbm.wav.png.png
+	- OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: My Cu - FreeSerif_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: va ae)
+- IMG: Right - FreeSans_75_HF.pbm.wav.png.png
+	- OCR_TEXT: AlGnT QUT OF THE GATE
+- IMG: My Cu - FreeSansBold_100_HF.png.wav.png.png
+	- OCR_TEXT: TRU ea
+- IMG: My Cu - FreeSans_25_HF.pbm.wav.png.png
+	- OCR_TEXT: Na
+- IMG: Right - FreeSans_50_LF.png.wav.png.png
+	- OCR_TEXT: ON AO UEC aah acre
+- IMG: Shot  - FreeSerif_100_LF.png.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: My Cu - FreeSans_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: (eCU seals,
+- IMG: Right - FreeSansBold_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: Cae
+- IMG: Shot  - FreeMono_100_HF.png.wav.png.png
+	- OCR_TEXT: SION Os ce) tat
+- IMG: Right - FreeMonoBold_75_LF.pbm.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeSerif_75_HF.pbm.wav.png.png
+	- OCR_TEXT: HOMME RDEV
+- IMG: Shot  - FreeSans_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: Osa
+- IMG: Shot  - FreeSerifBold_100_HF.pbm.wav.png.png
+	- OCR_TEXT: LOBULE a
+- IMG: My Cu - FreeSerifBold_50_LF.png.wav.png.png
+	- OCR_TEXT: ROB t Ue
+- IMG: Shot  - FreeSansBold_100_HF.png.wav.png.png
+	- OCR_TEXT: Mat
+- IMG: Shot  - FreeMono_75_LF.png.wav.png.png
+	- OCR_TEXT: VLG Pee  Neavm bys tti
+- IMG: Shot  - FreeSerif_50_HF.pbm.wav.png.png
+	- OCR_TEXT: TAMU
+- IMG: Shot  - FreeMonoBold_50_HF.png.wav.png.png
+	- OCR_TEXT: UE SL
+- IMG: Shot  - FreeSans_100_LF.pbm.wav.png.png
+	- OCR_TEXT: ea OUI RR eR DANeIA
+- IMG: Right - FreeSansBold_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: TEU at
+- IMG: My Cu - FreeSansBold_25_LF.pbm.wav.png.png
+	- OCR_TEXT: NY CUE OF TEA
+- IMG: Right - FreeSerif_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeSans_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: PCMMO RGM sae
+- IMG: Right - FreeMonoBold_50_LF.pbm.wav.png.png
+	- OCR_TEXT: ONG) VMOU) ame er VD
+- IMG: Right - FreeMonoBold_25_LF.png.wav.png.png
+	- OCR_TEXT: i ee a
+- IMG: My Cu - FreeSerif_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: Wamu ae ten
+- IMG: Shot  - FreeSerif_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: SHOT TN THE DARK
+- IMG: My Cu - FreeSansBold_75_LF.png.wav.png.png
+	- OCR_TEXT: hee ais
+- IMG: Right - FreeSerif_50_HF.png.wav.png.png
+	- OCR_TEXT: ea LS
+- IMG: My Cu - FreeMonoBold_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: at
+- IMG: Right - FreeMono_50_LF.png.wav.png.png
+	- OCR_TEXT: 
+- IMG: Shot  - FreeSerifBold_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: ITH ABMLIIMIANS
+- IMG: Shot  - FreeMonoBold_100_HF.pbm.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeMonoBold_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Right - FreeSans_100_HF.png.wav.png.png
+	- OCR_TEXT: aC ROO RC min crt
+- IMG: Shot  - FreeSerifBold_25_HF.png.wav.png.png
+	- OCR_TEXT: IADMLIIRULAS
+- IMG: Right - FreeSerifBold_50_HF.pbm.wav.png.png
+	- OCR_TEXT: TCU
+- IMG: Right - FreeMono_100_LF.pbm.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeMonoBold_75_LF.pbm.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeSans_100_LF.png.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeMono_75_HF.pbm.wav.png.png
+	- OCR_TEXT: oI 0) nO et
+- IMG: Shot  - FreeSans_75_LF.pbm.wav.png.png
+	- OCR_TEXT: 
+- IMG: Shot  - FreeSerifBold_100_LF.pbm.wav.png.png
+	- OCR_TEXT: FO ET OM DN ia,
+- IMG: My Cu - FreeSans_100_HF.pbm.wav.png.png
+	- OCR_TEXT: (CU eel,
+- IMG: Shot  - FreeMonoBold_100_LF.png.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: My Cu - FreeMono_25_HF.png.wav.png.png
+	- OCR_TEXT: 
+- IMG: My Cu - FreeMonoBold_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: svat
+- IMG: My Cu - FreeSansBold_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: TRG av
+- IMG: Shot  - FreeSerif_75_LF.pbm.wav.png.png
+	- OCR_TEXT: ST OLMIS RDU
+- IMG: My Cu - FreeMono_100_LF.png.wav.png.png
+	- OCR_TEXT: ORG U ane ammleys
+- IMG: My Cu - FreeMono_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: UNO anO aot
+- IMG: Right - FreeMono_75_LF.png.wav.png.png
+	- OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Shot  - FreeSansBold_75_HF.pbm.wav.png.png
+	- OCR_TEXT: Mala i
+- IMG: My Cu - FreeSans_50_LF.pbm.wav.png.png
+	- OCR_TEXT: NAA aia
+- IMG: Shot  - FreeSansBold_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: Shot  - FreeMono_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: 
+- IMG: Right - FreeSerifBold_75_LF.pbm.wav.png.png
+	- OCR_TEXT: NG TU RUG) UG IRE NAD
+- IMG: My Cu - FreeSerifBold_25_LF.png.wav.png.png
+	- OCR_TEXT: VC EGH AE
+- IMG: My Cu - FreeSansBold_50_LF.pbm.wav.png.png
+	- OCR_TEXT: VAG U Sa Nm
+- IMG: Right - FreeSerif_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: ROU O aA
+- IMG: Shot  - FreeSansBold_100_HF.pbm.wav.png.png
+	- OCR_TEXT: Mat
+- IMG: My Cu - FreeSans_75_LF.pbm.wav.png.png
+	- OCR_TEXT: NhaGuiaQmi a
+- IMG: Shot  - FreeSerifBold_75_LF.png.wav.png.png
+	- OCR_TEXT: OMS RR NG
+- IMG: My Cu - FreeMono_75_LF.png.wav.png.png
+	- OCR_TEXT: UN On GLO) nO ams
+- IMG: Right - FreeSerifBold_75_LF.png.wav.png.png
+	- OCR_TEXT: NG TU RUG) UG IRE NAD
+- IMG: My Cu - FreeMono_100_LF.pbm.wav.png.png
+	- OCR_TEXT: ORG U ane ammleys
+- IMG: Shot  - FreeMono_25_HF.pbm.wav.png.png
+	- OCR_TEXT: ian
+a
+Mt
+- IMG: My Cu - FreeSerifBold_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: ROU Ee
+- IMG: My Cu - FreeMonoBold_25_LF.pbm.wav.png.png
+	- OCR_TEXT: at |
+- IMG: My Cu - FreeMonoBold_100_LF.png.wav.png.png
+	- OCR_TEXT: bee) tO) may
+- IMG: My Cu - FreeSansBold_75_HF.png.wav.png.png
+	- OCR_TEXT: AGU at
+- IMG: Right - FreeSans_100_HF.pbm.wav.png.png
+	- OCR_TEXT: aC ROO RC min crt
+- IMG: My Cu - FreeSans_25_HF.png.wav.png.png
+	- OCR_TEXT: Na
+- IMG: My Cu - FreeSans_75_HF.png.wav.png.png
+	- OCR_TEXT: NaC UmO mis
+- IMG: Shot  - FreeMonoBold_25_LF.pbm.wav.png.png
+	- OCR_TEXT: ce ee
+- IMG: My Cu - FreeSerifBold_100_LF.pbm.wav.png.png
+	- OCR_TEXT: MY CUP OF TEA
+- IMG: Right - FreeSansBold_50_LF.png.wav.png.png
+	- OCR_TEXT: HC tM eae mis aes 4S
+- IMG: Right - FreeSerif_100_HF.png.wav.png.png
+	- OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: My Cu - FreeSerif_25_HF.pbm.wav.png.png
+	- OCR_TEXT: Pe
+- IMG: Right - FreeMonoBold_25_HF.png.wav.png.png
+	- OCR_TEXT: Ca abe
+- IMG: Right - FreeSerifBold_50_LF.pbm.wav.png.png
+	- OCR_TEXT: CCAS GO RD
+- IMG: Right - FreeSerif_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: TUR
+- IMG: Shot  - FreeSansBold_25_HF.png.wav.png.png
+	- OCR_TEXT: a
+- IMG: My Cu - FreeSerifBold_75_HF.pbm.wav.png.png
+	- OCR_TEXT: DOU Ua vie
+- IMG: My Cu - FreeSerifBold_50_HF.pbm.wav.png.png
+	- OCR_TEXT: NRG atin
+- IMG: Shot  - FreeSansBold_100_LF.png.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: Shot  - FreeSerif_25_HF.png.wav.png.png
+	- OCR_TEXT: EDT REAL
+- IMG: Shot  - FreeSans_25_LF.pbm.wav.png.png
+	- OCR_TEXT: BN Aa ha
+- IMG: Shot  - FreeSerif_25_LF.pbm.wav.png.png
+	- OCR_TEXT: TD AASI INRA
+- IMG: Shot  - FreeSans_25_HF.png.wav.png.png
+	- OCR_TEXT: a
+- IMG: Shot  - FreeMono_100_HF.pbm.wav.png.png
+	- OCR_TEXT: SION Os ce) tat
+- IMG: Right - FreeSerifBold_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeSansBold_50_LF.pbm.wav.png.png
+	- OCR_TEXT: MLM bs oat a
+- IMG: Right - FreeSansBold_50_LF.pbm.wav.png.png
+	- OCR_TEXT: HC tM eae mis aes 4S
+- IMG: Shot  - FreeSerifBold_75_HF.pbm.wav.png.png
+	- OCR_TEXT: HN LUM
+- IMG: Right - FreeSerif_75_LF.png.wav.png.png
+	- OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Shot  - FreeSansBold_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: a
+- IMG: My Cu - FreeSerif_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: GUC ae
+- IMG: My Cu - FreeSansBold_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: TRU eat
+- IMG: Right - FreeMonoBold_100_HF.png.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeMono_50_HF.png.wav.png.png
+	- OCR_TEXT: Sen eve
+- IMG: Right - FreeSansBold_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeSansBold_75_HF.pbm.wav.png.png
+	- OCR_TEXT: AGU at
+- IMG: Shot  - FreeSerifBold_50_HF.png.wav.png.png
+	- OCR_TEXT: ULL
+- IMG: Shot  - FreeSerif_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: NENW UARO ANUS
+- IMG: Right - FreeSerifBold_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: VCE MUU MO) IUGR CRW US
+- IMG: Right - FreeSansBold_75_LF.png.wav.png.png
+	- OCR_TEXT: HCMC AC incac Ue
+- IMG: Shot  - FreeSans_75_HF.png.wav.png.png
+	- OCR_TEXT: ON aaa a
+- IMG: Shot  - FreeSerifBold_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: OBC Ta
+- IMG: Right - FreeSerifBold_100_LF.pbm.wav.png.png
+	- OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Shot  - FreeMono_25_LF.pbm.wav.png.png
+	- OCR_TEXT: cree
+- IMG: Right - FreeSans_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeSerif_50_LF.pbm.wav.png.png
+	- OCR_TEXT: ?Veen
+ava
+ial
+- IMG: Right - FreeMonoBold_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: ALGAT GUT OF THE GATE
+- IMG: Right - FreeMono_75_HF.png.wav.png.png
+	- OCR_TEXT: NO ACTsMiane] ON OyammOr} Cr dS
+- IMG: Right - FreeSerif_25_LF.png.wav.png.png
+	- OCR_TEXT: Tne
+- IMG: Shot  - FreeMono_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: SHOT IN Th DARK
+- IMG: My Cu - FreeMono_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: 
+- IMG: My Cu - FreeMonoBold_25_HF.pbm.wav.png.png
+	- OCR_TEXT: sant
+- IMG: Right - FreeSansBold_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: HC dMO AC iscac Ue
+- IMG: Right - FreeSans_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: SN RRs Ne
+- IMG: My Cu - FreeSerifBold_100_LF.png.wav.png.png
+	- OCR_TEXT: MY CUP OF TEA
+- IMG: My Cu - FreeMono_25_LF.png.wav.png.png
+	- OCR_TEXT: 
+- IMG: Shot  - FreeMono_25_HF.png.wav.png.png
+	- OCR_TEXT: ian
+a
+Mt
+- IMG: Right - FreeSerif_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeSansBold_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: WCU
+- IMG: Right - FreeSerifBold_25_LF.pbm.wav.png.png
+	- OCR_TEXT: TCUAUSRUM TRU
+- IMG: Right - FreeSerif_25_HF.pbm.wav.png.png
+	- OCR_TEXT: HOUMA
+- IMG: Right - FreeSans_75_HF.png.wav.png.png
+	- OCR_TEXT: AlGnT QUT OF THE GATE
+- IMG: Right - FreeMono_25_HF.pbm.wav.png.png
+	- OCR_TEXT: a |e ie
+- IMG: Shot  - FreeMonoBold_50_LF.pbm.wav.png.png
+	- OCR_TEXT: TO
+- IMG: Right - FreeMonoBold_75_HF.png.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeMonoBold_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: ONC) VACUO) amie Or
+- IMG: Shot  - FreeSerifBold_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: ON Lele ay
+- IMG: Shot  - FreeMonoBold_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: SL
+- IMG: Shot  - FreeSerif_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: EST REAL
+- IMG: Right - FreeMono_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: ARG UMC MRO a tiene Ube
+- IMG: Shot  - FreeMono_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: os (O) Maa sty eta)
+- IMG: Right - FreeMono_25_LF.pbm.wav.png.png
+	- OCR_TEXT: Cee
+- IMG: Shot  - FreeMono_100_LF.pbm.wav.png.png
+	- OCR_TEXT: SH OMRR NNO
+- IMG: Shot  - FreeMono_50_HF.pbm.wav.png.png
+	- OCR_TEXT: 
+- IMG: Shot  - FreeSans_100_HF.png.wav.png.png
+	- OCR_TEXT: OM a Oalai
+- IMG: Right - FreeMonoBold_50_LF.png.wav.png.png
+	- OCR_TEXT: ONG) VMOU) ame er VD
+- IMG: Shot  - FreeMonoBold_100_HF.png.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeSerif_50_HF.pbm.wav.png.png
+	- OCR_TEXT: ea LS
+- IMG: Right - FreeSerif_75_HF.png.wav.png.png
+	- OCR_TEXT: NCU tee
+- IMG: Right - FreeMono_50_HF.pbm.wav.png.png
+	- OCR_TEXT: Sen eve
+- IMG: Right - FreeSansBold_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT OU? OF THE GATE
+- IMG: My Cu - FreeMono_50_LF.png.wav.png.png
+	- OCR_TEXT: ue
+?i
+eer
+- IMG: Shot  - FreeSerifBold_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: SHOTIN THE DARK
+- IMG: Shot  - FreeMonoBold_75_HF.pbm.wav.png.png
+	- OCR_TEXT: en CU
+- IMG: Right - FreeSans_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: CHRO UNG abalac Us
+- IMG: My Cu - FreeSansBold_25_HF.pbm.wav.png.png
+	- OCR_TEXT: et at
+- IMG: My Cu - FreeSans_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: NVAGU ae mia:
+- IMG: Right - FreeSans_25_HF.png.wav.png.png
+	- OCR_TEXT: aby AE iat
+- IMG: Right - FreeSerif_100_HF.pbm.wav.png.png
+	- OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Shot  - FreeMono_75_LF.pbm.wav.png.png
+	- OCR_TEXT: VLG Pee  Neavm bys tti
+- IMG: My Cu - FreeMono_50_HF.pbm.wav.png.png
+	- OCR_TEXT: ean aE
+- IMG: Right - FreeSansBold_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: TGs MOAN ambi 4h
+- IMG: My Cu - FreeSans_75_HF.pbm.wav.png.png
+	- OCR_TEXT: NaC UmO mis
+- IMG: My Cu - FreeSerifBold_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: \Y CUP OF TEA
+- IMG: Right - FreeMono_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF Thk GATE
+- IMG: My Cu - FreeSansBold_100_LF.png.wav.png.png
+	- OCR_TEXT: het te ars!
+- IMG: My Cu - FreeMonoBold_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: mute a
+- IMG: My Cu - FreeSerifBold_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: CCU
+- IMG: Shot  - FreeSansBold_25_HF.pbm.wav.png.png
+	- OCR_TEXT: a
+- IMG: My Cu - FreeMono_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: Un
+mt
+anes
+ee
+- IMG: Shot  - FreeSerif_100_LF.pbm.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: My Cu - FreeMono_75_HF.png.wav.png.png
+	- OCR_TEXT: UNMR OO ie
+- IMG: My Cu - FreeSans_25_LF.pbm.wav.png.png
+	- OCR_TEXT: Tana
+- IMG: My Cu - FreeMonoBold_75_HF.png.wav.png.png
+	- OCR_TEXT: VNGG SO
+- IMG: My Cu - FreeSans_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: nahatl als,
+- IMG: My Cu - FreeSans_100_LF.pbm.wav.png.png
+	- OCR_TEXT: VhaGeee ata:
+- IMG: Right - FreeMono_50_LF.jpeg.wav.png.png
+	- OCR_TEXT: Roo WT QF THE GATE
+- IMG: My Cu - FreeSerif_50_LF.png.wav.png.png
+	- OCR_TEXT: ?Veen
+ava
+ial
+- IMG: Right - FreeSerif_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: NCIC MO mae nerad ie
+- IMG: Shot  - FreeSerifBold_25_HF.pbm.wav.png.png
+	- OCR_TEXT: IADMLIIRULAS
+- IMG: Shot  - FreeSerifBold_100_LF.png.wav.png.png
+	- OCR_TEXT: FO ET OM DN ia,
+- IMG: Shot  - FreeMonoBold_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: ce a
+- IMG: Shot  - FreeSerifBold_75_HF.png.wav.png.png
+	- OCR_TEXT: HN LUM
+- IMG: Right - FreeSansBold_75_HF.png.wav.png.png
+	- OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: My Cu - FreeSansBold_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: aaa
+- IMG: Right - FreeMonoBold_25_HF.pbm.wav.png.png
+	- OCR_TEXT: Ca abe
+- IMG: Shot  - FreeSerif_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeSerif_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: ROUND
+- IMG: My Cu - FreeMonoBold_100_HF.pbm.wav.png.png
+	- OCR_TEXT: MY CUP OF TEA
+- IMG: Right - FreeSans_100_LF.pbm.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeSans_75_HF.pbm.wav.png.png
+	- OCR_TEXT: ON aaa a
+- IMG: Right - FreeMonoBold_75_LF.png.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeSerifBold_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: melee) Di
+- IMG: Shot  - FreeSerifBold_50_LF.pbm.wav.png.png
+	- OCR_TEXT: OMAP E NGS
+- IMG: Right - FreeSansBold_25_LF.pbm.wav.png.png
+	- OCR_TEXT: Ve Amnl NAO a hae
+- IMG: Shot  - FreeMono_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: 
+- IMG: My Cu - FreeSerifBold_100_HF.png.wav.png.png
+	- OCR_TEXT: MY CUP OF TEA
+- IMG: Shot  - FreeSerif_25_LF.png.wav.png.png
+	- OCR_TEXT: TD AASI INRA
+- IMG: Shot  - FreeSansBold_50_HF.png.wav.png.png
+	- OCR_TEXT: ea
+- IMG: Shot  - FreeSerifBold_50_LF.png.wav.png.png
+	- OCR_TEXT: OMAP E NGS
+- IMG: My Cu - FreeSerifBold_75_LF.pbm.wav.png.png
+	- OCR_TEXT: AVVO) aa aoe
+- IMG: Shot  - FreeSansBold_25_LF.pbm.wav.png.png
+	- OCR_TEXT: aH AM ate
+- IMG: Shot  - FreeMono_50_HF.png.wav.png.png
+	- OCR_TEXT: 
+- IMG: My Cu - FreeSans_50_HF.pbm.wav.png.png
+	- OCR_TEXT: eee ass
+- IMG: Shot  - FreeSansBold_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: May Tt
+- IMG: Shot  - FreeSerif_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeSansBold_75_LF.pbm.wav.png.png
+	- OCR_TEXT: HCMC AC incac Ue
+- IMG: Shot  - FreeMonoBold_75_HF.jpeg.wav.png.png
+	- OCR_TEXT: SIO a CD
+- IMG: Right - FreeSans_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: a Ae rials
+- IMG: Right - FreeMono_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Shot  - FreeSerifBold_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: OMINOUS TEENA
+- IMG: Right - FreeSerifBold_25_HF.png.wav.png.png
+	- OCR_TEXT: AULA
+- IMG: Right - FreeSerif_75_HF.pbm.wav.png.png
+	- OCR_TEXT: NCU tee
+- IMG: My Cu - FreeSerifBold_25_HF.jpeg.wav.png.png
+	- OCR_TEXT: aE aia
+- IMG: Right - FreeSans_50_HF.pbm.wav.png.png
+	- OCR_TEXT: COUR tes
+- IMG: My Cu - FreeSansBold_50_HF.png.wav.png.png
+	- OCR_TEXT: WA aN aS!
+- IMG: Right - FreeSerif_100_LF.png.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeSans_25_LF.png.wav.png.png
+	- OCR_TEXT: SEARO NG Ne
+- IMG: My Cu - FreeMono_50_HF.png.wav.png.png
+	- OCR_TEXT: ean aE
+- IMG: Right - FreeMonoBold_100_HF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeMono_25_LF.png.wav.png.png
+	- OCR_TEXT: Cee
+- IMG: My Cu - FreeSerif_100_LF.jpeg.wav.png.png
+	- OCR_TEXT: VOC ere aye
+- IMG: Shot  - FreeSansBold_25_LF.png.wav.png.png
+	- OCR_TEXT: aH AM ate
+- IMG: My Cu - FreeSerifBold_75_HF.png.wav.png.png
+	- OCR_TEXT: DOU Ua vie
+- IMG: Right - FreeMonoBold_75_LF.jpeg.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeSansBold_75_HF.png.wav.png.png
+	- OCR_TEXT: Mala i
+- IMG: My Cu - FreeMonoBold_25_LF.png.wav.png.png
+	- OCR_TEXT: at |
+- IMG: Right - FreeSerifBold_25_LF.jpeg.wav.png.png
+	- OCR_TEXT: CUAUS RU Tmt
+- IMG: Right - FreeSerif_25_HF.png.wav.png.png
+	- OCR_TEXT: HOUMA
+- IMG: Right - FreeSans_50_HF.jpeg.wav.png.png
+	- OCR_TEXT: COUR tls
+- IMG: Right - FreeMonoBold_75_HF.pbm.wav.png.png
+	- OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeSerifBold_50_HF.png.wav.png.png
+	- OCR_TEXT: NRG atin
+- IMG: Shot  - FreeSerif_50_LF.png.wav.png.png
+	- OCR_TEXT: NOAM ATL ADAIGIN
+- IMG: Right - FreeSerif_50_LF.png.wav.png.png
+	- OCR_TEXT: GHA ROMA O em VoL Te
+dophy6@dophy6-K56CM ~/S/U/M/Progetto> 

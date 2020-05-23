@@ -1,0 +1,1440 @@
+- IMG: Jig I - FreeSansBold_25_LF.jpeg.wav.png.png - OCR_TEXT: nea
+- IMG: Jig I - FreeMono_25_LF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Jig I - FreeSerif_25_LF.jpeg.wav.png.png - OCR_TEXT: Ut
+- IMG: Jig I - FreeMonoBold_100_LF.jpeg.wav.png.png - OCR_TEXT: JIG 15 UP
+- IMG: Jig I - FreeMono_100_HF.png.wav.png.png - OCR_TEXT: JIG [5 UP
+- IMG: Jig I - FreeSerif_50_HF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: Jig I - FreeMono_25_LF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: Jig I - FreeMonoBold_50_LF.png.wav.png.png - OCR_TEXT: Ca
+- IMG: Jig I - FreeSerif_25_HF.jpeg.wav.png.png - OCR_TEXT: ru
+- IMG: Jig I - FreeMono_100_HF.jpeg.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSerif_75_LF.jpeg.wav.png.png - OCR_TEXT: Gabe
+- IMG: Jig I - FreeMono_100_LF.png.wav.png.png - OCR_TEXT: UpRC een a
+- IMG: Jig I - FreeSansBold_25_HF.jpeg.wav.png.png - OCR_TEXT: TE
+- IMG: Jig I - FreeSerifBold_50_HF.jpeg.wav.png.png - OCR_TEXT: th
+- IMG: Jig I - FreeMono_75_LF.pbm.wav.png.png - OCR_TEXT: Ultemu.
+- IMG: Jig I - FreeSerifBold_25_HF.pbm.wav.png.png - OCR_TEXT: aaa
+- IMG: Jig I - FreeMono_75_LF.jpeg.wav.png.png - OCR_TEXT: UeRm.
+- IMG: Jig I - FreeSans_75_HF.png.wav.png.png - OCR_TEXT: GIS UP
+- IMG: Jig I - FreeSerifBold_75_HF.jpeg.wav.png.png - OCR_TEXT: aa
+- IMG: Jig I - FreeSansBold_75_LF.jpeg.wav.png.png - OCR_TEXT: CARO
+- IMG: Jig I - FreeSans_50_LF.png.wav.png.png - OCR_TEXT: CNN
+- IMG: Jig I - FreeSansBold_75_HF.png.wav.png.png - OCR_TEXT: MCN
+- IMG: Jig I - FreeMonoBold_75_LF.png.wav.png.png - OCR_TEXT: ite
+- IMG: Jig I - FreeSansBold_100_LF.pbm.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSansBold_50_HF.jpeg.wav.png.png - OCR_TEXT: NU
+- IMG: Jig I - FreeMonoBold_50_HF.jpeg.wav.png.png - OCR_TEXT: AC
+- IMG: Jig I - FreeSerifBold_75_LF.jpeg.wav.png.png - OCR_TEXT: Naha
+- IMG: Jig I - FreeSansBold_50_HF.png.wav.png.png - OCR_TEXT: JIG 3 UF
+- IMG: Jig I - FreeSerif_100_HF.png.wav.png.png - OCR_TEXT: GINO
+- IMG: Jig I - FreeSerifBold_50_LF.png.wav.png.png - OCR_TEXT: (ahs
+- IMG: Jig I - FreeMono_100_LF.pbm.wav.png.png - OCR_TEXT: UpRC een a
+- IMG: Jig I - FreeSansBold_25_LF.png.wav.png.png - OCR_TEXT: CRY
+- IMG: Jig I - FreeSerifBold_25_LF.pbm.wav.png.png - OCR_TEXT: NGWaR
+- IMG: Jig I - FreeMonoBold_100_HF.jpeg.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSerifBold_100_HF.pbm.wav.png.png - OCR_TEXT: WaNU
+- IMG: Jig I - FreeSansBold_100_HF.jpeg.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSerifBold_50_LF.pbm.wav.png.png - OCR_TEXT: (ahs
+- IMG: Jig I - FreeMono_50_LF.png.wav.png.png - OCR_TEXT: 
+- IMG: Jig I - FreeSerifBold_75_HF.pbm.wav.png.png - OCR_TEXT: aa
+- IMG: Jig I - FreeMonoBold_100_LF.pbm.wav.png.png - OCR_TEXT: UaCCan a)
+- IMG: Jig I - FreeSerifBold_75_LF.png.wav.png.png - OCR_TEXT: Nita ha
+- IMG: Jig I - FreeSansBold_50_HF.pbm.wav.png.png - OCR_TEXT: JIG 3 UF
+- IMG: Jig I - FreeSerifBold_100_LF.jpeg.wav.png.png - OCR_TEXT: eA
+- IMG: Jig I - FreeSans_50_LF.pbm.wav.png.png - OCR_TEXT: CNN
+- IMG: Jig I - FreeMono_75_HF.jpeg.wav.png.png - OCR_TEXT: ita tomy
+- IMG: Jig I - FreeSerif_100_LF.png.wav.png.png - OCR_TEXT: CNN
+- IMG: Jig I - FreeSans_75_LF.pbm.wav.png.png - OCR_TEXT: JIGISUP
+- IMG: Jig I - FreeSans_75_LF.png.wav.png.png - OCR_TEXT: JIGISUP
+- IMG: Jig I - FreeMonoBold_100_HF.pbm.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSerif_75_LF.png.wav.png.png - OCR_TEXT: Gabel
+- IMG: Jig I - FreeSans_100_LF.pbm.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSans_100_HF.png.wav.png.png - OCR_TEXT: Cay
+- IMG: Jig I - FreeSerif_100_HF.pbm.wav.png.png - OCR_TEXT: GINO
+- IMG: Jig I - FreeSerifBold_50_HF.pbm.wav.png.png - OCR_TEXT: tah
+- IMG: Jig I - FreeSansBold_100_HF.png.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeMono_50_HF.png.wav.png.png - OCR_TEXT: 
+- IMG: Jig I - FreeSerif_50_HF.png.wav.png.png - OCR_TEXT: 
+- IMG: Jig I - FreeSans_25_LF.png.wav.png.png - OCR_TEXT: Wise
+- IMG: Jig I - FreeSans_100_HF.jpeg.wav.png.png - OCR_TEXT: CRs
+- IMG: Jig I - FreeSerifBold_75_HF.png.wav.png.png - OCR_TEXT: aa
+- IMG: Jig I - FreeSerif_25_LF.png.wav.png.png - OCR_TEXT: ht
+- IMG: Jig I - FreeSans_100_HF.pbm.wav.png.png - OCR_TEXT: Cay
+- IMG: Jig I - FreeMonoBold_75_LF.jpeg.wav.png.png - OCR_TEXT: te
+- IMG: Jig I - FreeMonoBold_75_HF.png.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSansBold_50_LF.pbm.wav.png.png - OCR_TEXT: RLU
+- IMG: Jig I - FreeMono_100_HF.pbm.wav.png.png - OCR_TEXT: JIG [5 UP
+- IMG: Jig I - FreeMonoBold_100_HF.png.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSans_50_LF.jpeg.wav.png.png - OCR_TEXT: aN
+- IMG: Jig I - FreeSerifBold_75_LF.pbm.wav.png.png - OCR_TEXT: Nita ha
+- IMG: Jig I - FreeSerif_75_HF.pbm.wav.png.png - OCR_TEXT: GNU
+- IMG: Jig I - FreeSerif_25_HF.pbm.wav.png.png - OCR_TEXT: ru
+- IMG: Jig I - FreeSerif_25_LF.pbm.wav.png.png - OCR_TEXT: ht
+- IMG: Jig I - FreeMonoBold_50_HF.png.wav.png.png - OCR_TEXT: AC
+- IMG: Jig I - FreeMonoBold_50_LF.jpeg.wav.png.png - OCR_TEXT: Cn
+- IMG: Jig I - FreeSerifBold_50_HF.png.wav.png.png - OCR_TEXT: tah
+- IMG: Jig I - FreeSerifBold_100_LF.png.wav.png.png - OCR_TEXT: IG ISUP
+- IMG: Jig I - FreeSansBold_100_HF.pbm.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeMono_50_HF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Jig I - FreeMono_50_HF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: Jig I - FreeSans_50_HF.png.wav.png.png - OCR_TEXT: tr
+- IMG: Jig I - FreeSansBold_75_HF.pbm.wav.png.png - OCR_TEXT: MCN
+- IMG: Jig I - FreeSans_100_LF.png.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSerif_75_HF.jpeg.wav.png.png - OCR_TEXT: GNU
+- IMG: Jig I - FreeMono_75_LF.png.wav.png.png - OCR_TEXT: Ultemu.
+- IMG: Jig I - FreeSans_100_LF.jpeg.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSerif_100_LF.pbm.wav.png.png - OCR_TEXT: CNN
+- IMG: Jig I - FreeMonoBold_25_HF.png.wav.png.png - OCR_TEXT: yt
+- IMG: Jig I - FreeSerif_75_HF.png.wav.png.png - OCR_TEXT: GNU
+- IMG: Jig I - FreeSerif_100_LF.jpeg.wav.png.png - OCR_TEXT: GaN
+- IMG: Jig I - FreeSerif_50_LF.png.wav.png.png - OCR_TEXT: NENA
+- IMG: Jig I - FreeSansBold_25_HF.pbm.wav.png.png - OCR_TEXT: GIG UF
+- IMG: Jig I - FreeSans_25_HF.png.wav.png.png - OCR_TEXT: I
+- IMG: Jig I - FreeSerif_50_HF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Jig I - FreeMono_50_LF.jpeg.wav.png.png - OCR_TEXT: ceo
+- IMG: Jig I - FreeSerifBold_25_LF.png.wav.png.png - OCR_TEXT: NGWaR
+- IMG: Jig I - FreeMonoBold_25_HF.jpeg.wav.png.png - OCR_TEXT: ac
+- IMG: Jig I - FreeSerifBold_100_HF.jpeg.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeMonoBold_25_LF.png.wav.png.png - OCR_TEXT: wen
+- IMG: Jig I - FreeSansBold_50_LF.png.wav.png.png - OCR_TEXT: RLU
+- IMG: Jig I - FreeSerifBold_50_LF.jpeg.wav.png.png - OCR_TEXT: (aha
+- IMG: Jig I - FreeSerif_50_LF.pbm.wav.png.png - OCR_TEXT: NENA
+- IMG: Jig I - FreeSans_75_LF.jpeg.wav.png.png - OCR_TEXT: JIGISUP
+- IMG: Jig I - FreeMono_75_HF.pbm.wav.png.png - OCR_TEXT: ita toms
+- IMG: Jig I - FreeSans_50_HF.pbm.wav.png.png - OCR_TEXT: tr
+- IMG: Jig I - FreeMono_75_HF.png.wav.png.png - OCR_TEXT: ita toms
+- IMG: Jig I - FreeMono_25_HF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: Jig I - FreeSans_25_HF.jpeg.wav.png.png - OCR_TEXT: i
+- IMG: Jig I - FreeSansBold_75_LF.png.wav.png.png - OCR_TEXT: CARR
+- IMG: Jig I - FreeSans_25_HF.pbm.wav.png.png - OCR_TEXT: I
+- IMG: Jig I - FreeMono_25_LF.png.wav.png.png - OCR_TEXT: 
+- IMG: Jig I - FreeMonoBold_100_LF.png.wav.png.png - OCR_TEXT: UaCCan a)
+- IMG: Jig I - FreeSerifBold_100_LF.pbm.wav.png.png - OCR_TEXT: IG ISUP
+- IMG: Jig I - FreeSansBold_100_LF.jpeg.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSans_75_HF.jpeg.wav.png.png - OCR_TEXT: CUS
+- IMG: Jig I - FreeMono_100_LF.jpeg.wav.png.png - OCR_TEXT: ic Os
+- IMG: Jig I - FreeSans_75_HF.pbm.wav.png.png - OCR_TEXT: GIS UP
+- IMG: Jig I - FreeMonoBold_75_LF.pbm.wav.png.png - OCR_TEXT: ite
+- IMG: Jig I - FreeMonoBold_75_HF.jpeg.wav.png.png - OCR_TEXT: JIG [5 UP
+- IMG: Jig I - FreeSerif_25_HF.png.wav.png.png - OCR_TEXT: ru
+- IMG: Jig I - FreeSans_25_LF.pbm.wav.png.png - OCR_TEXT: Wise
+- IMG: Jig I - FreeSerifBold_100_HF.png.wav.png.png - OCR_TEXT: WaNU
+- IMG: Jig I - FreeSansBold_50_LF.jpeg.wav.png.png - OCR_TEXT: GRAY
+- IMG: Jig I - FreeSerifBold_25_HF.png.wav.png.png - OCR_TEXT: aaa
+- IMG: Jig I - FreeMonoBold_75_HF.pbm.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeSansBold_100_LF.png.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Jig I - FreeMonoBold_25_LF.pbm.wav.png.png - OCR_TEXT: wen
+- IMG: Jig I - FreeSans_25_LF.jpeg.wav.png.png - OCR_TEXT: RIA
+- IMG: Jig I - FreeSerif_75_LF.pbm.wav.png.png - OCR_TEXT: Gabel
+- IMG: Jig I - FreeSansBold_25_HF.png.wav.png.png - OCR_TEXT: GIG UF
+- IMG: Jig I - FreeMonoBold_25_LF.jpeg.wav.png.png - OCR_TEXT: wet
+- IMG: Jig I - FreeSansBold_75_LF.pbm.wav.png.png - OCR_TEXT: CARR
+- IMG: Jig I - FreeMonoBold_25_HF.pbm.wav.png.png - OCR_TEXT: yt
+- IMG: Jig I - FreeSans_50_HF.jpeg.wav.png.png - OCR_TEXT: Ver
+- IMG: Jig I - FreeMonoBold_50_HF.pbm.wav.png.png - OCR_TEXT: AC
+- IMG: Jig I - FreeSansBold_75_HF.jpeg.wav.png.png - OCR_TEXT: MCN
+- IMG: Jig I - FreeMono_25_HF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Jig I - FreeSerifBold_25_HF.jpeg.wav.png.png - OCR_TEXT: Oba
+- IMG: Jig I - FreeSerif_100_HF.jpeg.wav.png.png - OCR_TEXT: JJG TS UP
+- IMG: Jig I - FreeMonoBold_50_LF.pbm.wav.png.png - OCR_TEXT: Ca
+- IMG: Jig I - FreeMono_25_HF.png.wav.png.png - OCR_TEXT: 
+- IMG: Jig I - FreeSerifBold_25_LF.jpeg.wav.png.png - OCR_TEXT: Hiri
+- IMG: Jig I - FreeMono_50_LF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Jig I - FreeSerif_50_LF.jpeg.wav.png.png - OCR_TEXT: NaN po
+- IMG: Jig I - FreeSansBold_25_LF.pbm.wav.png.png - OCR_TEXT: CRY
+- IMG: Right - FreeSerif_75_LF.pbm.wav.png.png - OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: My Cu - FreeSerifBold_100_HF.pbm.wav.png.png - OCR_TEXT: MY CUP OF TEA
+- IMG: My Cu - FreeSans_50_HF.png.wav.png.png - OCR_TEXT: eee ass
+- IMG: My Cu - FreeSerifBold_25_LF.pbm.wav.png.png - OCR_TEXT: VC EGH AE
+- IMG: Right - FreeSansBold_25_LF.png.wav.png.png - OCR_TEXT: Ve Amnl NAO a hae
+- IMG: My Cu - FreeSerif_25_LF.jpeg.wav.png.png - OCR_TEXT: ea
+- IMG: Shot  - FreeSans_25_LF.png.wav.png.png - OCR_TEXT: BN Aa ha
+- IMG: My Cu - FreeSans_50_LF.png.wav.png.png - OCR_TEXT: NAA aia
+- IMG: Shot  - FreeSansBold_100_LF.pbm.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeSerif_50_LF.jpeg.wav.png.png - OCR_TEXT: RIGHT OLTOE THE GAT:
+- IMG: Right - FreeSansBold_50_HF.pbm.wav.png.png - OCR_TEXT: CU a
+- IMG: Shot  - FreeMono_25_LF.jpeg.wav.png.png - OCR_TEXT: niet He
+- IMG: My Cu - FreeSerif_75_LF.png.wav.png.png - OCR_TEXT: AMG men
+- IMG: My Cu - FreeSerif_100_LF.pbm.wav.png.png - OCR_TEXT: OGG ema a
+- IMG: Right - FreeSerifBold_50_LF.jpeg.wav.png.png - OCR_TEXT: COALS] He THT
+- IMG: My Cu - FreeSerif_75_HF.png.wav.png.png - OCR_TEXT: NGC atlas
+- IMG: Shot  - FreeSans_25_HF.pbm.wav.png.png - OCR_TEXT: a
+- IMG: Right - FreeSans_50_LF.pbm.wav.png.png - OCR_TEXT: ON AO UEC aah acre
+- IMG: Right - FreeSerifBold_75_HF.pbm.wav.png.png - OCR_TEXT: NU RCD
+- IMG: Shot  - FreeSerif_50_LF.pbm.wav.png.png - OCR_TEXT: NOAM ATL ADAIGIN
+- IMG: My Cu - FreeSerifBold_25_HF.pbm.wav.png.png - OCR_TEXT: aE ma
+- IMG: My Cu - FreeSerifBold_100_LF.jpeg.wav.png.png - OCR_TEXT: MY CUP OF TEA
+- IMG: My Cu - FreeSerif_75_LF.pbm.wav.png.png - OCR_TEXT: AMG men
+- IMG: Shot  - FreeSerif_25_HF.pbm.wav.png.png - OCR_TEXT: EDT REAL
+- IMG: My Cu - FreeMonoBold_50_HF.pbm.wav.png.png - OCR_TEXT: Ua
+- IMG: My Cu - FreeSerifBold_100_HF.jpeg.wav.png.png - OCR_TEXT: NOU te aioe)
+- IMG: Shot  - FreeSerif_25_LF.jpeg.wav.png.png - OCR_TEXT: TAR ALA
+- IMG: Shot  - FreeSerif_100_HF.pbm.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeMono_25_HF.png.wav.png.png - OCR_TEXT: a |e ie
+- IMG: Right - FreeSans_25_HF.pbm.wav.png.png - OCR_TEXT: aby AE iat
+- IMG: Shot  - FreeSerif_100_HF.png.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Shot  - FreeMonoBold_25_HF.pbm.wav.png.png - OCR_TEXT: Sa
+- IMG: Shot  - FreeSansBold_50_HF.jpeg.wav.png.png - OCR_TEXT: ee
+- IMG: Right - FreeMono_25_LF.jpeg.wav.png.png - OCR_TEXT: aC
+- IMG: My Cu - FreeSerif_100_LF.png.wav.png.png - OCR_TEXT: OGG ema a
+- IMG: Right - FreeMono_25_HF.jpeg.wav.png.png - OCR_TEXT: a |e ce
+- IMG: My Cu - FreeMono_100_HF.png.wav.png.png - OCR_TEXT: VGC Oar
+- IMG: Shot  - FreeSans_50_HF.pbm.wav.png.png - OCR_TEXT: aay
+- IMG: My Cu - FreeSerif_25_LF.pbm.wav.png.png - OCR_TEXT: Ma
+- IMG: Shot  - FreeSansBold_50_LF.png.wav.png.png - OCR_TEXT: MLM bs oat a
+- IMG: Right - FreeSansBold_25_HF.png.wav.png.png - OCR_TEXT: UU aa
+- IMG: Shot  - FreeSerifBold_75_LF.pbm.wav.png.png - OCR_TEXT: OMS RR NG
+- IMG: My Cu - FreeSansBold_100_LF.pbm.wav.png.png - OCR_TEXT: het te ars!
+- IMG: Right - FreeSans_75_LF.pbm.wav.png.png - OCR_TEXT: PICMG UR amisder ie
+- IMG: Shot  - FreeSansBold_75_LF.png.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: My Cu - FreeSansBold_50_HF.pbm.wav.png.png - OCR_TEXT: WA aN aS!
+- IMG: My Cu - FreeSerifBold_50_LF.pbm.wav.png.png - OCR_TEXT: ROB t Ue
+- IMG: Shot  - FreeSerif_50_HF.jpeg.wav.png.png - OCR_TEXT: TAMU
+- IMG: Shot  - FreeSerifBold_50_LF.jpeg.wav.png.png - OCR_TEXT: TOMO MLE Gs
+- IMG: My Cu - FreeSerif_25_LF.png.wav.png.png - OCR_TEXT: Ma
+- IMG: My Cu - FreeMonoBold_75_HF.jpeg.wav.png.png - OCR_TEXT: VNGG RO) a
+- IMG: Right - FreeSerifBold_100_HF.pbm.wav.png.png - OCR_TEXT: VCO MUL UMA) IUGR CRW UD
+- IMG: My Cu - FreeSansBold_50_LF.png.wav.png.png - OCR_TEXT: VAG U Sa Nm
+- IMG: Right - FreeSerif_50_LF.pbm.wav.png.png - OCR_TEXT: GHA ROMA O em VoL Te
+- IMG: Right - FreeSerifBold_75_HF.jpeg.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeSerifBold_100_HF.png.wav.png.png - OCR_TEXT: LOBULE a
+- IMG: Shot  - FreeMonoBold_50_LF.jpeg.wav.png.png - OCR_TEXT: TU
+- IMG: Shot  - FreeMonoBold_25_LF.png.wav.png.png - OCR_TEXT: ce ee
+- IMG: Right - FreeSerif_25_LF.pbm.wav.png.png - OCR_TEXT: Tne
+- IMG: Right - FreeMonoBold_50_HF.jpeg.wav.png.png - OCR_TEXT: Sat OL an eV
+- IMG: Right - FreeSans_75_HF.jpeg.wav.png.png - OCR_TEXT: Allan? QUT OF THE GATE
+- IMG: Right - FreeSans_75_LF.png.wav.png.png - OCR_TEXT: PICMG UR amisder ie
+- IMG: Right - FreeMonoBold_100_LF.png.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeSans_50_HF.png.wav.png.png - OCR_TEXT: COUR tes
+- IMG: Right - FreeMono_75_HF.pbm.wav.png.png - OCR_TEXT: NO ACTsMiane] ON OyammOr} Cr dS
+- IMG: My Cu - FreeMonoBold_100_HF.png.wav.png.png - OCR_TEXT: MY CUP OF TEA
+- IMG: My Cu - FreeSansBold_75_LF.jpeg.wav.png.png - OCR_TEXT: The mas
+- IMG: My Cu - FreeMonoBold_50_LF.pbm.wav.png.png - OCR_TEXT: mute
+- IMG: Shot  - FreeSerifBold_25_LF.pbm.wav.png.png - OCR_TEXT: THURS IMERI
+- IMG: Shot  - FreeMonoBold_75_HF.png.wav.png.png - OCR_TEXT: en CU
+- IMG: My Cu - FreeMono_100_HF.jpeg.wav.png.png - OCR_TEXT: VOC) Oar
+- IMG: Right - FreeMono_100_LF.png.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeSansBold_100_LF.jpeg.wav.png.png - OCR_TEXT: het te ar
+- IMG: Shot  - FreeSerif_50_HF.png.wav.png.png - OCR_TEXT: TAMU
+- IMG: My Cu - FreeSerifBold_25_HF.png.wav.png.png - OCR_TEXT: aE ma
+- IMG: My Cu - FreeSansBold_25_HF.png.wav.png.png - OCR_TEXT: et at
+- IMG: Right - FreeMono_50_HF.jpeg.wav.png.png - OCR_TEXT: ARREST Oa
+- IMG: Right - FreeSans_100_LF.jpeg.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeSansBold_75_LF.pbm.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeMonoBold_25_LF.jpeg.wav.png.png - OCR_TEXT: net
+- IMG: My Cu - FreeMonoBold_50_HF.jpeg.wav.png.png - OCR_TEXT: MY CUP OF TEA
+- IMG: Right - FreeSerifBold_50_HF.jpeg.wav.png.png - OCR_TEXT: TORU
+- IMG: My Cu - FreeMono_75_LF.pbm.wav.png.png - OCR_TEXT: UN On GLO) nO ams
+- IMG: Shot  - FreeSansBold_50_HF.pbm.wav.png.png - OCR_TEXT: ea
+- IMG: Right - FreeSansBold_25_HF.pbm.wav.png.png - OCR_TEXT: UU aa
+- IMG: Right - FreeSansBold_100_LF.png.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeMonoBold_25_LF.pbm.wav.png.png - OCR_TEXT: i ee a
+- IMG: Shot  - FreeSans_25_HF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: Right - FreeSansBold_100_LF.pbm.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeMonoBold_100_LF.pbm.wav.png.png - OCR_TEXT: bee) tO) may
+- IMG: My Cu - FreeSansBold_25_LF.png.wav.png.png - OCR_TEXT: NY CUE OF TEA
+- IMG: Shot  - FreeSansBold_25_LF.jpeg.wav.png.png - OCR_TEXT: TARA
+- IMG: Shot  - FreeSans_50_HF.jpeg.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: My Cu - FreeSans_100_HF.png.wav.png.png - OCR_TEXT: (CU eel,
+- IMG: My Cu - FreeMono_25_HF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Right - FreeMonoBold_50_HF.pbm.wav.png.png - OCR_TEXT: aC YAO) a eV
+- IMG: My Cu - FreeMono_100_LF.jpeg.wav.png.png - OCR_TEXT: MY CUP OF IBA
+- IMG: Shot  - FreeSerif_75_LF.jpeg.wav.png.png - OCR_TEXT: TOL IMUS ORBAN
+- IMG: Shot  - FreeMonoBold_25_HF.png.wav.png.png - OCR_TEXT: Sa
+- IMG: My Cu - FreeSansBold_100_HF.pbm.wav.png.png - OCR_TEXT: TRU ea
+- IMG: My Cu - FreeMonoBold_100_LF.jpeg.wav.png.png - OCR_TEXT: Nib Gt @le) at) my
+- IMG: Shot  - FreeMonoBold_100_HF.jpeg.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeSerifBold_50_HF.png.wav.png.png - OCR_TEXT: TCU
+- IMG: Right - FreeSerifBold_25_HF.jpeg.wav.png.png - OCR_TEXT: ARORA
+- IMG: My Cu - FreeSansBold_75_LF.pbm.wav.png.png - OCR_TEXT: hee ais
+- IMG: My Cu - FreeSerif_50_HF.png.wav.png.png - OCR_TEXT: Na ( A
+- IMG: My Cu - FreeSans_75_LF.png.wav.png.png - OCR_TEXT: NhaGuiaQmi a
+- IMG: Shot  - FreeSans_100_LF.png.wav.png.png - OCR_TEXT: ea OUI RR eR DANeIA
+- IMG: My Cu - FreeSans_50_HF.jpeg.wav.png.png - OCR_TEXT: Wea ass
+- IMG: My Cu - FreeMono_75_HF.pbm.wav.png.png - OCR_TEXT: UNMR OO ie
+- IMG: Shot  - FreeSansBold_75_HF.jpeg.wav.png.png - OCR_TEXT: A Mala
+- IMG: My Cu - FreeMono_25_LF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Shot  - FreeMono_100_LF.png.wav.png.png - OCR_TEXT: SH OMRR NNO
+- IMG: My Cu - FreeMono_100_HF.pbm.wav.png.png - OCR_TEXT: VGC Oar
+- IMG: My Cu - FreeSerif_75_HF.pbm.wav.png.png - OCR_TEXT: NGC atlas
+- IMG: Shot  - FreeSans_100_HF.jpeg.wav.png.png - OCR_TEXT: NM sa Oalai
+- IMG: Shot  - FreeSerifBold_25_LF.jpeg.wav.png.png - OCR_TEXT: SHWRS TIMER
+- IMG: My Cu - FreeMono_75_LF.jpeg.wav.png.png - OCR_TEXT: UanOU nO) ots
+- IMG: Shot  - FreeMonoBold_75_LF.jpeg.wav.png.png - OCR_TEXT: SI CMa Wel MUNA
+- IMG: My Cu - FreeMonoBold_25_HF.png.wav.png.png - OCR_TEXT: sant
+- IMG: My Cu - FreeSans_100_LF.jpeg.wav.png.png - OCR_TEXT: VhaGelne ata
+- IMG: Right - FreeMono_75_LF.pbm.wav.png.png - OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Shot  - FreeSerif_75_HF.png.wav.png.png - OCR_TEXT: HOMME RDEV
+- IMG: Right - FreeMono_100_HF.jpeg.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeSans_75_LF.jpeg.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeSerif_100_LF.pbm.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeSans_25_LF.png.wav.png.png - OCR_TEXT: Tana
+- IMG: Shot  - FreeSans_50_LF.pbm.wav.png.png - OCR_TEXT: SOM Mtaea Dh
+- IMG: Right - FreeSerifBold_75_LF.jpeg.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeMonoBold_100_HF.pbm.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeSans_75_HF.jpeg.wav.png.png - OCR_TEXT: aCe
+- IMG: Right - FreeSerifBold_75_HF.png.wav.png.png - OCR_TEXT: NU RCD
+- IMG: My Cu - FreeMonoBold_50_LF.png.wav.png.png - OCR_TEXT: mute
+- IMG: Shot  - FreeSerifBold_50_HF.jpeg.wav.png.png - OCR_TEXT: UAL
+- IMG: Shot  - FreeSans_50_LF.png.wav.png.png - OCR_TEXT: SOM Mtaea Dh
+- IMG: Right - FreeSansBold_100_HF.png.wav.png.png - OCR_TEXT: UCU a aC
+- IMG: Shot  - FreeMono_50_LF.pbm.wav.png.png - OCR_TEXT: a T sf ik A a ie H l= = is 1! a a eel
+- IMG: Right - FreeSansBold_75_HF.jpeg.wav.png.png - OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: My Cu - FreeSerif_50_LF.jpeg.wav.png.png - OCR_TEXT: ?een svat ain
+- IMG: Right - FreeSans_25_LF.pbm.wav.png.png - OCR_TEXT: SEARO NG Ne
+- IMG: Right - FreeSansBold_100_LF.jpeg.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeMonoBold_75_LF.png.wav.png.png - OCR_TEXT: Vet Oma
+- IMG: Shot  - FreeSansBold_100_LF.jpeg.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Shot  - FreeSerif_75_LF.png.wav.png.png - OCR_TEXT: ST OLMIS RDU
+- IMG: My Cu - FreeSansBold_25_HF.jpeg.wav.png.png - OCR_TEXT: et at
+- IMG: My Cu - FreeSerif_100_HF.pbm.wav.png.png - OCR_TEXT: Pe aC hen
+- IMG: My Cu - FreeSerifBold_25_LF.jpeg.wav.png.png - OCR_TEXT: NCTE
+- IMG: My Cu - FreeSerif_100_HF.png.wav.png.png - OCR_TEXT: Pe aC hen
+- IMG: Shot  - FreeMonoBold_50_HF.jpeg.wav.png.png - OCR_TEXT: SUE SL
+- IMG: Right - FreeSerifBold_25_LF.png.wav.png.png - OCR_TEXT: TCUAUSRUM TRU
+- IMG: My Cu - FreeSans_75_LF.jpeg.wav.png.png - OCR_TEXT: NhaGuiaGimla
+- IMG: My Cu - FreeSans_100_LF.png.wav.png.png - OCR_TEXT: VhaGeee ata:
+- IMG: My Cu - FreeSansBold_50_LF.jpeg.wav.png.png - OCR_TEXT: HVA U aN m3
+- IMG: My Cu - FreeSerifBold_75_LF.png.wav.png.png - OCR_TEXT: AVVO) aa aoe
+- IMG: Shot  - FreeMonoBold_100_LF.pbm.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: My Cu - FreeMonoBold_75_HF.pbm.wav.png.png - OCR_TEXT: VNGG SO
+- IMG: Right - FreeSansBold_50_HF.png.wav.png.png - OCR_TEXT: CU a
+- IMG: My Cu - FreeMonoBold_75_LF.pbm.wav.png.png - OCR_TEXT: Vet Oma
+- IMG: Shot  - FreeMono_50_LF.png.wav.png.png - OCR_TEXT: a T sf ik A a ie H l= = is 1! a a eel
+- IMG: Shot  - FreeMono_75_HF.png.wav.png.png - OCR_TEXT: oI 0) nO et
+- IMG: My Cu - FreeSerif_50_HF.pbm.wav.png.png - OCR_TEXT: Na ( A
+- IMG: Right - FreeSerifBold_50_LF.png.wav.png.png - OCR_TEXT: CCAS GO RD
+- IMG: Shot  - FreeMono_25_HF.jpeg.wav.png.png - OCR_TEXT: ao ae oy
+- IMG: My Cu - FreeMono_25_HF.jpeg.wav.png.png - OCR_TEXT: eee ee
+- IMG: Right - FreeMonoBold_50_HF.png.wav.png.png - OCR_TEXT: aC YAO) a eV
+- IMG: Shot  - FreeSans_50_LF.jpeg.wav.png.png - OCR_TEXT: SOA Mta Di
+- IMG: My Cu - FreeSerif_100_HF.jpeg.wav.png.png - OCR_TEXT: PGC aa ien
+- IMG: Shot  - FreeMonoBold_75_LF.png.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeMono_50_LF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Shot  - FreeSans_25_LF.jpeg.wav.png.png - OCR_TEXT: aa La
+- IMG: Right - FreeSerif_100_HF.jpeg.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeSerifBold_25_HF.pbm.wav.png.png - OCR_TEXT: AULA
+- IMG: Shot  - FreeSansBold_50_LF.jpeg.wav.png.png - OCR_TEXT: MLM Us eae
+- IMG: Shot  - FreeSans_100_LF.jpeg.wav.png.png - OCR_TEXT: ca OUI Ral eMONntN
+- IMG: Shot  - FreeMono_25_LF.png.wav.png.png - OCR_TEXT: cree
+- IMG: My Cu - FreeSerif_25_HF.jpeg.wav.png.png - OCR_TEXT: EL
+- IMG: Shot  - FreeSerifBold_50_HF.pbm.wav.png.png - OCR_TEXT: ULL
+- IMG: Right - FreeSansBold_100_HF.pbm.wav.png.png - OCR_TEXT: UCU a aC
+- IMG: My Cu - FreeMono_50_LF.pbm.wav.png.png - OCR_TEXT: ue ?i eer
+- IMG: My Cu - FreeMonoBold_50_HF.png.wav.png.png - OCR_TEXT: Ua
+- IMG: Shot  - FreeSans_75_LF.png.wav.png.png - OCR_TEXT: 
+- IMG: My Cu - FreeMono_25_LF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: My Cu - FreeSerif_25_HF.png.wav.png.png - OCR_TEXT: Pe
+- IMG: Right - FreeMonoBold_100_LF.pbm.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeMonoBold_50_HF.pbm.wav.png.png - OCR_TEXT: UE SL
+- IMG: My Cu - FreeSans_25_LF.jpeg.wav.png.png - OCR_TEXT: i i in ii i} Hl \ f
+- IMG: Shot  - FreeMonoBold_100_LF.jpeg.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Shot  - FreeMono_75_LF.jpeg.wav.png.png - OCR_TEXT: LOPE sacs i
+- IMG: Shot  - FreeSans_100_HF.pbm.wav.png.png - OCR_TEXT: OM a Oalai
+- IMG: Right - FreeSerifBold_100_HF.png.wav.png.png - OCR_TEXT: VCO MUL UMA) IUGR CRW UD
+- IMG: Shot  - FreeMono_100_LF.jpeg.wav.png.png - OCR_TEXT: vs LO nN vi By ett
+- IMG: My Cu - FreeMonoBold_100_HF.jpeg.wav.png.png - OCR_TEXT: MY CUP OF TEA
+- IMG: My Cu - FreeMonoBold_75_LF.jpeg.wav.png.png - OCR_TEXT: MY CUP OF TEA
+- IMG: Right - FreeMono_100_HF.png.wav.png.png - OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Shot  - FreeSerifBold_25_LF.png.wav.png.png - OCR_TEXT: THURS IMERI
+- IMG: Shot  - FreeMonoBold_50_LF.png.wav.png.png - OCR_TEXT: TO
+- IMG: Right - FreeMonoBold_100_LF.jpeg.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeMono_100_HF.pbm.wav.png.png - OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Shot  - FreeSans_50_HF.png.wav.png.png - OCR_TEXT: aay
+- IMG: Right - FreeSerifBold_100_LF.png.wav.png.png - OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Right - FreeSansBold_75_HF.pbm.wav.png.png - OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: My Cu - FreeSerif_50_HF.jpeg.wav.png.png - OCR_TEXT: va ae)
+- IMG: Right - FreeSans_75_HF.pbm.wav.png.png - OCR_TEXT: AlGnT QUT OF THE GATE
+- IMG: My Cu - FreeSansBold_100_HF.png.wav.png.png - OCR_TEXT: TRU ea
+- IMG: My Cu - FreeSans_25_HF.pbm.wav.png.png - OCR_TEXT: Na
+- IMG: Right - FreeSans_50_LF.png.wav.png.png - OCR_TEXT: ON AO UEC aah acre
+- IMG: Shot  - FreeSerif_100_LF.png.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: My Cu - FreeSans_100_HF.jpeg.wav.png.png - OCR_TEXT: (eCU seals,
+- IMG: Right - FreeSansBold_50_HF.jpeg.wav.png.png - OCR_TEXT: Cae
+- IMG: Shot  - FreeMono_100_HF.png.wav.png.png - OCR_TEXT: SION Os ce) tat
+- IMG: Right - FreeMonoBold_75_LF.pbm.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeSerif_75_HF.pbm.wav.png.png - OCR_TEXT: HOMME RDEV
+- IMG: Shot  - FreeSans_75_HF.jpeg.wav.png.png - OCR_TEXT: Osa
+- IMG: Shot  - FreeSerifBold_100_HF.pbm.wav.png.png - OCR_TEXT: LOBULE a
+- IMG: My Cu - FreeSerifBold_50_LF.png.wav.png.png - OCR_TEXT: ROB t Ue
+- IMG: Shot  - FreeSansBold_100_HF.png.wav.png.png - OCR_TEXT: Mat
+- IMG: Shot  - FreeMono_75_LF.png.wav.png.png - OCR_TEXT: VLG Pee  Neavm bys tti
+- IMG: Shot  - FreeSerif_50_HF.pbm.wav.png.png - OCR_TEXT: TAMU
+- IMG: Shot  - FreeMonoBold_50_HF.png.wav.png.png - OCR_TEXT: UE SL
+- IMG: Shot  - FreeSans_100_LF.pbm.wav.png.png - OCR_TEXT: ea OUI RR eR DANeIA
+- IMG: Right - FreeSansBold_25_HF.jpeg.wav.png.png - OCR_TEXT: TEU at
+- IMG: My Cu - FreeSansBold_25_LF.pbm.wav.png.png - OCR_TEXT: NY CUE OF TEA
+- IMG: Right - FreeSerif_75_LF.jpeg.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeSans_75_LF.jpeg.wav.png.png - OCR_TEXT: PCMMO RGM sae
+- IMG: Right - FreeMonoBold_50_LF.pbm.wav.png.png - OCR_TEXT: ONG) VMOU) ame er VD
+- IMG: Right - FreeMonoBold_25_LF.png.wav.png.png - OCR_TEXT: i ee a
+- IMG: My Cu - FreeSerif_75_LF.jpeg.wav.png.png - OCR_TEXT: Wamu ae ten
+- IMG: Shot  - FreeSerif_75_HF.jpeg.wav.png.png - OCR_TEXT: SHOT TN THE DARK
+- IMG: My Cu - FreeSansBold_75_LF.png.wav.png.png - OCR_TEXT: hee ais
+- IMG: Right - FreeSerif_50_HF.png.wav.png.png - OCR_TEXT: ea LS
+- IMG: My Cu - FreeMonoBold_25_LF.jpeg.wav.png.png - OCR_TEXT: at
+- IMG: Right - FreeMono_50_LF.png.wav.png.png - OCR_TEXT: 
+- IMG: Shot  - FreeSerifBold_25_HF.jpeg.wav.png.png - OCR_TEXT: ITH ABMLIIMIANS
+- IMG: Shot  - FreeMonoBold_100_HF.pbm.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeMonoBold_75_HF.jpeg.wav.png.png - OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Right - FreeSans_100_HF.png.wav.png.png - OCR_TEXT: aC ROO RC min crt
+- IMG: Shot  - FreeSerifBold_25_HF.png.wav.png.png - OCR_TEXT: IADMLIIRULAS
+- IMG: Right - FreeSerifBold_50_HF.pbm.wav.png.png - OCR_TEXT: TCU
+- IMG: Right - FreeMono_100_LF.pbm.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeMonoBold_75_LF.pbm.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeSans_100_LF.png.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeMono_75_HF.pbm.wav.png.png - OCR_TEXT: oI 0) nO et
+- IMG: Shot  - FreeSans_75_LF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Shot  - FreeSerifBold_100_LF.pbm.wav.png.png - OCR_TEXT: FO ET OM DN ia,
+- IMG: My Cu - FreeSans_100_HF.pbm.wav.png.png - OCR_TEXT: (CU eel,
+- IMG: Shot  - FreeMonoBold_100_LF.png.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: My Cu - FreeMono_25_HF.png.wav.png.png - OCR_TEXT: 
+- IMG: My Cu - FreeMonoBold_25_HF.jpeg.wav.png.png - OCR_TEXT: svat
+- IMG: My Cu - FreeSansBold_75_HF.jpeg.wav.png.png - OCR_TEXT: TRG av
+- IMG: Shot  - FreeSerif_75_LF.pbm.wav.png.png - OCR_TEXT: ST OLMIS RDU
+- IMG: My Cu - FreeMono_100_LF.png.wav.png.png - OCR_TEXT: ORG U ane ammleys
+- IMG: My Cu - FreeMono_75_HF.jpeg.wav.png.png - OCR_TEXT: UNO anO aot
+- IMG: Right - FreeMono_75_LF.png.wav.png.png - OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Shot  - FreeSansBold_75_HF.pbm.wav.png.png - OCR_TEXT: Mala i
+- IMG: My Cu - FreeSans_50_LF.pbm.wav.png.png - OCR_TEXT: NAA aia
+- IMG: Shot  - FreeSansBold_75_LF.jpeg.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Shot  - FreeMono_50_LF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: Right - FreeSerifBold_75_LF.pbm.wav.png.png - OCR_TEXT: NG TU RUG) UG IRE NAD
+- IMG: My Cu - FreeSerifBold_25_LF.png.wav.png.png - OCR_TEXT: VC EGH AE
+- IMG: My Cu - FreeSansBold_50_LF.pbm.wav.png.png - OCR_TEXT: VAG U Sa Nm
+- IMG: Right - FreeSerif_50_HF.jpeg.wav.png.png - OCR_TEXT: ROU O aA
+- IMG: Shot  - FreeSansBold_100_HF.pbm.wav.png.png - OCR_TEXT: Mat
+- IMG: My Cu - FreeSans_75_LF.pbm.wav.png.png - OCR_TEXT: NhaGuiaQmi a
+- IMG: Shot  - FreeSerifBold_75_LF.png.wav.png.png - OCR_TEXT: OMS RR NG
+- IMG: My Cu - FreeMono_75_LF.png.wav.png.png - OCR_TEXT: UN On GLO) nO ams
+- IMG: Right - FreeSerifBold_75_LF.png.wav.png.png - OCR_TEXT: NG TU RUG) UG IRE NAD
+- IMG: My Cu - FreeMono_100_LF.pbm.wav.png.png - OCR_TEXT: ORG U ane ammleys
+- IMG: Shot  - FreeMono_25_HF.pbm.wav.png.png - OCR_TEXT: ian a Mt
+- IMG: My Cu - FreeSerifBold_50_LF.jpeg.wav.png.png - OCR_TEXT: ROU Ee
+- IMG: My Cu - FreeMonoBold_25_LF.pbm.wav.png.png - OCR_TEXT: at |
+- IMG: My Cu - FreeMonoBold_100_LF.png.wav.png.png - OCR_TEXT: bee) tO) may
+- IMG: My Cu - FreeSansBold_75_HF.png.wav.png.png - OCR_TEXT: AGU at
+- IMG: Right - FreeSans_100_HF.pbm.wav.png.png - OCR_TEXT: aC ROO RC min crt
+- IMG: My Cu - FreeSans_25_HF.png.wav.png.png - OCR_TEXT: Na
+- IMG: My Cu - FreeSans_75_HF.png.wav.png.png - OCR_TEXT: NaC UmO mis
+- IMG: Shot  - FreeMonoBold_25_LF.pbm.wav.png.png - OCR_TEXT: ce ee
+- IMG: My Cu - FreeSerifBold_100_LF.pbm.wav.png.png - OCR_TEXT: MY CUP OF TEA
+- IMG: Right - FreeSansBold_50_LF.png.wav.png.png - OCR_TEXT: HC tM eae mis aes 4S
+- IMG: Right - FreeSerif_100_HF.png.wav.png.png - OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: My Cu - FreeSerif_25_HF.pbm.wav.png.png - OCR_TEXT: Pe
+- IMG: Right - FreeMonoBold_25_HF.png.wav.png.png - OCR_TEXT: Ca abe
+- IMG: Right - FreeSerifBold_50_LF.pbm.wav.png.png - OCR_TEXT: CCAS GO RD
+- IMG: Right - FreeSerif_25_LF.jpeg.wav.png.png - OCR_TEXT: TUR
+- IMG: Shot  - FreeSansBold_25_HF.png.wav.png.png - OCR_TEXT: a
+- IMG: My Cu - FreeSerifBold_75_HF.pbm.wav.png.png - OCR_TEXT: DOU Ua vie
+- IMG: My Cu - FreeSerifBold_50_HF.pbm.wav.png.png - OCR_TEXT: NRG atin
+- IMG: Shot  - FreeSansBold_100_LF.png.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Shot  - FreeSerif_25_HF.png.wav.png.png - OCR_TEXT: EDT REAL
+- IMG: Shot  - FreeSans_25_LF.pbm.wav.png.png - OCR_TEXT: BN Aa ha
+- IMG: Shot  - FreeSerif_25_LF.pbm.wav.png.png - OCR_TEXT: TD AASI INRA
+- IMG: Shot  - FreeSans_25_HF.png.wav.png.png - OCR_TEXT: a
+- IMG: Shot  - FreeMono_100_HF.pbm.wav.png.png - OCR_TEXT: SION Os ce) tat
+- IMG: Right - FreeSerifBold_100_LF.jpeg.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeSansBold_50_LF.pbm.wav.png.png - OCR_TEXT: MLM bs oat a
+- IMG: Right - FreeSansBold_50_LF.pbm.wav.png.png - OCR_TEXT: HC tM eae mis aes 4S
+- IMG: Shot  - FreeSerifBold_75_HF.pbm.wav.png.png - OCR_TEXT: HN LUM
+- IMG: Right - FreeSerif_75_LF.png.wav.png.png - OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Shot  - FreeSansBold_25_HF.jpeg.wav.png.png - OCR_TEXT: a
+- IMG: My Cu - FreeSerif_75_HF.jpeg.wav.png.png - OCR_TEXT: GUC ae
+- IMG: My Cu - FreeSansBold_100_HF.jpeg.wav.png.png - OCR_TEXT: TRU eat
+- IMG: Right - FreeMonoBold_100_HF.png.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeMono_50_HF.png.wav.png.png - OCR_TEXT: Sen eve
+- IMG: Right - FreeSansBold_100_HF.jpeg.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeSansBold_75_HF.pbm.wav.png.png - OCR_TEXT: AGU at
+- IMG: Shot  - FreeSerifBold_50_HF.png.wav.png.png - OCR_TEXT: ULL
+- IMG: Shot  - FreeSerif_50_LF.jpeg.wav.png.png - OCR_TEXT: NENW UARO ANUS
+- IMG: Right - FreeSerifBold_100_HF.jpeg.wav.png.png - OCR_TEXT: VCE MUU MO) IUGR CRW US
+- IMG: Right - FreeSansBold_75_LF.png.wav.png.png - OCR_TEXT: HCMC AC incac Ue
+- IMG: Shot  - FreeSans_75_HF.png.wav.png.png - OCR_TEXT: ON aaa a
+- IMG: Shot  - FreeSerifBold_100_HF.jpeg.wav.png.png - OCR_TEXT: OBC Ta
+- IMG: Right - FreeSerifBold_100_LF.pbm.wav.png.png - OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Shot  - FreeMono_25_LF.pbm.wav.png.png - OCR_TEXT: cree
+- IMG: Right - FreeSans_100_HF.jpeg.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeSerif_50_LF.pbm.wav.png.png - OCR_TEXT: ?Veen ava ial
+- IMG: Right - FreeMonoBold_25_HF.jpeg.wav.png.png - OCR_TEXT: ALGAT GUT OF THE GATE
+- IMG: Right - FreeMono_75_HF.png.wav.png.png - OCR_TEXT: NO ACTsMiane] ON OyammOr} Cr dS
+- IMG: Right - FreeSerif_25_LF.png.wav.png.png - OCR_TEXT: Tne
+- IMG: Shot  - FreeMono_75_HF.jpeg.wav.png.png - OCR_TEXT: SHOT IN Th DARK
+- IMG: My Cu - FreeMono_50_HF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: My Cu - FreeMonoBold_25_HF.pbm.wav.png.png - OCR_TEXT: sant
+- IMG: Right - FreeSansBold_75_LF.jpeg.wav.png.png - OCR_TEXT: HC dMO AC iscac Ue
+- IMG: Right - FreeSans_25_LF.jpeg.wav.png.png - OCR_TEXT: SN RRs Ne
+- IMG: My Cu - FreeSerifBold_100_LF.png.wav.png.png - OCR_TEXT: MY CUP OF TEA
+- IMG: My Cu - FreeMono_25_LF.png.wav.png.png - OCR_TEXT: 
+- IMG: Shot  - FreeMono_25_HF.png.wav.png.png - OCR_TEXT: ian a Mt
+- IMG: Right - FreeSerif_100_LF.jpeg.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeSansBold_50_HF.jpeg.wav.png.png - OCR_TEXT: WCU
+- IMG: Right - FreeSerifBold_25_LF.pbm.wav.png.png - OCR_TEXT: TCUAUSRUM TRU
+- IMG: Right - FreeSerif_25_HF.pbm.wav.png.png - OCR_TEXT: HOUMA
+- IMG: Right - FreeSans_75_HF.png.wav.png.png - OCR_TEXT: AlGnT QUT OF THE GATE
+- IMG: Right - FreeMono_25_HF.pbm.wav.png.png - OCR_TEXT: a |e ie
+- IMG: Shot  - FreeMonoBold_50_LF.pbm.wav.png.png - OCR_TEXT: TO
+- IMG: Right - FreeMonoBold_75_HF.png.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeMonoBold_50_LF.jpeg.wav.png.png - OCR_TEXT: ONC) VACUO) amie Or
+- IMG: Shot  - FreeSerifBold_75_HF.jpeg.wav.png.png - OCR_TEXT: ON Lele ay
+- IMG: Shot  - FreeMonoBold_25_HF.jpeg.wav.png.png - OCR_TEXT: SL
+- IMG: Shot  - FreeSerif_25_HF.jpeg.wav.png.png - OCR_TEXT: EST REAL
+- IMG: Right - FreeMono_75_LF.jpeg.wav.png.png - OCR_TEXT: ARG UMC MRO a tiene Ube
+- IMG: Shot  - FreeMono_100_HF.jpeg.wav.png.png - OCR_TEXT: os (O) Maa sty eta)
+- IMG: Right - FreeMono_25_LF.pbm.wav.png.png - OCR_TEXT: Cee
+- IMG: Shot  - FreeMono_100_LF.pbm.wav.png.png - OCR_TEXT: SH OMRR NNO
+- IMG: Shot  - FreeMono_50_HF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Shot  - FreeSans_100_HF.png.wav.png.png - OCR_TEXT: OM a Oalai
+- IMG: Right - FreeMonoBold_50_LF.png.wav.png.png - OCR_TEXT: ONG) VMOU) ame er VD
+- IMG: Shot  - FreeMonoBold_100_HF.png.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeSerif_50_HF.pbm.wav.png.png - OCR_TEXT: ea LS
+- IMG: Right - FreeSerif_75_HF.png.wav.png.png - OCR_TEXT: NCU tee
+- IMG: Right - FreeMono_50_HF.pbm.wav.png.png - OCR_TEXT: Sen eve
+- IMG: Right - FreeSansBold_25_LF.jpeg.wav.png.png - OCR_TEXT: RIGHT OU? OF THE GATE
+- IMG: My Cu - FreeMono_50_LF.png.wav.png.png - OCR_TEXT: ue ?i eer
+- IMG: Shot  - FreeSerifBold_100_LF.jpeg.wav.png.png - OCR_TEXT: SHOTIN THE DARK
+- IMG: Shot  - FreeMonoBold_75_HF.pbm.wav.png.png - OCR_TEXT: en CU
+- IMG: Right - FreeSans_50_LF.jpeg.wav.png.png - OCR_TEXT: CHRO UNG abalac Us
+- IMG: My Cu - FreeSansBold_25_HF.pbm.wav.png.png - OCR_TEXT: et at
+- IMG: My Cu - FreeSans_50_LF.jpeg.wav.png.png - OCR_TEXT: NVAGU ae mia:
+- IMG: Right - FreeSans_25_HF.png.wav.png.png - OCR_TEXT: aby AE iat
+- IMG: Right - FreeSerif_100_HF.pbm.wav.png.png - OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Shot  - FreeMono_75_LF.pbm.wav.png.png - OCR_TEXT: VLG Pee  Neavm bys tti
+- IMG: My Cu - FreeMono_50_HF.pbm.wav.png.png - OCR_TEXT: ean aE
+- IMG: Right - FreeSansBold_50_LF.jpeg.wav.png.png - OCR_TEXT: TGs MOAN ambi 4h
+- IMG: My Cu - FreeSans_75_HF.pbm.wav.png.png - OCR_TEXT: NaC UmO mis
+- IMG: My Cu - FreeSerifBold_75_LF.jpeg.wav.png.png - OCR_TEXT: \Y CUP OF TEA
+- IMG: Right - FreeMono_75_HF.jpeg.wav.png.png - OCR_TEXT: RIGHT OUT OF Thk GATE
+- IMG: My Cu - FreeSansBold_100_LF.png.wav.png.png - OCR_TEXT: het te ars!
+- IMG: My Cu - FreeMonoBold_50_LF.jpeg.wav.png.png - OCR_TEXT: mute a
+- IMG: My Cu - FreeSerifBold_50_HF.jpeg.wav.png.png - OCR_TEXT: CCU
+- IMG: Shot  - FreeSansBold_25_HF.pbm.wav.png.png - OCR_TEXT: a
+- IMG: My Cu - FreeMono_50_LF.jpeg.wav.png.png - OCR_TEXT: Un mt anes ee
+- IMG: Shot  - FreeSerif_100_LF.pbm.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: My Cu - FreeMono_75_HF.png.wav.png.png - OCR_TEXT: UNMR OO ie
+- IMG: My Cu - FreeSans_25_LF.pbm.wav.png.png - OCR_TEXT: Tana
+- IMG: My Cu - FreeMonoBold_75_HF.png.wav.png.png - OCR_TEXT: VNGG SO
+- IMG: My Cu - FreeSans_25_HF.jpeg.wav.png.png - OCR_TEXT: nahatl als,
+- IMG: My Cu - FreeSans_100_LF.pbm.wav.png.png - OCR_TEXT: VhaGeee ata:
+- IMG: Right - FreeMono_50_LF.jpeg.wav.png.png - OCR_TEXT: Roo WT QF THE GATE
+- IMG: My Cu - FreeSerif_50_LF.png.wav.png.png - OCR_TEXT: ?Veen ava ial
+- IMG: Right - FreeSerif_75_HF.jpeg.wav.png.png - OCR_TEXT: NCIC MO mae nerad ie
+- IMG: Shot  - FreeSerifBold_25_HF.pbm.wav.png.png - OCR_TEXT: IADMLIIRULAS
+- IMG: Shot  - FreeSerifBold_100_LF.png.wav.png.png - OCR_TEXT: FO ET OM DN ia,
+- IMG: Shot  - FreeMonoBold_25_LF.jpeg.wav.png.png - OCR_TEXT: ce a
+- IMG: Shot  - FreeSerifBold_75_HF.png.wav.png.png - OCR_TEXT: HN LUM
+- IMG: Right - FreeSansBold_75_HF.png.wav.png.png - OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: My Cu - FreeSansBold_25_LF.jpeg.wav.png.png - OCR_TEXT: aaa
+- IMG: Right - FreeMonoBold_25_HF.pbm.wav.png.png - OCR_TEXT: Ca abe
+- IMG: Shot  - FreeSerif_100_HF.jpeg.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeSerif_25_HF.jpeg.wav.png.png - OCR_TEXT: ROUND
+- IMG: My Cu - FreeMonoBold_100_HF.pbm.wav.png.png - OCR_TEXT: MY CUP OF TEA
+- IMG: Right - FreeSans_100_LF.pbm.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeSans_75_HF.pbm.wav.png.png - OCR_TEXT: ON aaa a
+- IMG: Right - FreeMonoBold_75_LF.png.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeSerifBold_75_HF.jpeg.wav.png.png - OCR_TEXT: melee) Di
+- IMG: Shot  - FreeSerifBold_50_LF.pbm.wav.png.png - OCR_TEXT: OMAP E NGS
+- IMG: Right - FreeSansBold_25_LF.pbm.wav.png.png - OCR_TEXT: Ve Amnl NAO a hae
+- IMG: Shot  - FreeMono_50_HF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: My Cu - FreeSerifBold_100_HF.png.wav.png.png - OCR_TEXT: MY CUP OF TEA
+- IMG: Shot  - FreeSerif_25_LF.png.wav.png.png - OCR_TEXT: TD AASI INRA
+- IMG: Shot  - FreeSansBold_50_HF.png.wav.png.png - OCR_TEXT: ea
+- IMG: Shot  - FreeSerifBold_50_LF.png.wav.png.png - OCR_TEXT: OMAP E NGS
+- IMG: My Cu - FreeSerifBold_75_LF.pbm.wav.png.png - OCR_TEXT: AVVO) aa aoe
+- IMG: Shot  - FreeSansBold_25_LF.pbm.wav.png.png - OCR_TEXT: aH AM ate
+- IMG: Shot  - FreeMono_50_HF.png.wav.png.png - OCR_TEXT: 
+- IMG: My Cu - FreeSans_50_HF.pbm.wav.png.png - OCR_TEXT: eee ass
+- IMG: Shot  - FreeSansBold_100_HF.jpeg.wav.png.png - OCR_TEXT: May Tt
+- IMG: Shot  - FreeSerif_100_LF.jpeg.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeSansBold_75_LF.pbm.wav.png.png - OCR_TEXT: HCMC AC incac Ue
+- IMG: Shot  - FreeMonoBold_75_HF.jpeg.wav.png.png - OCR_TEXT: SIO a CD
+- IMG: Right - FreeSans_25_HF.jpeg.wav.png.png - OCR_TEXT: a Ae rials
+- IMG: Right - FreeMono_100_LF.jpeg.wav.png.png - OCR_TEXT: RIGHT QUT OF THE GATE
+- IMG: Shot  - FreeSerifBold_75_LF.jpeg.wav.png.png - OCR_TEXT: OMINOUS TEENA
+- IMG: Right - FreeSerifBold_25_HF.png.wav.png.png - OCR_TEXT: AULA
+- IMG: Right - FreeSerif_75_HF.pbm.wav.png.png - OCR_TEXT: NCU tee
+- IMG: My Cu - FreeSerifBold_25_HF.jpeg.wav.png.png - OCR_TEXT: aE aia
+- IMG: Right - FreeSans_50_HF.pbm.wav.png.png - OCR_TEXT: COUR tes
+- IMG: My Cu - FreeSansBold_50_HF.png.wav.png.png - OCR_TEXT: WA aN aS!
+- IMG: Right - FreeSerif_100_LF.png.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeSans_25_LF.png.wav.png.png - OCR_TEXT: SEARO NG Ne
+- IMG: My Cu - FreeMono_50_HF.png.wav.png.png - OCR_TEXT: ean aE
+- IMG: Right - FreeMonoBold_100_HF.jpeg.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Right - FreeMono_25_LF.png.wav.png.png - OCR_TEXT: Cee
+- IMG: My Cu - FreeSerif_100_LF.jpeg.wav.png.png - OCR_TEXT: VOC ere aye
+- IMG: Shot  - FreeSansBold_25_LF.png.wav.png.png - OCR_TEXT: aH AM ate
+- IMG: My Cu - FreeSerifBold_75_HF.png.wav.png.png - OCR_TEXT: DOU Ua vie
+- IMG: Right - FreeMonoBold_75_LF.jpeg.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: Shot  - FreeSansBold_75_HF.png.wav.png.png - OCR_TEXT: Mala i
+- IMG: My Cu - FreeMonoBold_25_LF.png.wav.png.png - OCR_TEXT: at |
+- IMG: Right - FreeSerifBold_25_LF.jpeg.wav.png.png - OCR_TEXT: CUAUS RU Tmt
+- IMG: Right - FreeSerif_25_HF.png.wav.png.png - OCR_TEXT: HOUMA
+- IMG: Right - FreeSans_50_HF.jpeg.wav.png.png - OCR_TEXT: COUR tls
+- IMG: Right - FreeMonoBold_75_HF.pbm.wav.png.png - OCR_TEXT: RIGHT OUT OF THE GATE
+- IMG: My Cu - FreeSerifBold_50_HF.png.wav.png.png - OCR_TEXT: NRG atin
+- IMG: Shot  - FreeSerif_50_LF.png.wav.png.png - OCR_TEXT: NOAM ATL ADAIGIN
+- IMG: Right - FreeSerif_50_LF.png.wav.png.png - OCR_TEXT: GHA ROMA O em VoL Te
+- IMG: Dropp - FreeSansBold_75_HF.pbm.wav.png.png - OCR_TEXT: Tie daI CHL Vala
+- IMG: No If - FreeSansBold_25_HF.jpeg.wav.png.png - OCR_TEXT: NO ee ats
+- IMG: Dropp - FreeSerif_100_HF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Rain  - FreeSans_100_HF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeSans_75_HF.jpeg.wav.png.png - OCR_TEXT: NAO al Casta
+- IMG: Rain  - FreeSans_25_LF.pbm.wav.png.png - OCR_TEXT: OTA A
+- IMG: Dropp - FreeSansBold_25_HF.png.wav.png.png - OCR_TEXT: aN age
+- IMG: Dropp - FreeSerifBold_50_HF.pbm.wav.png.png - OCR_TEXT: DROPPING LINE PETES
+- IMG: Rain  - FreeMono_50_HF.png.wav.png.png - OCR_TEXT: 
+- IMG: No If - FreeSerifBold_25_HF.pbm.wav.png.png - OCR_TEXT: SUT EN
+- IMG: No If - FreeSerifBold_50_HF.pbm.wav.png.png - OCR_TEXT: UWI AR Ua h
+- IMG: Rain  - FreeSerif_75_LF.jpeg.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeMono_100_LF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeSerif_75_HF.jpeg.wav.png.png - OCR_TEXT: WeO\B ROMO MateAIDIe
+- IMG: Rain  - FreeMonoBold_100_HF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: No If - FreeSans_50_HF.png.wav.png.png - OCR_TEXT: NOS Saeiatatt
+- IMG: Dropp - FreeSerif_25_HF.pbm.wav.png.png - OCR_TEXT: TMA
+- IMG: Dropp - FreeMonoBold_100_LF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Rain  - FreeSerif_50_LF.png.wav.png.png - OCR_TEXT: UA ROA MOU aMA NUH
+- IMG: Rain  - FreeSerif_100_HF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeSans_50_LF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeMonoBold_50_HF.png.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: No If - FreeSansBold_100_LF.jpeg.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: Rain  - FreeMonoBold_50_HF.jpeg.wav.png.png - OCR_TEXT: OO ee
+- IMG: Rain  - FreeSans_50_HF.png.wav.png.png - OCR_TEXT: a aa
+- IMG: No If - FreeSans_100_LF.pbm.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: Dropp - FreeSans_25_LF.pbm.wav.png.png - OCR_TEXT: Aa Uae
+- IMG: Rain  - FreeMono_75_HF.pbm.wav.png.png - OCR_TEXT: RATN ON YOUR PARADE
+- IMG: Rain  - FreeSerifBold_100_LF.jpeg.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeSerif_100_LF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeMono_75_LF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: No If - FreeMono_25_LF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: Rain  - FreeSerif_50_HF.pbm.wav.png.png - OCR_TEXT: MUMMORLOUAS MAG
+- IMG: Rain  - FreeSerifBold_50_LF.pbm.wav.png.png - OCR_TEXT: ETREU MM LUMAR E TID
+- IMG: Dropp - FreeSerif_25_HF.jpeg.wav.png.png - OCR_TEXT: TUMORAL
+- IMG: Rain  - FreeSerifBold_100_HF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: No If - FreeSans_75_HF.jpeg.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: Rain  - FreeSans_100_LF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeMonoBold_100_HF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Rain  - FreeSans_50_LF.jpeg.wav.png.png - OCR_TEXT: TOUSEN
+- IMG: Dropp - FreeMono_75_HF.pbm.wav.png.png - OCR_TEXT: DO san Ce nea pare
+- IMG: Dropp - FreeMonoBold_50_LF.pbm.wav.png.png - OCR_TEXT: Daa A ean
+- IMG: Rain  - FreeMonoBold_100_LF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeSerifBold_25_HF.png.wav.png.png - OCR_TEXT: TVA AGLELN EL
+- IMG: No If - FreeSerif_25_LF.jpeg.wav.png.png - OCR_TEXT: SORA
+- IMG: Rain  - FreeMonoBold_50_LF.pbm.wav.png.png - OCR_TEXT: UO OU UT
+- IMG: Dropp - FreeSerif_100_LF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Rain  - FreeMono_25_LF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: Rain  - FreeMono_50_HF.jpeg.wav.png.png - OCR_TEXT: IO ment Om Lae IT
+- IMG: Rain  - FreeSans_25_HF.jpeg.wav.png.png - OCR_TEXT: alae Leit a
+- IMG: Dropp - FreeSans_25_HF.jpeg.wav.png.png - OCR_TEXT: ean apes
+- IMG: No If - FreeSerifBold_25_HF.png.wav.png.png - OCR_TEXT: SUT EN
+- IMG: No If - FreeSans_50_LF.png.wav.png.png - OCR_TEXT: NOS WSm Ota hhs
+- IMG: Dropp - FreeMonoBold_75_LF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Dropp - FreeSansBold_50_LF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Dropp - FreeSansBold_25_LF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSerifBold_50_LF.jpeg.wav.png.png - OCR_TEXT: NUTS aH
+- IMG: Rain  - FreeSerif_100_LF.jpeg.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: No If - FreeMonoBold_75_HF.png.wav.png.png - OCR_TEXT: NO TRS, ANDS, OR BUTS
+- IMG: No If - FreeMono_25_HF.png.wav.png.png - OCR_TEXT: 
+- IMG: Rain  - FreeMonoBold_75_LF.jpeg.wav.png.png - OCR_TEXT: EWA) COLO am VEU
+- IMG: Rain  - FreeSerifBold_75_HF.pbm.wav.png.png - OCR_TEXT: RAIN QN YOUR PARADE
+- IMG: Dropp - FreeSans_100_HF.png.wav.png.png - OCR_TEXT: Ui ami\\GHa stg st
+- IMG: Rain  - FreeSerif_75_HF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeMono_100_LF.jpeg.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeSans_100_HF.jpeg.wav.png.png - OCR_TEXT: Ui ami\Cha stad st
+- IMG: No If - FreeSerifBold_25_LF.pbm.wav.png.png - OCR_TEXT: URMILA AO
+- IMG: Dropp - FreeMono_25_LF.jpeg.wav.png.png - OCR_TEXT: a ee
+- IMG: No If - FreeSerifBold_25_LF.jpeg.wav.png.png - OCR_TEXT: VARGA UO
+- IMG: Rain  - FreeSans_75_HF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeSerifBold_50_LF.jpeg.wav.png.png - OCR_TEXT: ETREO MM LUGE IID
+- IMG: Rain  - FreeMonoBold_25_HF.jpeg.wav.png.png - OCR_TEXT: aL
+- IMG: No If - FreeSerifBold_75_LF.pbm.wav.png.png - OCR_TEXT: SN OTIAME ATI AAO,
+- IMG: Rain  - FreeSerif_50_HF.png.wav.png.png - OCR_TEXT: MUMMORLOUAS MAG
+- IMG: Rain  - FreeSansBold_75_HF.jpeg.wav.png.png - OCR_TEXT: AUR i
+- IMG: Rain  - FreeSerif_75_HF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeSerifBold_50_HF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeMono_50_LF.pbm.wav.png.png - OCR_TEXT: er er rer ret VO CaS URE an
+- IMG: Dropp - FreeMono_100_LF.jpeg.wav.png.png - OCR_TEXT: URUPPING LIAB PUL
+- IMG: No If - FreeMono_100_LF.png.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: No If - FreeSerif_75_HF.png.wav.png.png - OCR_TEXT: NO IF, ANDS, OR BUTS
+- IMG: Rain  - FreeMonoBold_75_LF.png.wav.png.png - OCR_TEXT: EUAN IRON COU Mg)
+- IMG: No If - FreeSans_25_HF.png.wav.png.png - OCR_TEXT: ee ee
+- IMG: Rain  - FreeSans_100_HF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeSansBold_50_LF.jpeg.wav.png.png - OCR_TEXT: ON
+- IMG: Rain  - FreeSans_75_HF.jpeg.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeSansBold_100_LF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Rain  - FreeSansBold_75_LF.jpeg.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: No If - FreeMono_25_HF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: No If - FreeSans_100_LF.png.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: No If - FreeSansBold_100_HF.png.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: Dropp - FreeSansBold_100_LF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSerifBold_100_LF.pbm.wav.png.png - OCR_TEXT: NORIO @ tee hy
+- IMG: No If - FreeSerifBold_50_HF.jpeg.wav.png.png - OCR_TEXT: NUNES Hah
+- IMG: Rain  - FreeSansBold_25_HF.pbm.wav.png.png - OCR_TEXT: Pita ls
+- IMG: No If - FreeSans_75_LF.pbm.wav.png.png - OCR_TEXT: NO IFS, ANDS. OR BUTS
+- IMG: No If - FreeSans_100_HF.pbm.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: No If - FreeMono_25_HF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Rain  - FreeSansBold_100_LF.png.wav.png.png - OCR_TEXT: RENO AOL ayer]:
+- IMG: Dropp - FreeSans_50_LF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSansBold_75_HF.png.wav.png.png - OCR_TEXT: NOUS ACUSR CGE Ls
+- IMG: No If - FreeSansBold_50_HF.pbm.wav.png.png - OCR_TEXT: ROSE
+- IMG: Dropp - FreeMono_100_HF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Dropp - FreeSansBold_75_LF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSerif_100_HF.png.wav.png.png - OCR_TEXT: NOTION MO anil
+- IMG: Rain  - FreeSerifBold_75_LF.jpeg.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeMono_75_HF.png.wav.png.png - OCR_TEXT: RATN ON YOUR PARADE
+- IMG: Rain  - FreeMono_50_LF.png.wav.png.png - OCR_TEXT: er er rer ret VO CaS URE an
+- IMG: No If - FreeMono_50_LF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Rain  - FreeSansBold_100_LF.jpeg.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: No If - FreeSansBold_75_HF.pbm.wav.png.png - OCR_TEXT: NOUS ACUSR CGE Ls
+- IMG: Dropp - FreeSerifBold_100_HF.pbm.wav.png.png - OCR_TEXT: DROPPING LUKE FLIES
+- IMG: Rain  - FreeSansBold_50_LF.png.wav.png.png - OCR_TEXT: FAT
+- IMG: No If - FreeSans_50_LF.jpeg.wav.png.png - OCR_TEXT: NOS SMO tlhe
+- IMG: No If - FreeSerifBold_50_LF.pbm.wav.png.png - OCR_TEXT: NUTS aH
+- IMG: Dropp - FreeSerifBold_100_HF.png.wav.png.png - OCR_TEXT: DROPPING LUKE FLIES
+- IMG: No If - FreeSansBold_25_LF.jpeg.wav.png.png - OCR_TEXT: Ha acer TS Pt
+- IMG: No If - FreeMonoBold_100_LF.pbm.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: No If - FreeSans_75_HF.png.wav.png.png - OCR_TEXT: NO IFS, ANDS, QR BUTS
+- IMG: No If - FreeSansBold_75_LF.pbm.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: No If - FreeSerifBold_100_LF.jpeg.wav.png.png - OCR_TEXT: NITED RO HR
+- IMG: No If - FreeMono_25_LF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: No If - FreeSans_100_LF.jpeg.wav.png.png - OCR_TEXT: NOIFS, ANDS, OR BUTS
+- IMG: Dropp - FreeMonoBold_25_HF.png.wav.png.png - OCR_TEXT: VSI mL tm UAL
+- IMG: Rain  - FreeSerif_50_LF.pbm.wav.png.png - OCR_TEXT: UA ROA MOU aMA NUH
+- IMG: No If - FreeMonoBold_75_HF.jpeg.wav.png.png - OCR_TEXT: NO TPS, ANDS, OR BUTS
+- IMG: No If - FreeMono_75_HF.jpeg.wav.png.png - OCR_TEXT: Ota eae ae ike
+- IMG: Rain  - FreeSerif_25_HF.pbm.wav.png.png - OCR_TEXT: aS ERMA
+- IMG: Dropp - FreeSerif_50_HF.pbm.wav.png.png - OCR_TEXT: DROPPING LINE FLIES
+- IMG: No If - FreeSerifBold_100_HF.pbm.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: No If - FreeSans_25_LF.pbm.wav.png.png - OCR_TEXT: Na a
+- IMG: No If - FreeSerifBold_75_LF.png.wav.png.png - OCR_TEXT: SN OTIAME ATI AAO,
+- IMG: No If - FreeMonoBold_75_HF.pbm.wav.png.png - OCR_TEXT: NO TRS, ANDS, OR BUTS
+- IMG: Rain  - FreeSansBold_25_HF.jpeg.wav.png.png - OCR_TEXT: PN Ata
+- IMG: No If - FreeSerifBold_100_HF.jpeg.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: No If - FreeSerif_25_LF.pbm.wav.png.png - OCR_TEXT: ST eA AT
+- IMG: Rain  - FreeSerifBold_25_HF.png.wav.png.png - OCR_TEXT: MTN UMUUL
+- IMG: Rain  - FreeMonoBold_50_HF.png.wav.png.png - OCR_TEXT: SOO ey
+- IMG: Dropp - FreeSerif_100_HF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Dropp - FreeSerif_75_HF.jpeg.wav.png.png - OCR_TEXT: UNG da GHB Arma Ai
+- IMG: Rain  - FreeMonoBold_25_LF.jpeg.wav.png.png - OCR_TEXT: TA ee CT
+- IMG: No If - FreeSerifBold_50_LF.png.wav.png.png - OCR_TEXT: NUTS aH
+- IMG: Dropp - FreeMono_50_LF.jpeg.wav.png.png - OCR_TEXT: Irae an
+- IMG: No If - FreeSerif_25_HF.png.wav.png.png - OCR_TEXT: TOD Lan
+- IMG: Dropp - FreeSerif_75_HF.pbm.wav.png.png - OCR_TEXT: UNG da GHB Aran i
+- IMG: No If - FreeSansBold_100_HF.pbm.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: Rain  - FreeMono_100_HF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: No If - FreeSansBold_25_LF.pbm.wav.png.png - OCR_TEXT: NO IFS. ANDS, OR BUTS
+- IMG: Rain  - FreeMono_100_HF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeSerif_100_LF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: No If - FreeMonoBold_25_HF.jpeg.wav.png.png - OCR_TEXT: NOLES
+- IMG: No If - FreeMonoBold_50_HF.pbm.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: Dropp - FreeMonoBold_75_HF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSerifBold_100_LF.png.wav.png.png - OCR_TEXT: NORIO @ tee hy
+- IMG: Dropp - FreeMonoBold_50_HF.png.wav.png.png - OCR_TEXT: eA A
+- IMG: Dropp - FreeSerifBold_50_HF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Rain  - FreeSerifBold_100_LF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeMono_100_LF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeSans_75_LF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Dropp - FreeSerifBold_25_HF.pbm.wav.png.png - OCR_TEXT: TVA AGLELN EL
+- IMG: Dropp - FreeMono_100_LF.png.wav.png.png - OCR_TEXT: D0) geal Cum AVC
+- IMG: No If - FreeSerif_75_LF.jpeg.wav.png.png - OCR_TEXT: NO FS, ANDS, OR BUTS
+- IMG: No If - FreeSansBold_25_LF.png.wav.png.png - OCR_TEXT: NO IFS. ANDS, OR BUTS
+- IMG: Rain  - FreeSerif_100_HF.jpeg.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeSerifBold_25_LF.png.wav.png.png - OCR_TEXT: RYMUSVULR TKD)
+- IMG: Rain  - FreeMonoBold_100_HF.jpeg.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeSerif_25_LF.png.wav.png.png - OCR_TEXT: NT NAIR
+- IMG: No If - FreeSansBold_25_HF.pbm.wav.png.png - OCR_TEXT: ae tts
+- IMG: Rain  - FreeMonoBold_50_HF.pbm.wav.png.png - OCR_TEXT: SOO ey
+- IMG: No If - FreeMono_100_HF.pbm.wav.png.png - OCR_TEXT: NOPE Fasc CramOsausil pi
+- IMG: Dropp - FreeSerifBold_25_LF.pbm.wav.png.png - OCR_TEXT: TAURI AO
+- IMG: Dropp - FreeSerifBold_50_LF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Rain  - FreeMono_75_LF.jpeg.wav.png.png - OCR_TEXT: UAE JN Y Oimaele
+- IMG: Rain  - FreeSans_50_LF.png.wav.png.png - OCR_TEXT: PO ROUEN
+- IMG: Dropp - FreeMono_50_LF.pbm.wav.png.png - OCR_TEXT: Ot Ue nO ae
+- IMG: Rain  - FreeSans_50_LF.pbm.wav.png.png - OCR_TEXT: PO ROUEN
+- IMG: Rain  - FreeSerifBold_25_LF.jpeg.wav.png.png - OCR_TEXT: RAMON VOLRT KAD
+- IMG: Dropp - FreeMono_25_HF.pbm.wav.png.png - OCR_TEXT: a eA
+- IMG: No If - FreeSans_25_HF.pbm.wav.png.png - OCR_TEXT: ee ee
+- IMG: No If - FreeMonoBold_50_HF.jpeg.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: Dropp - FreeSans_25_HF.png.wav.png.png - OCR_TEXT: Saye
+- IMG: Dropp - FreeSansBold_25_HF.pbm.wav.png.png - OCR_TEXT: aN age
+- IMG: No If - FreeSansBold_50_HF.png.wav.png.png - OCR_TEXT: ROSE
+- IMG: Dropp - FreeMono_75_HF.jpeg.wav.png.png - OCR_TEXT: DV an Ce ie pare
+- IMG: Dropp - FreeSerif_100_HF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeMonoBold_75_LF.png.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: No If - FreeMonoBold_50_LF.jpeg.wav.png.png - OCR_TEXT: NO TRS, ANDS, OR BUTS
+- IMG: Rain  - FreeSansBold_50_HF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: No If - FreeMonoBold_25_HF.png.wav.png.png - OCR_TEXT: Was a
+- IMG: Dropp - FreeSans_50_HF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIED
+- IMG: Dropp - FreeSans_100_LF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSansBold_100_HF.jpeg.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: Dropp - FreeSerifBold_75_LF.jpeg.wav.png.png - OCR_TEXT: PUB IeN ICDA ALN
+- IMG: Dropp - FreeMonoBold_100_HF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSansBold_50_LF.jpeg.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: Dropp - FreeSerifBold_100_LF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSerif_50_LF.pbm.wav.png.png - OCR_TEXT: VOTES. ANS. OR BUTS
+- IMG: Dropp - FreeMonoBold_25_HF.pbm.wav.png.png - OCR_TEXT: VSI mL tm UAL
+- IMG: Dropp - FreeMono_25_LF.png.wav.png.png - OCR_TEXT: ey PAE |p
+- IMG: No If - FreeMono_100_HF.png.wav.png.png - OCR_TEXT: NOPE Fasc CramOsausil pi
+- IMG: Dropp - FreeSerifBold_100_LF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Dropp - FreeMonoBold_75_LF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeMono_50_LF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: Dropp - FreeMono_75_LF.png.wav.png.png - OCR_TEXT: Osa Cane ai
+- IMG: Dropp - FreeSerifBold_100_LF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSerifBold_50_HF.png.wav.png.png - OCR_TEXT: UWI AR Ua h
+- IMG: Dropp - FreeSerif_75_LF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSerifBold_25_HF.jpeg.wav.png.png - OCR_TEXT: SUT ENA
+- IMG: Rain  - FreeSans_100_LF.jpeg.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeSerifBold_25_HF.jpeg.wav.png.png - OCR_TEXT: NTNU UMUNILE
+- IMG: Dropp - FreeSerif_75_LF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Dropp - FreeMono_100_LF.pbm.wav.png.png - OCR_TEXT: D0) geal Cum AVC
+- IMG: Rain  - FreeSerifBold_50_HF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeSerif_25_LF.jpeg.wav.png.png - OCR_TEXT: nh na Ha) aD
+- IMG: Rain  - FreeSansBold_25_LF.jpeg.wav.png.png - OCR_TEXT: aT ee a
+- IMG: Dropp - FreeMonoBold_100_LF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeMonoBold_100_HF.pbm.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: Dropp - FreeMono_50_LF.png.wav.png.png - OCR_TEXT: Ot Ue nO ae
+- IMG: Dropp - FreeMono_50_HF.png.wav.png.png - OCR_TEXT: GRIT TN aTSE fuk
+- IMG: Rain  - FreeSerif_75_LF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: No If - FreeSerif_100_LF.pbm.wav.png.png - OCR_TEXT: NO TFS, ANDS, OR BUTS
+- IMG: Dropp - FreeSansBold_50_HF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSerifBold_100_HF.png.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: No If - FreeMono_50_HF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: Dropp - FreeSansBold_25_HF.jpeg.wav.png.png - OCR_TEXT: Daag
+- IMG: Rain  - FreeSansBold_75_HF.png.wav.png.png - OCR_TEXT: TAAL)
+- IMG: No If - FreeSerif_75_HF.pbm.wav.png.png - OCR_TEXT: NO IF, ANDS, OR BUTS
+- IMG: Dropp - FreeMonoBold_75_LF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Dropp - FreeSerifBold_75_HF.jpeg.wav.png.png - OCR_TEXT: VU aa ACA ALAA
+- IMG: Dropp - FreeSerifBold_75_HF.png.wav.png.png - OCR_TEXT: Uae Nica aI aL
+- IMG: Rain  - FreeSans_50_HF.pbm.wav.png.png - OCR_TEXT: a aa
+- IMG: Dropp - FreeSerif_100_LF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Dropp - FreeSans_75_HF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Dropp - FreeSans_75_HF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Rain  - FreeMono_25_LF.png.wav.png.png - OCR_TEXT: 
+- IMG: Dropp - FreeMonoBold_100_HF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Rain  - FreeMonoBold_100_HF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeSansBold_75_HF.png.wav.png.png - OCR_TEXT: Tie daI CHL Vala
+- IMG: No If - FreeSansBold_75_LF.png.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: No If - FreeMono_75_HF.png.wav.png.png - OCR_TEXT: NO IFS, ANDS, OF Aas
+- IMG: No If - FreeSerifBold_25_LF.png.wav.png.png - OCR_TEXT: URMILA AO
+- IMG: No If - FreeMono_100_LF.jpeg.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: Dropp - FreeMonoBold_75_HF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Dropp - FreeSerif_25_LF.jpeg.wav.png.png - OCR_TEXT: AT NARI
+- IMG: No If - FreeMonoBold_25_HF.pbm.wav.png.png - OCR_TEXT: Was a
+- IMG: No If - FreeSerif_100_HF.pbm.wav.png.png - OCR_TEXT: NOTION MO anil
+- IMG: Dropp - FreeMono_25_LF.pbm.wav.png.png - OCR_TEXT: ey PAE |p
+- IMG: Dropp - FreeMonoBold_25_LF.pbm.wav.png.png - OCR_TEXT: DROREING LIKE FLIES
+- IMG: Dropp - FreeSansBold_25_LF.pbm.wav.png.png - OCR_TEXT: aa tana a
+- IMG: Dropp - FreeSerif_100_LF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSerifBold_75_HF.jpeg.wav.png.png - OCR_TEXT: NOLS WIAA UE
+- IMG: Rain  - FreeSerif_50_LF.jpeg.wav.png.png - OCR_TEXT: ARIA MARU EMA ANHIE
+- IMG: Dropp - FreeMono_75_LF.jpeg.wav.png.png - OCR_TEXT: Geek team en to Ns
+- IMG: Rain  - FreeSans_25_HF.png.wav.png.png - OCR_TEXT: alata
+- IMG: Dropp - FreeSansBold_75_HF.jpeg.wav.png.png - OCR_TEXT: Tiida CH Vala alot
+- IMG: Dropp - FreeSans_75_LF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSansBold_75_HF.jpeg.wav.png.png - OCR_TEXT: NOU SAUER
+- IMG: No If - FreeMono_50_HF.pbm.wav.png.png - OCR_TEXT: Te ret ty
+- IMG: Dropp - FreeSerif_50_HF.jpeg.wav.png.png - OCR_TEXT: UU RU ANTAL Vaeie)
+- IMG: Rain  - FreeMono_25_HF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: No If - FreeMono_50_HF.png.wav.png.png - OCR_TEXT: Te ret ty
+- IMG: Dropp - FreeSerifBold_50_HF.png.wav.png.png - OCR_TEXT: DROPPING LINE PETES
+- IMG: No If - FreeSerif_50_HF.png.wav.png.png - OCR_TEXT: NVM Seu
+- IMG: Dropp - FreeSans_75_LF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Dropp - FreeSerifBold_75_LF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Dropp - FreeSerifBold_100_HF.jpeg.wav.png.png - OCR_TEXT: DROPPING LUNE FLIES
+- IMG: Rain  - FreeMonoBold_75_HF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeSans_100_HF.jpeg.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeSansBold_75_LF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeMonoBold_100_LF.jpeg.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeMono_50_HF.jpeg.wav.png.png - OCR_TEXT: Git) uu cea
+- IMG: Rain  - FreeSans_75_LF.png.wav.png.png - OCR_TEXT: Pr VMO MAO Uenertat: be
+- IMG: No If - FreeSerif_50_LF.jpeg.wav.png.png - OCR_TEXT: NVA MAN AM EL aetEh
+- IMG: No If - FreeMonoBold_100_LF.jpeg.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: Dropp - FreeSansBold_50_LF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSansBold_100_LF.png.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: No If - FreeSerif_100_LF.png.wav.png.png - OCR_TEXT: NO TFS, ANDS, OR BUTS
+- IMG: No If - FreeMonoBold_100_LF.png.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: Dropp - FreeSerifBold_25_LF.jpeg.wav.png.png - OCR_TEXT: TAU WUN WOR
+- IMG: Dropp - FreeMono_100_HF.png.wav.png.png - OCR_TEXT: P02 RANMA
+- IMG: No If - FreeSerif_50_HF.jpeg.wav.png.png - OCR_TEXT: NODAL SMCH DS
+- IMG: Rain  - FreeSans_75_LF.jpeg.wav.png.png - OCR_TEXT: Pr VAMO MAG Uener tat: De
+- IMG: Rain  - FreeSerifBold_75_LF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeSans_25_LF.jpeg.wav.png.png - OCR_TEXT: ana U apne
+- IMG: Dropp - FreeMonoBold_50_HF.jpeg.wav.png.png - OCR_TEXT: Oe A
+- IMG: Rain  - FreeMonoBold_50_LF.jpeg.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeSans_50_HF.png.wav.png.png - OCR_TEXT: da hedaitaiaalst
+- IMG: Rain  - FreeMonoBold_25_LF.pbm.wav.png.png - OCR_TEXT: TA eC CH
+- IMG: No If - FreeMono_75_HF.pbm.wav.png.png - OCR_TEXT: NO IFS, ANDS, OF Aas
+- IMG: No If - FreeSerif_100_LF.jpeg.wav.png.png - OCR_TEXT: OHI EAIDN IO esledin
+- IMG: Dropp - FreeSansBold_50_HF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Rain  - FreeSerifBold_75_LF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeMonoBold_75_HF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeSerifBold_50_LF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Rain  - FreeSans_75_LF.pbm.wav.png.png - OCR_TEXT: Pr VMO MAO Uenertat: be
+- IMG: Dropp - FreeSans_25_LF.png.wav.png.png - OCR_TEXT: Aa Uae
+- IMG: No If - FreeMonoBold_50_LF.pbm.wav.png.png - OCR_TEXT: ORS NS Pam LU
+- IMG: Dropp - FreeSans_50_LF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Rain  - FreeSerif_50_HF.jpeg.wav.png.png - OCR_TEXT: RAINON YOUR PARADE
+- IMG: Rain  - FreeSerif_25_HF.jpeg.wav.png.png - OCR_TEXT: STE AVALT
+- IMG: Dropp - FreeMono_75_LF.pbm.wav.png.png - OCR_TEXT: Osa Cane ai
+- IMG: Dropp - FreeSansBold_100_LF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeMonoBold_25_LF.png.wav.png.png - OCR_TEXT: NO TPS, NDS, On LTS
+- IMG: Dropp - FreeSans_100_LF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeMonoBold_100_HF.png.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: No If - FreeMono_75_LF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Rain  - FreeMono_75_HF.jpeg.wav.png.png - OCR_TEXT: ?, MYO AO em ec te Ie ?
+- IMG: Dropp - FreeSerif_50_LF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Rain  - FreeSansBold_100_HF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeSans_100_LF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSerifBold_75_HF.png.wav.png.png - OCR_TEXT: NORE WU auth
+- IMG: Rain  - FreeMono_25_HF.png.wav.png.png - OCR_TEXT: 
+- IMG: No If - FreeMonoBold_25_LF.jpeg.wav.png.png - OCR_TEXT: NOTES, ANDS, On UTS
+- IMG: No If - FreeSerif_75_LF.png.wav.png.png - OCR_TEXT: ORION RO GNEI
+- IMG: Dropp - FreeSerifBold_75_LF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSans_75_HF.pbm.wav.png.png - OCR_TEXT: NO IFS, ANDS, QR BUTS
+- IMG: No If - FreeSans_100_HF.jpeg.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: Rain  - FreeMonoBold_25_HF.pbm.wav.png.png - OCR_TEXT: aL
+- IMG: No If - FreeMono_100_LF.pbm.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: Rain  - FreeMonoBold_75_LF.pbm.wav.png.png - OCR_TEXT: EUAN IRON COU Mg)
+- IMG: Dropp - FreeSerifBold_25_LF.png.wav.png.png - OCR_TEXT: TAURI AO
+- IMG: No If - FreeSans_25_HF.jpeg.wav.png.png - OCR_TEXT: ne ee
+- IMG: No If - FreeSans_75_LF.png.wav.png.png - OCR_TEXT: NO IFS, ANDS. OR BUTS
+- IMG: Rain  - FreeSerif_25_LF.pbm.wav.png.png - OCR_TEXT: mM vt , i Bat aT
+- IMG: Rain  - FreeMono_25_HF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: Dropp - FreeSansBold_50_HF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSerif_25_LF.png.wav.png.png - OCR_TEXT: ST eA AT
+- IMG: No If - FreeSansBold_50_HF.jpeg.wav.png.png - OCR_TEXT: ROE
+- IMG: No If - FreeSans_50_HF.jpeg.wav.png.png - OCR_TEXT: NFS, ANDS, OF BUTS
+- IMG: Dropp - FreeSerif_75_LF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Rain  - FreeMonoBold_100_LF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeMonoBold_75_HF.jpeg.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeMonoBold_25_LF.png.wav.png.png - OCR_TEXT: DROREING LIKE FLIES
+- IMG: Rain  - FreeMono_50_HF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Rain  - FreeSans_25_HF.pbm.wav.png.png - OCR_TEXT: alata
+- IMG: Rain  - FreeSans_25_LF.jpeg.wav.png.png - OCR_TEXT: ELA
+- IMG: No If - FreeSans_50_LF.pbm.wav.png.png - OCR_TEXT: NOS WSm Ota hhs
+- IMG: No If - FreeMonoBold_100_HF.jpeg.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: Dropp - FreeMonoBold_75_HF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Rain  - FreeMonoBold_25_HF.png.wav.png.png - OCR_TEXT: aL
+- IMG: No If - FreeSansBold_75_LF.jpeg.wav.png.png - OCR_TEXT: ROR Some: USO Gas U RS
+- IMG: Rain  - FreeSansBold_75_LF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeSansBold_100_HF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Dropp - FreeSans_25_HF.pbm.wav.png.png - OCR_TEXT: Saye
+- IMG: No If - FreeMono_100_HF.jpeg.wav.png.png - OCR_TEXT: GROG Sormrc Irae) sausi pie
+- IMG: Rain  - FreeMono_100_HF.jpeg.wav.png.png - OCR_TEXT: RAIN ON YOUK PARADE
+- IMG: Dropp - FreeSans_100_HF.pbm.wav.png.png - OCR_TEXT: Ui ami\\GHa stg st
+- IMG: No If - FreeSerifBold_75_HF.pbm.wav.png.png - OCR_TEXT: NORE WU auth
+- IMG: No If - FreeSans_50_HF.pbm.wav.png.png - OCR_TEXT: NOS Saeiatatt
+- IMG: Dropp - FreeMonoBold_100_LF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Rain  - FreeMono_25_LF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Dropp - FreeMonoBold_50_HF.pbm.wav.png.png - OCR_TEXT: eA A
+- IMG: Dropp - FreeSansBold_100_HF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSans_75_LF.jpeg.wav.png.png - OCR_TEXT: NO IFS, ANDS, OB BUTS
+- IMG: Rain  - FreeSerif_100_HF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeSerif_50_LF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeSerif_25_HF.jpeg.wav.png.png - OCR_TEXT: NON nan
+- IMG: Rain  - FreeSerifBold_50_HF.jpeg.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeSansBold_75_LF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeMonoBold_50_LF.png.wav.png.png - OCR_TEXT: ORS NS Pam LU
+- IMG: Dropp - FreeMonoBold_50_LF.jpeg.wav.png.png - OCR_TEXT: Daa A
+- IMG: Rain  - FreeMono_75_LF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeMono_75_HF.png.wav.png.png - OCR_TEXT: DO san Ce nea pare
+- IMG: Rain  - FreeSerifBold_25_HF.pbm.wav.png.png - OCR_TEXT: MTN UMUUL
+- IMG: No If - FreeSansBold_50_LF.png.wav.png.png - OCR_TEXT: NOIFS, ANDS, OR BUTS
+- IMG: Dropp - FreeSansBold_25_LF.png.wav.png.png - OCR_TEXT: aa tana a
+- IMG: Dropp - FreeSerif_50_HF.png.wav.png.png - OCR_TEXT: DROPPING LINE FLIES
+- IMG: Rain  - FreeSansBold_50_HF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeSerifBold_75_HF.pbm.wav.png.png - OCR_TEXT: Uae Nica aI aL
+- IMG: Rain  - FreeSerifBold_75_HF.png.wav.png.png - OCR_TEXT: RAIN QN YOUR PARADE
+- IMG: Dropp - FreeSansBold_75_LF.png.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Dropp - FreeSerifBold_50_LF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Rain  - FreeSansBold_100_LF.pbm.wav.png.png - OCR_TEXT: RENO AOL ayer]:
+- IMG: Rain  - FreeSerif_25_HF.png.wav.png.png - OCR_TEXT: aS ERMA
+- IMG: Rain  - FreeSansBold_25_LF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Dropp - FreeMono_25_HF.png.wav.png.png - OCR_TEXT: a eA
+- IMG: Dropp - FreeSerif_25_HF.png.wav.png.png - OCR_TEXT: TMA
+- IMG: No If - FreeMono_75_LF.png.wav.png.png - OCR_TEXT: 
+- IMG: Rain  - FreeSansBold_50_HF.jpeg.wav.png.png - OCR_TEXT: eS
+- IMG: Dropp - FreeMono_100_HF.pbm.wav.png.png - OCR_TEXT: P02 RANMA
+- IMG: No If - FreeSansBold_25_HF.png.wav.png.png - OCR_TEXT: ae tts
+- IMG: Rain  - FreeSans_25_LF.png.wav.png.png - OCR_TEXT: OTA A
+- IMG: No If - FreeMono_50_LF.png.wav.png.png - OCR_TEXT: 
+- IMG: Rain  - FreeSansBold_50_LF.pbm.wav.png.png - OCR_TEXT: FAT
+- IMG: No If - FreeSans_25_LF.png.wav.png.png - OCR_TEXT: Na a
+- IMG: Rain  - FreeSerifBold_100_HF.jpeg.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeSans_50_HF.pbm.wav.png.png - OCR_TEXT: da hedaitaiaalst
+- IMG: No If - FreeSerif_50_LF.png.wav.png.png - OCR_TEXT: VOTES. ANS. OR BUTS
+- IMG: Dropp - FreeSerifBold_25_HF.jpeg.wav.png.png - OCR_TEXT: TUVALA
+- IMG: No If - FreeMonoBold_25_LF.pbm.wav.png.png - OCR_TEXT: NO TPS, NDS, On LTS
+- IMG: Rain  - FreeSansBold_100_HF.jpeg.wav.png.png - OCR_TEXT: ROMA U ett 0)
+- IMG: No If - FreeSansBold_50_LF.pbm.wav.png.png - OCR_TEXT: NOIFS, ANDS, OR BUTS
+- IMG: Rain  - FreeSerifBold_75_HF.jpeg.wav.png.png - OCR_TEXT: NAVMROAR Ca ae Uy
+- IMG: Rain  - FreeSerifBold_100_HF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: No If - FreeMonoBold_75_LF.jpeg.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: No If - FreeSans_25_LF.jpeg.wav.png.png - OCR_TEXT: We ea ac tT a
+- IMG: Rain  - FreeSerifBold_100_LF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeSerif_50_LF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIPS
+- IMG: No If - FreeSans_100_HF.png.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: No If - FreeSerif_25_HF.pbm.wav.png.png - OCR_TEXT: TOD Lan
+- IMG: No If - FreeSansBold_100_LF.pbm.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: No If - FreeMonoBold_75_LF.pbm.wav.png.png - OCR_TEXT: NO IFS, ANDS, OR BUTS
+- IMG: Rain  - FreeSerifBold_25_LF.pbm.wav.png.png - OCR_TEXT: RYMUSVULR TKD)
+- IMG: Dropp - FreeMono_25_HF.jpeg.wav.png.png - OCR_TEXT: on a
+- IMG: Dropp - FreeMonoBold_25_HF.jpeg.wav.png.png - OCR_TEXT: PUI tm OL mal
+- IMG: Rain  - FreeSans_75_HF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: No If - FreeMono_25_LF.png.wav.png.png - OCR_TEXT: 
+- IMG: Dropp - FreeSerif_25_LF.pbm.wav.png.png - OCR_TEXT: NT NAIR
+- IMG: Dropp - FreeMono_50_HF.pbm.wav.png.png - OCR_TEXT: GRIT TN aTSE fuk
+- IMG: No If - FreeSerif_75_LF.pbm.wav.png.png - OCR_TEXT: ORION RO GNEI
+- IMG: Rain  - FreeSansBold_100_HF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Rain  - FreeMono_50_LF.jpeg.wav.png.png - OCR_TEXT: NVR Nam LOS LT
+- IMG: No If - FreeSerifBold_75_LF.jpeg.wav.png.png - OCR_TEXT: NOUS, ANDS, OR BUTS
+- IMG: Dropp - FreeMonoBold_50_LF.png.wav.png.png - OCR_TEXT: Daa A ean
+- IMG: Rain  - FreeSerif_75_LF.png.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: No If - FreeSerif_50_HF.pbm.wav.png.png - OCR_TEXT: NVM Seu
+- IMG: Dropp - FreeMonoBold_25_LF.jpeg.wav.png.png - OCR_TEXT: DROREING LIKE FLIES
+- IMG: Rain  - FreeSans_100_LF.pbm.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: No If - FreeSerif_75_HF.jpeg.wav.png.png - OCR_TEXT: NO IF, ANDY, OR BUTS
+- IMG: Rain  - FreeSans_50_HF.jpeg.wav.png.png - OCR_TEXT: Rta
+- IMG: Rain  - FreeMonoBold_25_LF.png.wav.png.png - OCR_TEXT: TA eC CH
+- IMG: Rain  - FreeSansBold_75_HF.pbm.wav.png.png - OCR_TEXT: TAAL)
+- IMG: Rain  - FreeSansBold_25_LF.png.wav.png.png - OCR_TEXT: 
+- IMG: Dropp - FreeSansBold_100_HF.jpeg.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: Dropp - FreeSerif_75_HF.png.wav.png.png - OCR_TEXT: UNG da GHB Aran i
+- IMG: Rain  - FreeSerifBold_50_LF.png.wav.png.png - OCR_TEXT: ETREU MM LUMAR E TID
+- IMG: No If - FreeSerif_100_HF.jpeg.wav.png.png - OCR_TEXT: NOTION mO a nied
+- IMG: Rain  - FreeSerif_25_LF.png.wav.png.png - OCR_TEXT: mM vt , i Bat aT
+- IMG: Rain  - FreeSansBold_25_HF.png.wav.png.png - OCR_TEXT: Pita ls
+- IMG: Rain  - FreeMonoBold_50_LF.png.wav.png.png - OCR_TEXT: UO OU UT
+- IMG: Dropp - FreeSansBold_50_LF.pbm.wav.png.png - OCR_TEXT: DROPPING LIKE FLIES
+- IMG: No If - FreeMono_75_LF.jpeg.wav.png.png - OCR_TEXT: Leet
+- IMG: Tug o - FreeSans_50_HF.png.wav.png.png - OCR_TEXT: eee
+- IMG: Quali - FreeMonoBold_50_HF.png.wav.png.png - OCR_TEXT: UVa
+- IMG: Every - FreeSerif_50_HF.pbm.wav.png.png - OCR_TEXT: DEENA aL
+- IMG: Quali - FreeMonoBold_100_HF.png.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Every - FreeSansBold_50_LF.png.wav.png.png - OCR_TEXT: ATTA TNCHSUDM EG A CALA SIL
+- IMG: Every - FreeMonoBold_100_LF.png.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN
+- IMG: Tug o - FreeMono_50_LF.jpeg.wav.png.png - OCR_TEXT: Ua ite
+- IMG: Tug o - FreeSans_75_LF.pbm.wav.png.png - OCR_TEXT: VCO Ts
+- IMG: Quali - FreeMonoBold_75_LF.png.wav.png.png - OCR_TEXT: HU IAUNae BNI
+- IMG: Quali - FreeMono_75_LF.pbm.wav.png.png - OCR_TEXT: CaN
+- IMG: Tug o - FreeSansBold_100_HF.pbm.wav.png.png - OCR_TEXT: Oar
+- IMG: Every - FreeSerifBold_75_LF.png.wav.png.png - OCR_TEXT: VOSA MRA TGAHICL IMAG TDIGM RO TTONINYIA I)
+- IMG: Quali - FreeSerifBold_25_LF.jpeg.wav.png.png - OCR_TEXT: TERIA)
+- IMG: Quali - FreeSans_100_LF.jpeg.wav.png.png - OCR_TEXT: CRNAs
+- IMG: Quali - FreeSerifBold_75_LF.pbm.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Quali - FreeMonoBold_25_HF.png.wav.png.png - OCR_TEXT: nm a
+- IMG: Every - FreeMono_75_HF.pbm.wav.png.png - OCR_TEXT: Mois bMarA Oi cuees ADs TRO MRO LL On
+- IMG: Every - FreeMono_100_HF.jpeg.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN
+- IMG: Tug o - FreeSansBold_50_LF.png.wav.png.png - OCR_TEXT: CHORE:
+- IMG: Every - FreeMonoBold_75_HF.jpeg.wav.png.png - OCR_TEXT: APSO MESON CRs LUy mesa oA TA
+- IMG: Every - FreeSansBold_50_HF.jpeg.wav.png.png - OCR_TEXT: SR et
+- IMG: Tug o - FreeSerif_25_HF.png.wav.png.png - OCR_TEXT: if Ah
+- IMG: Quali - FreeMono_100_HF.jpeg.wav.png.png - OCR_TEXT: Oy eee envy
+- IMG: Tug o - FreeSerif_100_LF.pbm.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Tug o - FreeSans_100_LF.jpeg.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Tug o - FreeSerif_75_HF.jpeg.wav.png.png - OCR_TEXT: NOY
+- IMG: Every - FreeSerifBold_100_HF.pbm.wav.png.png - OCR_TEXT: UAW Re UALCA Od Be OUI
+- IMG: Tug o - FreeSerifBold_25_HF.jpeg.wav.png.png - OCR_TEXT: UAL
+- IMG: Quali - FreeSerifBold_50_LF.pbm.wav.png.png - OCR_TEXT: EAA
+- IMG: Quali - FreeSerifBold_75_HF.jpeg.wav.png.png - OCR_TEXT: COTTA
+- IMG: Every - FreeSerif_75_LF.pbm.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Every - FreeSerif_100_HF.pbm.wav.png.png - OCR_TEXT: PAPO OUT TINGH SON NDT PANGO LOTTA
+- IMG: Tug o - FreeSans_50_LF.pbm.wav.png.png - OCR_TEXT: vee ai
+- IMG: Tug o - FreeSerifBold_75_LF.png.wav.png.png - OCR_TEXT: UFO
+- IMG: Quali - FreeMono_100_LF.pbm.wav.png.png - OCR_TEXT: Oa eee
+- IMG: Tug o - FreeMono_25_LF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: Every - FreeMonoBold_75_HF.pbm.wav.png.png - OCR_TEXT: YASS MUS ACER iM Ws Cm OCs
+- IMG: Quali - FreeSerifBold_100_HF.pbm.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Tug o - FreeMono_75_HF.pbm.wav.png.png - OCR_TEXT: NCR
+- IMG: Every - FreeSansBold_75_LF.jpeg.wav.png.png - OCR_TEXT: TS ATCA aM eo i
+- IMG: Tug o - FreeSerif_25_LF.pbm.wav.png.png - OCR_TEXT: inva
+- IMG: Every - FreeMonoBold_100_HF.pbm.wav.png.png - OCR_TEXT: AHS 508 (Cal 0 ct eK st
+- IMG: Every - FreeMono_75_LF.pbm.wav.png.png - OCR_TEXT: SraeNOUCHN Cees NAc A ON NOT
+- IMG: Quali - FreeSansBold_50_HF.jpeg.wav.png.png - OCR_TEXT: aa
+- IMG: Tug o - FreeMonoBold_100_HF.jpeg.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Every - FreeMono_75_HF.jpeg.wav.png.png - OCR_TEXT: Ager Arae coms) el CRORES
+- IMG: Quali - FreeSerif_100_HF.png.wav.png.png - OCR_TEXT: UBUD ale
+- IMG: Every - FreeSansBold_25_HF.pbm.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Tug o - FreeMono_50_LF.png.wav.png.png - OCR_TEXT: ARO
+- IMG: Every - FreeSans_25_HF.png.wav.png.png - OCR_TEXT: asia RIS
+- IMG: Every - FreeSansBold_25_LF.pbm.wav.png.png - OCR_TEXT: TENA
+- IMG: Every - FreeSerifBold_100_LF.jpeg.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KEPCHE
+- IMG: Every - FreeSans_50_LF.pbm.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Quali - FreeSerif_25_HF.pbm.wav.png.png - OCR_TEXT: ca a
+- IMG: Every - FreeMonoBold_100_HF.jpeg.wav.png.png - OCR_TEXT: AVA) 09am JU ect ee KO st
+- IMG: Every - FreeMono_25_LF.pbm.wav.png.png - OCR_TEXT: ei eee ea
+- IMG: Tug o - FreeSerif_100_HF.png.wav.png.png - OCR_TEXT: Re aN
+- IMG: Tug o - FreeSerifBold_100_LF.jpeg.wav.png.png - OCR_TEXT: UCC) AE
+- IMG: Quali - FreeMonoBold_50_HF.jpeg.wav.png.png - OCR_TEXT: aU VON
+- IMG: Every - FreeSerif_75_HF.jpeg.wav.png.png - OCR_TEXT: PHO TH NC HLON In Url PLO RICAN
+- IMG: Every - FreeMonoBold_25_LF.png.wav.png.png - OCR_TEXT: AEN RE OA
+- IMG: Every - FreeSerif_50_HF.png.wav.png.png - OCR_TEXT: DEENA aL
+- IMG: Quali - FreeSans_100_HF.jpeg.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Quali - FreeSans_75_LF.pbm.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Every - FreeMono_100_LF.png.wav.png.png - OCR_TEXT: TAO ns OG GamolO seas lian em k@ nc e
+- IMG: Every - FreeSerifBold_50_LF.jpeg.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Every - FreeSans_25_HF.pbm.wav.png.png - OCR_TEXT: asia RIS
+- IMG: Tug o - FreeMono_25_LF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Every - FreeSerifBold_25_LF.jpeg.wav.png.png - OCR_TEXT: AUTABHIALO MIM HLBLIARIAN
+- IMG: Quali - FreeMono_50_HF.jpeg.wav.png.png - OCR_TEXT: sive ete
+- IMG: Tug o - FreeSerifBold_100_HF.jpeg.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Tug o - FreeSerif_50_LF.jpeg.wav.png.png - OCR_TEXT: LUCY
+- IMG: Every - FreeSerif_25_HF.pbm.wav.png.png - OCR_TEXT: MELAS UE AA
+- IMG: Every - FreeSans_100_LF.pbm.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN
+- IMG: Tug o - FreeSans_100_HF.jpeg.wav.png.png - OCR_TEXT: Omi
+- IMG: Quali - FreeSansBold_50_HF.png.wav.png.png - OCR_TEXT: aa
+- IMG: Quali - FreeSans_25_HF.png.wav.png.png - OCR_TEXT: AN kal
+- IMG: Quali - FreeSerif_100_HF.pbm.wav.png.png - OCR_TEXT: UBUD ale
+- IMG: Quali - FreeMonoBold_100_LF.jpeg.wav.png.png - OCR_TEXT: Uva ead
+- IMG: Tug o - FreeSerif_100_HF.pbm.wav.png.png - OCR_TEXT: Re aN
+- IMG: Quali - FreeSans_50_LF.jpeg.wav.png.png - OCR_TEXT: OURS
+- IMG: Quali - FreeMono_100_HF.pbm.wav.png.png - OCR_TEXT: SU ae aul
+- IMG: Quali - FreeSans_25_LF.pbm.wav.png.png - OCR_TEXT: AY RUA
+- IMG: Tug o - FreeMono_75_HF.png.wav.png.png - OCR_TEXT: NCR
+- IMG: Tug o - FreeMono_100_LF.pbm.wav.png.png - OCR_TEXT: TUG Qf WAR
+- IMG: Tug o - FreeSans_50_HF.jpeg.wav.png.png - OCR_TEXT: eee
+- IMG: Every - FreeMonoBold_50_LF.jpeg.wav.png.png - OCR_TEXT: NAA SeaN Con UA CON SH
+- IMG: Every - FreeSerif_50_LF.pbm.wav.png.png - OCR_TEXT: ATTN ATOM TACT
+- IMG: Every - FreeSans_75_LF.jpeg.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Every - FreeSerifBold_100_LF.pbm.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KIT CHE
+- IMG: Tug o - FreeSansBold_25_LF.png.wav.png.png - OCR_TEXT: TWGCF WAP
+- IMG: Tug o - FreeMonoBold_25_HF.pbm.wav.png.png - OCR_TEXT: ee
+- IMG: Quali - FreeSerif_100_LF.png.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Quali - FreeMonoBold_100_LF.png.wav.png.png - OCR_TEXT: UNG ead
+- IMG: Tug o - FreeSerif_50_HF.png.wav.png.png - OCR_TEXT: UC
+- IMG: Tug o - FreeSans_50_LF.png.wav.png.png - OCR_TEXT: vee ai
+- IMG: Every - FreeSerif_100_LF.jpeg.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN ?
+- IMG: Tug o - FreeSansBold_25_LF.jpeg.wav.png.png - OCR_TEXT: Metal
+- IMG: Quali - FreeMonoBold_75_HF.png.wav.png.png - OCR_TEXT: veel D
+- IMG: Quali - FreeSans_50_HF.png.wav.png.png - OCR_TEXT: NUMA
+- IMG: Tug o - FreeSerifBold_50_HF.png.wav.png.png - OCR_TEXT: CCR
+- IMG: Every - FreeMonoBold_25_HF.png.wav.png.png - OCR_TEXT: Le ART
+- IMG: Every - FreeSans_25_LF.png.wav.png.png - OCR_TEXT: UU ACR LL eR
+- IMG: Every - FreeSans_25_LF.pbm.wav.png.png - OCR_TEXT: UU ACR LL eR
+- IMG: Every - FreeSerif_75_LF.jpeg.wav.png.png - OCR_TEXT: : EVERYTHING BUT THE KITCHEN SINK
+- IMG: Every - FreeSerifBold_75_LF.jpeg.wav.png.png - OCR_TEXT: VERYTHING BUT THE KEPCHEN SINK
+- IMG: Every - FreeSans_75_LF.pbm.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Quali - FreeSansBold_75_HF.jpeg.wav.png.png - OCR_TEXT: CURIA Ae
+- IMG: Every - FreeMonoBold_75_HF.png.wav.png.png - OCR_TEXT: YASS MUS ACER iM Ws Cm OCs
+- IMG: Quali - FreeSansBold_25_HF.png.wav.png.png - OCR_TEXT: a NAA
+- IMG: Every - FreeMonoBold_75_LF.pbm.wav.png.png - OCR_TEXT: AH 8 SONA UMAR ns MK ORs A ON
+- IMG: Every - FreeSansBold_100_HF.jpeg.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN
+- IMG: Tug o - FreeSerifBold_100_LF.png.wav.png.png - OCR_TEXT: UCC) AN
+- IMG: Quali - FreeSans_100_LF.png.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Every - FreeMonoBold_100_HF.png.wav.png.png - OCR_TEXT: AHS 508 (Cal 0 ct eK st
+- IMG: Tug o - FreeMono_25_HF.pbm.wav.png.png - OCR_TEXT: ee
+- IMG: Quali - FreeMono_75_HF.png.wav.png.png - OCR_TEXT: VR ee ene
+- IMG: Every - FreeSansBold_75_HF.png.wav.png.png - OCR_TEXT: SPMD eb eo
+- IMG: Every - FreeSerif_75_HF.png.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Quali - FreeSerif_25_HF.jpeg.wav.png.png - OCR_TEXT: Pa
+- IMG: Tug o - FreeMono_100_HF.jpeg.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Every - FreeSans_50_HF.pbm.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Quali - FreeMonoBold_50_LF.png.wav.png.png - OCR_TEXT: at aaa
+- IMG: Every - FreeSerif_100_LF.png.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN ?
+- IMG: Tug o - FreeSansBold_100_LF.png.wav.png.png - OCR_TEXT: ene anys
+- IMG: Quali - FreeSans_50_HF.pbm.wav.png.png - OCR_TEXT: NUMA
+- IMG: Quali - FreeSerifBold_75_LF.jpeg.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Tug o - FreeSansBold_50_LF.jpeg.wav.png.png - OCR_TEXT: CHO:
+- IMG: Every - FreeSans_100_HF.pbm.wav.png.png - OCR_TEXT: aN AU al CEUs teal
+- IMG: Tug o - FreeSansBold_50_HF.png.wav.png.png - OCR_TEXT: 
+- IMG: Quali - FreeMonoBold_50_HF.pbm.wav.png.png - OCR_TEXT: UVa
+- IMG: Tug o - FreeSerifBold_25_HF.png.wav.png.png - OCR_TEXT: ILA
+- IMG: Quali - FreeSansBold_25_LF.pbm.wav.png.png - OCR_TEXT: ArT
+- IMG: Quali - FreeSerifBold_75_HF.png.wav.png.png - OCR_TEXT: CAS TAIL
+- IMG: Every - FreeSerifBold_50_HF.png.wav.png.png - OCR_TEXT: ATSC ALVA
+- IMG: Quali - FreeSansBold_100_LF.jpeg.wav.png.png - OCR_TEXT: CEA aril
+- IMG: Tug o - FreeSerifBold_75_HF.jpeg.wav.png.png - OCR_TEXT: Taree EY
+- IMG: Every - FreeMono_50_LF.jpeg.wav.png.png - OCR_TEXT: eG en cast ee ND
+- IMG: Quali - FreeSansBold_50_LF.jpeg.wav.png.png - OCR_TEXT: OA:
+- IMG: Tug o - FreeSansBold_50_HF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: Quali - FreeMono_25_LF.png.wav.png.png - OCR_TEXT: 
+- IMG: Quali - FreeSansBold_75_HF.png.wav.png.png - OCR_TEXT: UA
+- IMG: Every - FreeMonoBold_50_HF.jpeg.wav.png.png - OCR_TEXT: NSA Us RNC UN eu SA
+- IMG: Quali - FreeSerifBold_50_LF.jpeg.wav.png.png - OCR_TEXT: EAM
+- IMG: Quali - FreeSerif_75_LF.pbm.wav.png.png - OCR_TEXT: OUALITY TIME
+- IMG: Quali - FreeSerif_50_LF.jpeg.wav.png.png - OCR_TEXT: VAIO Mle
+- IMG: Quali - FreeMonoBold_25_LF.pbm.wav.png.png - OCR_TEXT: a ee
+- IMG: Quali - FreeSans_50_HF.jpeg.wav.png.png - OCR_TEXT: OUR
+- IMG: Every - FreeSerifBold_100_LF.png.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KIT CHE
+- IMG: Every - FreeSerifBold_75_LF.pbm.wav.png.png - OCR_TEXT: VOSA MRA TGAHICL IMAG TDIGM RO TTONINYIA I)
+- IMG: Quali - FreeMono_50_LF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: Tug o - FreeSansBold_75_HF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Quali - FreeMono_50_HF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Tug o - FreeMono_25_HF.jpeg.wav.png.png - OCR_TEXT: eo
+- IMG: Every - FreeMono_25_HF.pbm.wav.png.png - OCR_TEXT: faa | em |
+- IMG: Tug o - FreeMono_25_HF.png.wav.png.png - OCR_TEXT: ee
+- IMG: Tug o - FreeMonoBold_25_LF.png.wav.png.png - OCR_TEXT: TG OP WAR
+- IMG: Quali - FreeSerif_75_HF.jpeg.wav.png.png - OCR_TEXT: OR aiiile
+- IMG: Quali - FreeSerifBold_75_HF.pbm.wav.png.png - OCR_TEXT: CAS TAIL
+- IMG: Quali - FreeMono_100_HF.png.wav.png.png - OCR_TEXT: SU ae aul
+- IMG: Every - FreeSansBold_50_HF.pbm.wav.png.png - OCR_TEXT: TSU Hl
+- IMG: Tug o - FreeMono_100_HF.png.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Quali - FreeSans_50_LF.png.wav.png.png - OCR_TEXT: OURS
+- IMG: Quali - FreeSansBold_25_HF.pbm.wav.png.png - OCR_TEXT: a NAA
+- IMG: Tug o - FreeSans_25_LF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Every - FreeSerifBold_50_HF.jpeg.wav.png.png - OCR_TEXT: ACU TN LAA
+- IMG: Every - FreeMono_25_HF.png.wav.png.png - OCR_TEXT: faa | em |
+- IMG: Quali - FreeSans_75_HF.jpeg.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Quali - FreeSansBold_25_LF.jpeg.wav.png.png - OCR_TEXT: ArT
+- IMG: Quali - FreeMono_25_HF.png.wav.png.png - OCR_TEXT: alr ro re eee a
+- IMG: Every - FreeSans_100_LF.png.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN
+- IMG: Tug o - FreeMono_25_LF.png.wav.png.png - OCR_TEXT: 
+- IMG: Every - FreeSerifBold_25_HF.png.wav.png.png - OCR_TEXT: AUT MAUL
+- IMG: Every - FreeMono_25_LF.png.wav.png.png - OCR_TEXT: ei eee ea
+- IMG: Quali - FreeSans_25_LF.png.wav.png.png - OCR_TEXT: AY RUA
+- IMG: Tug o - FreeSerifBold_25_HF.pbm.wav.png.png - OCR_TEXT: ILA
+- IMG: Tug o - FreeMonoBold_100_LF.png.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Quali - FreeMonoBold_50_LF.pbm.wav.png.png - OCR_TEXT: at aaa
+- IMG: Tug o - FreeMonoBold_75_LF.pbm.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Every - FreeSans_75_HF.pbm.wav.png.png - OCR_TEXT: seat als ACLU alee Len a
+- IMG: Tug o - FreeSerif_75_HF.pbm.wav.png.png - OCR_TEXT: NGO
+- IMG: Every - FreeSansBold_75_HF.pbm.wav.png.png - OCR_TEXT: SPMD eb eo
+- IMG: Quali - FreeSerifBold_25_HF.jpeg.wav.png.png - OCR_TEXT: TRRWN
+- IMG: Every - FreeMono_25_LF.jpeg.wav.png.png - OCR_TEXT: ae
+- IMG: Every - FreeSerif_25_LF.pbm.wav.png.png - OCR_TEXT: DMO ASTRA
+- IMG: Quali - FreeMonoBold_25_LF.png.wav.png.png - OCR_TEXT: a ee
+- IMG: Quali - FreeSerifBold_50_HF.jpeg.wav.png.png - OCR_TEXT: Aiba
+- IMG: Quali - FreeSans_50_LF.pbm.wav.png.png - OCR_TEXT: OURS
+- IMG: Every - FreeMonoBold_75_LF.png.wav.png.png - OCR_TEXT: AH 8 SONA UMAR ns MK ORs A ON
+- IMG: Quali - FreeSerif_75_LF.jpeg.wav.png.png - OCR_TEXT: OU ALITY TIME
+- IMG: Tug o - FreeMonoBold_25_LF.pbm.wav.png.png - OCR_TEXT: TG OP WAR
+- IMG: Tug o - FreeMono_75_HF.jpeg.wav.png.png - OCR_TEXT: ea
+- IMG: Every - FreeSansBold_100_LF.jpeg.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN
+- IMG: Tug o - FreeSerif_75_HF.png.wav.png.png - OCR_TEXT: NGO
+- IMG: Quali - FreeSerifBold_100_LF.jpeg.wav.png.png - OCR_TEXT: AUNTY
+- IMG: Quali - FreeSerifBold_75_LF.png.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Quali - FreeSerif_25_HF.png.wav.png.png - OCR_TEXT: ca a
+- IMG: Tug o - FreeSansBold_25_LF.pbm.wav.png.png - OCR_TEXT: TWGCF WAP
+- IMG: Every - FreeSans_50_HF.png.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Quali - FreeSerifBold_25_HF.pbm.wav.png.png - OCR_TEXT: TEMA
+- IMG: Every - FreeSansBold_50_HF.png.wav.png.png - OCR_TEXT: TSU Hl
+- IMG: Quali - FreeSans_75_HF.png.wav.png.png - OCR_TEXT: OU Ra
+- IMG: Every - FreeMono_50_HF.png.wav.png.png - OCR_TEXT: yeh Ort east Orion NL
+- IMG: Tug o - FreeSansBold_25_HF.png.wav.png.png - OCR_TEXT: TWG OF MAR
+- IMG: Quali - FreeSerifBold_25_LF.pbm.wav.png.png - OCR_TEXT: MARTA
+- IMG: Every - FreeMono_75_LF.jpeg.wav.png.png - OCR_TEXT: Ac NsNAL Comes Mat shal
+- IMG: Quali - FreeSerif_50_HF.pbm.wav.png.png - OCR_TEXT: NURI N
+- IMG: Every - FreeSerif_50_LF.jpeg.wav.png.png - OCR_TEXT: ATA TGR TAN
+- IMG: Tug o - FreeSansBold_100_HF.jpeg.wav.png.png - OCR_TEXT: Oa
+- IMG: Tug o - FreeSerifBold_50_LF.png.wav.png.png - OCR_TEXT: LEH VEN:
+- IMG: Every - FreeSans_25_HF.jpeg.wav.png.png - OCR_TEXT: sian LIS
+- IMG: Quali - FreeSansBold_25_HF.jpeg.wav.png.png - OCR_TEXT: NAA
+- IMG: Quali - FreeSansBold_100_HF.jpeg.wav.png.png - OCR_TEXT: a=
+- IMG: Every - FreeSerifBold_75_HF.pbm.wav.png.png - OCR_TEXT: PANU NO OH UATCMUUN Ome PaAO a ROH UNI IATN
+- IMG: Quali - FreeSerif_100_LF.pbm.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Quali - FreeMono_25_HF.jpeg.wav.png.png - OCR_TEXT: ein
+- IMG: Tug o - FreeMono_100_LF.png.wav.png.png - OCR_TEXT: TUG Qf WAR
+- IMG: Quali - FreeMono_25_LF.jpeg.wav.png.png - OCR_TEXT: nn
+- IMG: Every - FreeSerifBold_25_LF.png.wav.png.png - OCR_TEXT: AUR AMAIA CHLOMLILOSTHLOIIARIRY
+- IMG: Every - FreeSansBold_50_LF.pbm.wav.png.png - OCR_TEXT: ATTA TNCHSUDM EG A CALA SIL
+- IMG: Tug o - FreeSansBold_75_LF.pbm.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Tug o - FreeMonoBold_50_LF.jpeg.wav.png.png - OCR_TEXT: weet
+- IMG: Every - FreeSerif_25_LF.jpeg.wav.png.png - OCR_TEXT: Da NOUR ARR
+- IMG: Tug o - FreeSerifBold_75_LF.pbm.wav.png.png - OCR_TEXT: UFO
+- IMG: Quali - FreeMonoBold_25_HF.jpeg.wav.png.png - OCR_TEXT: Nem A
+- IMG: Tug o - FreeSansBold_50_LF.pbm.wav.png.png - OCR_TEXT: CHORE:
+- IMG: Quali - FreeSerif_25_LF.png.wav.png.png - OCR_TEXT: AYN
+- IMG: Tug o - FreeSans_25_HF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Every - FreeMono_75_LF.png.wav.png.png - OCR_TEXT: SraeNOUCHN Cees NAc A ON NOT
+- IMG: Every - FreeMono_100_HF.png.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN
+- IMG: Tug o - FreeMono_75_LF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Quali - FreeMonoBold_75_HF.pbm.wav.png.png - OCR_TEXT: veel D
+- IMG: Tug o - FreeSans_25_HF.jpeg.wav.png.png - OCR_TEXT: This
+- IMG: Tug o - FreeSerifBold_50_HF.jpeg.wav.png.png - OCR_TEXT: CCR
+- IMG: Tug o - FreeSans_25_HF.png.wav.png.png - OCR_TEXT: 
+- IMG: Tug o - FreeMonoBold_100_LF.pbm.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Quali - FreeMonoBold_25_LF.jpeg.wav.png.png - OCR_TEXT: i eee
+- IMG: Quali - FreeSans_25_LF.jpeg.wav.png.png - OCR_TEXT: an Ra
+- IMG: Quali - FreeSansBold_100_HF.png.wav.png.png - OCR_TEXT: a=
+- IMG: Every - FreeMono_100_LF.pbm.wav.png.png - OCR_TEXT: TAO ns OG GamolO seas lian em k@ nc e
+- IMG: Tug o - FreeSansBold_75_LF.png.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Tug o - FreeSansBold_75_HF.png.wav.png.png - OCR_TEXT: 
+- IMG: Tug o - FreeMonoBold_100_HF.png.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Quali - FreeMono_75_HF.jpeg.wav.png.png - OCR_TEXT: ni nAaNNt
+- IMG: Every - FreeMonoBold_50_HF.png.wav.png.png - OCR_TEXT: ASSURING A
+- IMG: Tug o - FreeSans_50_HF.pbm.wav.png.png - OCR_TEXT: eee
+- IMG: Every - FreeSansBold_100_LF.png.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN
+- IMG: Tug o - FreeMonoBold_75_LF.png.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Every - FreeSerifBold_75_HF.png.wav.png.png - OCR_TEXT: PANU NO OH UATCMUUN Ome PaAO a ROH UNI IATN
+- IMG: Every - FreeMono_25_HF.jpeg.wav.png.png - OCR_TEXT: Fae ei
+- IMG: Tug o - FreeMono_50_HF.pbm.wav.png.png - OCR_TEXT: AUS
+- IMG: Tug o - FreeSansBold_100_HF.png.wav.png.png - OCR_TEXT: Oar
+- IMG: Quali - FreeMono_50_LF.png.wav.png.png - OCR_TEXT: 
+- IMG: Quali - FreeSerif_50_HF.png.wav.png.png - OCR_TEXT: NURI N
+- IMG: Every - FreeSerifBold_100_HF.jpeg.wav.png.png - OCR_TEXT: PEDO RHUL ed Ue OO ert
+- IMG: Tug o - FreeSerif_50_LF.pbm.wav.png.png - OCR_TEXT: LUCA
+- IMG: Quali - FreeSerifBold_25_LF.png.wav.png.png - OCR_TEXT: MARTA
+- IMG: Every - FreeSans_100_HF.png.wav.png.png - OCR_TEXT: aN AU al CEUs teal
+- IMG: Every - FreeMono_50_HF.jpeg.wav.png.png - OCR_TEXT: yeh Gt hoes Orie NL
+- IMG: Every - FreeMonoBold_50_LF.png.wav.png.png - OCR_TEXT: ON SAAS eaN ConA OSH
+- IMG: Every - FreeSansBold_25_LF.jpeg.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Every - FreeMonoBold_100_LF.jpeg.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN
+- IMG: Quali - FreeMono_50_HF.png.wav.png.png - OCR_TEXT: 
+- IMG: Tug o - FreeMonoBold_50_LF.pbm.wav.png.png - OCR_TEXT: qe
+- IMG: Tug o - FreeSerif_100_LF.png.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Quali - FreeMono_75_HF.pbm.wav.png.png - OCR_TEXT: VR ee ene
+- IMG: Tug o - FreeMonoBold_50_HF.jpeg.wav.png.png - OCR_TEXT: NU
+- IMG: Tug o - FreeMonoBold_75_HF.png.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Quali - FreeSerifBold_50_HF.png.wav.png.png - OCR_TEXT: Uae}
+- IMG: Every - FreeSansBold_25_LF.png.wav.png.png - OCR_TEXT: TENA
+- IMG: Quali - FreeMonoBold_100_LF.pbm.wav.png.png - OCR_TEXT: UNG ead
+- IMG: Tug o - FreeSansBold_25_HF.pbm.wav.png.png - OCR_TEXT: TWG OF MAR
+- IMG: Every - FreeSerif_75_HF.pbm.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Tug o - FreeSerifBold_75_HF.pbm.wav.png.png - OCR_TEXT: Taree EY
+- IMG: Every - FreeMono_50_LF.pbm.wav.png.png - OCR_TEXT: YY SE nce | ONT
+- IMG: Tug o - FreeMonoBold_100_LF.jpeg.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Every - FreeSerif_100_HF.png.wav.png.png - OCR_TEXT: PAPO OUT TINGH SON NDT PANGO LOTTA
+- IMG: Tug o - FreeSans_100_LF.pbm.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Quali - FreeMonoBold_100_HF.pbm.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Tug o - FreeSerif_25_LF.jpeg.wav.png.png - OCR_TEXT: VA
+- IMG: Quali - FreeSansBold_50_HF.pbm.wav.png.png - OCR_TEXT: aa
+- IMG: Every - FreeSansBold_25_HF.jpeg.wav.png.png - OCR_TEXT: aU Me
+- IMG: Every - FreeSerif_25_HF.jpeg.wav.png.png - OCR_TEXT: Mean ORB
+- IMG: Every - FreeSansBold_75_LF.pbm.wav.png.png - OCR_TEXT: TS aT CRAU Ds aH al esis
+- IMG: Tug o - FreeSerifBold_25_LF.png.wav.png.png - OCR_TEXT: TEAR
+- IMG: Quali - FreeSerif_75_HF.png.wav.png.png - OCR_TEXT: OR aiiile
+- IMG: Quali - FreeSansBold_100_LF.png.wav.png.png - OCR_TEXT: CEA aril
+- IMG: Quali - FreeSerifBold_100_HF.jpeg.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Tug o - FreeMonoBold_100_HF.pbm.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Every - FreeSans_50_LF.jpeg.wav.png.png - OCR_TEXT: EVERYTHING BLT THE KITCHEN SINK
+- IMG: Tug o - FreeMono_50_HF.jpeg.wav.png.png - OCR_TEXT: tis in i h
+- IMG: Tug o - FreeMono_100_HF.pbm.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Tug o - FreeSerif_50_LF.png.wav.png.png - OCR_TEXT: LUCA
+- IMG: Every - FreeSans_75_HF.jpeg.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Every - FreeSans_50_LF.png.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Every - FreeMonoBold_25_LF.jpeg.wav.png.png - OCR_TEXT: AHR A
+- IMG: Every - FreeSerifBold_50_LF.pbm.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Quali - FreeSans_25_HF.jpeg.wav.png.png - OCR_TEXT: rN tad
+- IMG: Quali - FreeSerifBold_50_LF.png.wav.png.png - OCR_TEXT: EAA
+- IMG: Tug o - FreeSerif_50_HF.jpeg.wav.png.png - OCR_TEXT: UC
+- IMG: Every - FreeMonoBold_25_HF.pbm.wav.png.png - OCR_TEXT: Le ART
+- IMG: Quali - FreeMono_25_LF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Quali - FreeSansBold_100_HF.pbm.wav.png.png - OCR_TEXT: a=
+- IMG: Every - FreeSansBold_100_HF.png.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN
+- IMG: Quali - FreeMonoBold_100_HF.jpeg.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Quali - FreeSansBold_25_LF.png.wav.png.png - OCR_TEXT: ArT
+- IMG: Quali - FreeSansBold_75_LF.png.wav.png.png - OCR_TEXT: CAMS
+- IMG: Every - FreeSerif_100_LF.pbm.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN ?
+- IMG: Quali - FreeMono_100_LF.jpeg.wav.png.png - OCR_TEXT: OUAGRAMAIET
+- IMG: Quali - FreeSerifBold_100_LF.png.wav.png.png - OCR_TEXT: AUR UAYID
+- IMG: Quali - FreeSerif_50_HF.jpeg.wav.png.png - OCR_TEXT: NALD
+- IMG: Tug o - FreeSans_75_HF.png.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Quali - FreeSerif_75_LF.png.wav.png.png - OCR_TEXT: OUALITY TIME
+- IMG: Quali - FreeSerif_100_HF.jpeg.wav.png.png - OCR_TEXT: CUR UR aie
+- IMG: Quali - FreeSans_100_LF.pbm.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Quali - FreeSerifBold_100_HF.png.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Every - FreeSerif_25_LF.png.wav.png.png - OCR_TEXT: DMO ASTRA
+- IMG: Quali - FreeSerif_25_LF.jpeg.wav.png.png - OCR_TEXT: al
+- IMG: Quali - FreeSerif_75_HF.pbm.wav.png.png - OCR_TEXT: OR aiiile
+- IMG: Tug o - FreeSansBold_25_HF.jpeg.wav.png.png - OCR_TEXT: ea
+- IMG: Tug o - FreeSansBold_100_LF.pbm.wav.png.png - OCR_TEXT: ene anys
+- IMG: Every - FreeMonoBold_25_LF.pbm.wav.png.png - OCR_TEXT: AEN RE OA
+- IMG: Quali - FreeSans_100_HF.pbm.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Tug o - FreeMonoBold_75_HF.pbm.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Every - FreeMonoBold_50_LF.pbm.wav.png.png - OCR_TEXT: ON SAAS eaN ConA OSH
+- IMG: Tug o - FreeMono_75_LF.png.wav.png.png - OCR_TEXT: 
+- IMG: Tug o - FreeMono_100_LF.jpeg.wav.png.png - OCR_TEXT: [UG Or WAR
+- IMG: Tug o - FreeSerifBold_75_LF.jpeg.wav.png.png - OCR_TEXT: NCPR CUAL
+- IMG: Quali - FreeSerif_25_LF.pbm.wav.png.png - OCR_TEXT: AYN
+- IMG: Tug o - FreeMonoBold_50_HF.png.wav.png.png - OCR_TEXT: NU
+- IMG: Quali - FreeSans_75_HF.pbm.wav.png.png - OCR_TEXT: OU Ra
+- IMG: Tug o - FreeSerifBold_50_LF.pbm.wav.png.png - OCR_TEXT: LEH VEN:
+- IMG: Tug o - FreeSans_75_HF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: Every - FreeSerifBold_25_HF.jpeg.wav.png.png - OCR_TEXT: AUR Lm UAL
+- IMG: Quali - FreeSans_75_LF.png.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Quali - FreeMono_75_LF.png.wav.png.png - OCR_TEXT: CaN
+- IMG: Quali - FreeSerifBold_25_HF.png.wav.png.png - OCR_TEXT: TEMA
+- IMG: Every - FreeMono_100_LF.jpeg.wav.png.png - OCR_TEXT: PATO Nv Cole MM esi R@)etaHN
+- IMG: Tug o - FreeMonoBold_50_HF.pbm.wav.png.png - OCR_TEXT: NU
+- IMG: Every - FreeSerif_25_HF.png.wav.png.png - OCR_TEXT: MELAS UE AA
+- IMG: Tug o - FreeMono_75_LF.jpeg.wav.png.png - OCR_TEXT: 
+- IMG: Tug o - FreeMonoBold_75_LF.jpeg.wav.png.png - OCR_TEXT: COTA
+- IMG: Every - FreeSansBold_50_LF.jpeg.wav.png.png - OCR_TEXT: ATS TATA ULM ACACIA
+- IMG: Quali - FreeSerif_50_LF.png.wav.png.png - OCR_TEXT: VU Me
+- IMG: Quali - FreeMono_25_HF.pbm.wav.png.png - OCR_TEXT: alr ro re eee a
+- IMG: Every - FreeSansBold_100_LF.pbm.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN
+- IMG: Quali - FreeMonoBold_75_LF.pbm.wav.png.png - OCR_TEXT: HU IAUNae BNI
+- IMG: Quali - FreeSansBold_50_LF.png.wav.png.png - OCR_TEXT: UN Aa:
+- IMG: Every - FreeMono_50_LF.png.wav.png.png - OCR_TEXT: YY SE nce | ONT
+- IMG: Quali - FreeMono_100_LF.png.wav.png.png - OCR_TEXT: Oa eee
+- IMG: Tug o - FreeSansBold_75_LF.jpeg.wav.png.png - OCR_TEXT: ere aS
+- IMG: Quali - FreeSerif_50_LF.pbm.wav.png.png - OCR_TEXT: VU Me
+- IMG: Every - FreeSerifBold_25_HF.pbm.wav.png.png - OCR_TEXT: AUT MAUL
+- IMG: Tug o - FreeMonoBold_50_LF.png.wav.png.png - OCR_TEXT: qe
+- IMG: Tug o - FreeMonoBold_25_LF.jpeg.wav.png.png - OCR_TEXT: Ti OF WAR
+- IMG: Tug o - FreeSans_100_LF.png.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Quali - FreeMonoBold_25_HF.pbm.wav.png.png - OCR_TEXT: nm a
+- IMG: Tug o - FreeSerifBold_50_LF.jpeg.wav.png.png - OCR_TEXT: LEHANE)
+- IMG: Every - FreeSansBold_75_LF.png.wav.png.png - OCR_TEXT: TS aT CRAU Ds aH al esis
+- IMG: Every - FreeSerifBold_50_LF.png.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Tug o - FreeSansBold_50_HF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Every - FreeSerif_50_HF.jpeg.wav.png.png - OCR_TEXT: AEM LSA
+- IMG: Quali - FreeMonoBold_50_LF.jpeg.wav.png.png - OCR_TEXT: wt aaa
+- IMG: Every - FreeMonoBold_75_LF.jpeg.wav.png.png - OCR_TEXT: AH SOG CRUNK ORs A SR
+- IMG: Tug o - FreeSerifBold_50_HF.pbm.wav.png.png - OCR_TEXT: CCR
+- IMG: Tug o - FreeSerifBold_25_LF.jpeg.wav.png.png - OCR_TEXT: TERRY
+- IMG: Quali - FreeSansBold_100_LF.pbm.wav.png.png - OCR_TEXT: CEA aril
+- IMG: Quali - FreeSansBold_75_HF.pbm.wav.png.png - OCR_TEXT: UA
+- IMG: Every - FreeSansBold_100_HF.pbm.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN
+- IMG: Tug o - FreeSerif_75_LF.jpeg.wav.png.png - OCR_TEXT: UCHO tai
+- IMG: Tug o - FreeSerif_100_LF.jpeg.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Tug o - FreeSansBold_75_HF.jpeg.wav.png.png - OCR_TEXT: Ca
+- IMG: Tug o - FreeSans_75_HF.pbm.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Tug o - FreeSerif_100_HF.jpeg.wav.png.png - OCR_TEXT: LC RAN
+- IMG: Every - FreeSerifBold_75_HF.jpeg.wav.png.png - OCR_TEXT: PANO OHiUASCMUUH Ome PaO MROraTDAINI IAT
+- IMG: Tug o - FreeSans_100_HF.pbm.wav.png.png - OCR_TEXT: Omi
+- IMG: Every - FreeSerif_100_HF.jpeg.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN
+- IMG: Every - FreeSerifBold_50_HF.pbm.wav.png.png - OCR_TEXT: ATSC ALVA
+- IMG: Every - FreeSans_75_LF.png.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Every - FreeSerif_50_LF.png.wav.png.png - OCR_TEXT: ATTN ATOM TACT
+- IMG: Tug o - FreeSansBold_100_LF.jpeg.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Tug o - FreeSans_25_LF.png.wav.png.png - OCR_TEXT: 
+- IMG: Tug o - FreeSans_50_LF.jpeg.wav.png.png - OCR_TEXT: cea
+- IMG: Every - FreeSerifBold_25_LF.pbm.wav.png.png - OCR_TEXT: AUR AMAIA CHLOMLILOSTHLOIIARIRY
+- IMG: Every - FreeMono_100_HF.pbm.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN
+- IMG: Quali - FreeSans_25_HF.pbm.wav.png.png - OCR_TEXT: AN kal
+- IMG: Tug o - FreeSerif_75_LF.png.wav.png.png - OCR_TEXT: LRRO tal
+- IMG: Tug o - FreeSerif_25_HF.pbm.wav.png.png - OCR_TEXT: if Ah
+- IMG: Tug o - FreeSans_25_LF.jpeg.wav.png.png - OCR_TEXT: Re
+- IMG: Tug o - FreeSans_100_HF.png.wav.png.png - OCR_TEXT: Omi
+- IMG: Every - FreeSans_50_HF.jpeg.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Tug o - FreeSerifBold_75_HF.png.wav.png.png - OCR_TEXT: Taree EY
+- IMG: Every - FreeSans_75_HF.png.wav.png.png - OCR_TEXT: seat als ACLU alee Len a
+- IMG: Every - FreeSansBold_25_HF.png.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Tug o - FreeSerif_25_LF.png.wav.png.png - OCR_TEXT: inva
+- IMG: Tug o - FreeSans_75_LF.png.wav.png.png - OCR_TEXT: VCO Ts
+- IMG: Tug o - FreeMonoBold_75_HF.jpeg.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Every - FreeSerifBold_100_HF.png.wav.png.png - OCR_TEXT: UAW Re UALCA Od Be OUI
+- IMG: Every - FreeSans_100_LF.jpeg.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN |
+- IMG: Every - FreeMonoBold_25_HF.jpeg.wav.png.png - OCR_TEXT: TOA Te eA
+- IMG: Every - FreeSerif_75_LF.png.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN SINK
+- IMG: Tug o - FreeSans_75_LF.jpeg.wav.png.png - OCR_TEXT: VCO ATs
+- IMG: Tug o - FreeSerif_50_HF.pbm.wav.png.png - OCR_TEXT: UC
+- IMG: Quali - FreeSans_75_LF.jpeg.wav.png.png - OCR_TEXT: Cabal
+- IMG: Every - FreeSansBold_75_HF.jpeg.wav.png.png - OCR_TEXT: SCE ble
+- IMG: Tug o - FreeSerif_25_HF.jpeg.wav.png.png - OCR_TEXT: TU
+- IMG: Quali - FreeSerifBold_50_HF.pbm.wav.png.png - OCR_TEXT: Uae}
+- IMG: Quali - FreeSerifBold_100_LF.pbm.wav.png.png - OCR_TEXT: AUR UAYID
+- IMG: Every - FreeMono_75_HF.png.wav.png.png - OCR_TEXT: Mois bMarA Oi cuees ADs TRO MRO LL On
+- IMG: Quali - FreeSansBold_75_LF.pbm.wav.png.png - OCR_TEXT: CAMS
+- IMG: Quali - FreeSansBold_75_LF.jpeg.wav.png.png - OCR_TEXT: CMAs
+- IMG: Quali - FreeSansBold_50_LF.pbm.wav.png.png - OCR_TEXT: UN Aa:
+- IMG: Quali - FreeMonoBold_75_LF.jpeg.wav.png.png - OCR_TEXT: QUALITY TINE
+- IMG: Quali - FreeMono_50_LF.pbm.wav.png.png - OCR_TEXT: 
+- IMG: Tug o - FreeSerifBold_100_LF.pbm.wav.png.png - OCR_TEXT: UCC) AN
+- IMG: Quali - FreeMonoBold_75_HF.jpeg.wav.png.png - OCR_TEXT: vad
+- IMG: Tug o - FreeSerif_75_LF.pbm.wav.png.png - OCR_TEXT: LRRO tal
+- IMG: Every - FreeMonoBold_100_LF.pbm.wav.png.png - OCR_TEXT: EVERYTHING BUT THE KITCHEN
+- IMG: Tug o - FreeSerifBold_100_HF.pbm.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Tug o - FreeSerifBold_100_HF.png.wav.png.png - OCR_TEXT: TUG OF WAR
+- IMG: Every - FreeMono_50_HF.pbm.wav.png.png - OCR_TEXT: yeh Ort east Orion NL
+- IMG: Quali - FreeSans_100_HF.png.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Tug o - FreeMono_50_LF.pbm.wav.png.png - OCR_TEXT: ARO
+- IMG: Quali - FreeSerif_100_LF.jpeg.wav.png.png - OCR_TEXT: QUALITY TIME
+- IMG: Tug o - FreeSerifBold_25_LF.pbm.wav.png.png - OCR_TEXT: TEAR
+- IMG: Every - FreeSans_25_LF.jpeg.wav.png.png - OCR_TEXT: SUA Gee HLL
+- IMG: Quali - FreeMono_75_LF.jpeg.wav.png.png - OCR_TEXT: CaN le
+- IMG: Every - FreeSans_100_HF.jpeg.wav.png.png - OCR_TEXT: aah Ab al CEUs teal
+- IMG: Tug o - FreeMonoBold_25_HF.png.wav.png.png - OCR_TEXT: ee
+- IMG: Every - FreeMonoBold_50_HF.pbm.wav.png.png - OCR_TEXT: ASSURING A
+- IMG: Tug o - FreeMonoBold_25_HF.jpeg.wav.png.png - OCR_TEXT: ee
+- IMG: Tug o - FreeMono_50_HF.png.wav.png.png - OCR_TEXT: AUS
