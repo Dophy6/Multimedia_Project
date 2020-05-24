@@ -1,24 +1,15 @@
-#TODO: sort import
-#TODO: change functions names
+import wave, os, gc
 import numpy as np
 import matplotlib.image as mpimg
 import matplotlib.pyplot as plt
-import wave
 from array import array
-
-from pydub import AudioSegment
-from pydub.playback import play
-
-from scipy import signal
-from scipy.io import wavfile
-
-#import Image
-from pytesseract import image_to_string
-
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 from PIL.ImageFilter import MinFilter, MaxFilter
-import os
-import gc
+from scipy import signal
+from scipy.io import wavfile
+from pydub import AudioSegment
+from pydub.playback import play
+from pytesseract import image_to_string
 
 CURRENT_PATH = os.path.abspath(os.getcwd())
 DATA_PATH = "/DATA/"
@@ -75,6 +66,8 @@ def calc_specto(wav_overlay_paths, img_wav_paths=[]):
 	wav_overlay_specto = []
 	# The wav file must be mono, not stereo
 	'''
+	#Don't use it in bulk executions, they'r just for demo
+
 	samplingFrequency, signalData = wavfile.read(ORIGINAL_AUDIO_PATH)
 	frequencies, times, spectrogram = signal.spectrogram(signalData, samplingFrequency)
 	original_audio_specto = {
@@ -122,6 +115,8 @@ def create_save_plot(wav_overlay_specto, original_audio_specto={}, img_wav_spect
 		fig.clear()
 		plt.close("all")
 	'''
+	#Don't use it in bulk executions, they'r just for demo
+
 	axs[0, 1].pcolormesh(wav_overlay_specto[2]["times"], wav_overlay_specto[2]["frequencies"], np.log(wav_overlay_specto[2]["spectrogram"]))
 	axs[0, 1].set_title(wav_overlay_specto[2]["name"])
 	dim = axs[0, 1].get_window_extent().transformed(fig.dpi_scale_trans.inverted())
@@ -173,7 +168,7 @@ def images_post_processing():
 			height /= 6
 			newsize = (width, height) 
 			temp = temp.resize(newsize) #Resize for better OCR read
-			temp = temp.point(lambda p: 0 if p!=255 else 255) # per interpolazione
+			temp = temp.point(lambda p: 0 if p!=255 else 255) # delete interpolation artifacts
 			left = 1
 			top = 1
 			right = width-1
@@ -238,6 +233,7 @@ if __name__ == '__main__':
 	wav_overlay_specto = calc_specto(wav_overlay_paths=wav_overlay_paths)
 
 	gc.collect()
+
 	print("\n\nSTARTING CREATE_SAVE_PLOT\n\n")
 	create_save_plot(wav_overlay_specto=wav_overlay_specto)
 	print("\n\nSTARTING IMAGES_POST_PROCESSING\n\n")
