@@ -1,0 +1,80 @@
+- IMG: Shot  - FreeMonoBold_100_LF.jpeg_NOISE-10.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Right - FreeMonoBold_25_HF.jpeg_NOISE-10.wav.png.png - OCR_TEXT: 
+- IMG: My Cu - FreeMonoBold_50_HF.jpeg_NOISE-50.wav.png.png - OCR_TEXT: Lame ane
+- IMG: Dropp - FreeMonoBold_25_LF.jpeg_NOISE-20.wav.png.png - OCR_TEXT: i er eee eee\nPat meee
+- IMG: Right - FreeMonoBold_25_HF.jpeg_HP.wav.png.png - OCR_TEXT: RAY
+- IMG: Right - FreeMonoBold_25_HF.jpeg_NOISE-5.wav.png.png - OCR_TEXT: TU Tee
+- IMG: My Cu - FreeMonoBold_50_HF.jpeg_HP.wav.png.png - OCR_TEXT: iam ant
+- IMG: Rain  - FreeMonoBold_50_LF.jpeg_NOISE-50.wav.png.png - OCR_TEXT: POU mt een
+- IMG: Rain  - FreeMonoBold_75_HF.jpeg_LP.wav.png.png - OCR_TEXT: 
+- IMG: Rain  - FreeMonoBold_75_HF.jpeg.wav.ogg.wav.png.png - OCR_TEXT: COA ee A Se TORT CCT |
+- IMG: Shot  - FreeMonoBold_100_LF.jpeg.wav.mp3.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Shot  - FreeMonoBold_100_LF.jpeg_NOISE-20.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: My Cu - FreeMonoBold_50_HF.jpeg.wav.aac.wav.png.png - OCR_TEXT: 
+- IMG: My Cu - FreeMonoBold_75_LF.jpeg_MP.wav.png.png - OCR_TEXT: 
+- IMG: Shot  - FreeMonoBold_100_LF.jpeg.wav.aac.wav.png.png - OCR_TEXT: OHOT IN THE DARK
+- IMG: Dropp - FreeMonoBold_25_LF.jpeg_NOISE-10.wav.png.png - OCR_TEXT: ree eT)\nte.\nPat ete
+- IMG: My Cu - FreeMonoBold_75_LF.jpeg_NOISE-10.wav.png.png - OCR_TEXT: Vane amelie
+- IMG: Dropp - FreeMonoBold_25_LF.jpeg.wav.ogg.wav.png.png - OCR_TEXT: RARbayid rage\n\nie
+- IMG: Dropp - FreeMonoBold_25_LF.jpeg_NOISE-50.wav.png.png - OCR_TEXT: Slt\nPia\n\nPat ete te
+- IMG: Right - FreeMonoBold_25_HF.jpeg.wav.aac.wav.png.png - OCR_TEXT: 
+- IMG: My Cu - FreeMonoBold_50_HF.jpeg_LP.wav.png.png - OCR_TEXT: 
+- IMG: Shot  - FreeMonoBold_100_LF.jpeg_NOISE-50.wav.png.png - OCR_TEXT: (OH A DYNA
+- IMG: Right - FreeMonoBold_25_HF.jpeg_MP.wav.png.png - OCR_TEXT: 
+- IMG: Rain  - FreeMonoBold_75_HF.jpeg_NOISE-50.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: My Cu - FreeMonoBold_75_LF.jpeg_NOISE-50.wav.png.png - OCR_TEXT: VeMnG Lane) aaNor
+- IMG: Rain  - FreeMonoBold_75_HF.jpeg_NOISE-10.wav.png.png - OCR_TEXT: CUNO Oem ce ba
+- IMG: Shot  - FreeMonoBold_100_LF.jpeg_HP.wav.png.png - OCR_TEXT: 
+- IMG: Jig I - FreeMonoBold_100_HF.jpeg_NOISE-20.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Dropp - FreeMonoBold_25_LF.jpeg.wav.aac.wav.png.png - OCR_TEXT: ae j\neen ae
+- IMG: Rain  - FreeMonoBold_50_LF.jpeg_HP.wav.png.png - OCR_TEXT: 
+- IMG: Rain  - FreeMonoBold_75_HF.jpeg_HP.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: My Cu - FreeMonoBold_75_LF.jpeg_NOISE-5.wav.png.png - OCR_TEXT: VeMmGU Lane aa Nor
+- IMG: Rain  - FreeMonoBold_50_LF.jpeg_NOISE-5.wav.png.png - OCR_TEXT: Nee ael ene Wy
+- IMG: Dropp - FreeMonoBold_25_LF.jpeg_HP.wav.png.png - OCR_TEXT: 
+- IMG: Dropp - FreeMonoBold_25_LF.jpeg_NOISE-5.wav.png.png - OCR_TEXT: i er eee eee\nPat meee
+- IMG: Right - FreeMonoBold_25_HF.jpeg_LP.wav.png.png - OCR_TEXT: 
+- IMG: My Cu - FreeMonoBold_75_LF.jpeg.wav.aac.wav.png.png - OCR_TEXT: Canam ch
+- IMG: My Cu - FreeMonoBold_50_HF.jpeg_NOISE-10.wav.png.png - OCR_TEXT: Gt aman
+- IMG: Right - FreeMonoBold_25_HF.jpeg.wav.ogg.wav.png.png - OCR_TEXT: 
+- IMG: Jig I - FreeMonoBold_100_HF.jpeg_MP.wav.png.png - OCR_TEXT: 
+- IMG: Right - FreeMonoBold_25_HF.jpeg.wav.mp3.wav.png.png - OCR_TEXT: 
+- IMG: My Cu - FreeMonoBold_75_LF.jpeg.wav.ogg.wav.png.png - OCR_TEXT: VOU ae
+- IMG: Jig I - FreeMonoBold_100_HF.jpeg.wav.aac.wav.png.png - OCR_TEXT: MP ENS dad UE
+- IMG: Shot  - FreeMonoBold_100_LF.jpeg_NOISE-5.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Dropp - FreeMonoBold_25_LF.jpeg_LP.wav.png.png - OCR_TEXT: ine oe eee
+- IMG: Jig I - FreeMonoBold_100_HF.jpeg_NOISE-50.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Right - FreeMonoBold_25_HF.jpeg_NOISE-20.wav.png.png - OCR_TEXT: 
+- IMG: Right - FreeMonoBold_25_HF.jpeg_NOISE-50.wav.png.png - OCR_TEXT: 
+- IMG: Jig I - FreeMonoBold_100_HF.jpeg.wav.mp3.wav.png.png - OCR_TEXT: 
+- IMG: Rain  - FreeMonoBold_50_LF.jpeg.wav.aac.wav.png.png - OCR_TEXT: ON me) OLA SOE ecm
+- IMG: Jig I - FreeMonoBold_100_HF.jpeg_NOISE-10.wav.png.png - OCR_TEXT: JIG IS UP
+- IMG: Rain  - FreeMonoBold_50_LF.jpeg.wav.mp3.wav.png.png - OCR_TEXT: UNMIS LED
+- IMG: My Cu - FreeMonoBold_50_HF.jpeg.wav.mp3.wav.png.png - OCR_TEXT: 
+- IMG: My Cu - FreeMonoBold_50_HF.jpeg_NOISE-5.wav.png.png - OCR_TEXT: met eam
+- IMG: My Cu - FreeMonoBold_50_HF.jpeg_MP.wav.png.png - OCR_TEXT: 
+- IMG: Rain  - FreeMonoBold_50_LF.jpeg_MP.wav.png.png - OCR_TEXT: 
+- IMG: Shot  - FreeMonoBold_100_LF.jpeg_MP.wav.png.png - OCR_TEXT: 
+- IMG: My Cu - FreeMonoBold_75_LF.jpeg_LP.wav.png.png - OCR_TEXT: MY CUP OF TEA
+- IMG: My Cu - FreeMonoBold_75_LF.jpeg_HP.wav.png.png - OCR_TEXT: 
+- IMG: Rain  - FreeMonoBold_75_HF.jpeg.wav.aac.wav.png.png - OCR_TEXT: Se ee ee ee re rue |
+- IMG: Rain  - FreeMonoBold_50_LF.jpeg_NOISE-10.wav.png.png - OCR_TEXT: Neen ae ane ey
+- IMG: Jig I - FreeMonoBold_100_HF.jpeg_HP.wav.png.png - OCR_TEXT: iC
+- IMG: Rain  - FreeMonoBold_75_HF.jpeg_MP.wav.png.png - OCR_TEXT: 
+- IMG: Rain  - FreeMonoBold_50_LF.jpeg.wav.ogg.wav.png.png - OCR_TEXT: SEU ECE
+- IMG: Rain  - FreeMonoBold_50_LF.jpeg_NOISE-20.wav.png.png - OCR_TEXT: MO Ree
+- IMG: My Cu - FreeMonoBold_75_LF.jpeg_NOISE-20.wav.png.png - OCR_TEXT: Vane amelie
+- IMG: Rain  - FreeMonoBold_50_LF.jpeg_LP.wav.png.png - OCR_TEXT: EU Ce
+- IMG: Rain  - FreeMonoBold_75_HF.jpeg_NOISE-20.wav.png.png - OCR_TEXT: SUMAN ImO MAO] ez Vcec)0)0
+- IMG: Rain  - FreeMonoBold_75_HF.jpeg.wav.mp3.wav.png.png - OCR_TEXT: 
+- IMG: Rain  - FreeMonoBold_75_HF.jpeg_NOISE-5.wav.png.png - OCR_TEXT: RAIN ON YOUR PARADE
+- IMG: Dropp - FreeMonoBold_25_LF.jpeg.wav.mp3.wav.png.png - OCR_TEXT: ae AF\nRoe eee er
+- IMG: Jig I - FreeMonoBold_100_HF.jpeg.wav.ogg.wav.png.png - OCR_TEXT: ay er
+- IMG: Jig I - FreeMonoBold_100_HF.jpeg_NOISE-5.wav.png.png - OCR_TEXT: vpCCue cma)
+- IMG: My Cu - FreeMonoBold_50_HF.jpeg.wav.ogg.wav.png.png - OCR_TEXT: 
+- IMG: Shot  - FreeMonoBold_100_LF.jpeg.wav.ogg.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: Shot  - FreeMonoBold_100_LF.jpeg_LP.wav.png.png - OCR_TEXT: SHOT IN THE DARK
+- IMG: My Cu - FreeMonoBold_50_HF.jpeg_NOISE-20.wav.png.png - OCR_TEXT: Ube am amie
+- IMG: Jig I - FreeMonoBold_100_HF.jpeg_LP.wav.png.png - OCR_TEXT: 
+- IMG: Dropp - FreeMonoBold_25_LF.jpeg_MP.wav.png.png - OCR_TEXT: 
+- IMG: My Cu - FreeMonoBold_75_LF.jpeg.wav.mp3.wav.png.png - OCR_TEXT: VeMnG ane) MaNer
