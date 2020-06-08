@@ -1,44 +1,59 @@
-import os
+import os, gc, math
+import numpy as np
+import matplotlib.pyplot as plt
 from pydub import AudioSegment
+from scipy import signal
 from scipy.signal import butter, lfilter
+from scipy.io import wavfile
+from PIL import Image, ImageFilter
+from PIL.ImageFilter import MinFilter, MaxFilter
+from pytesseract import image_to_string
 
 CURRENT_PATH = os.path.abspath(os.getcwd())
-DATA_PATH = "/TOP10/"
+DATA_PATH = "/TOP8/"
+
+def butter_bandpass(lowcut, highcut, fs, order=5):
+	nyq = 0.5 * fs #Nyquist frequence
+	if lowcut is None:
+		high = float(highcut / nyq)
+		b, a = butter(order, high, btype='low')
+	elif highcut is None:
+		low = float(lowcut / nyq)
+		b, a = butter(order, low, btype='high')
+	else:
+		low = float(lowcut / nyq)
+		high = float(highcut / nyq)
+		b, a = butter(order, [low, high], btype='band')
+	return b, a
+
 FILTERS ={
-	"LP" : butter_bandpass(0, 7350, 44100, order=5),
-	"MP" : butter_bandpass(7350, 14700, 44100, order=5),
-	"HP" : butter_bandpass(14700, 22050, 44100, order=5)
+	"LP" : butter_bandpass(None, 7350.0, 44100.0, order=5),
+	"MP" : butter_bandpass(7350.0, 14700.0, 44100.0, order=5),
+	"HP" : butter_bandpass(14700.0, None, 44100.0, order=5)
 }
 
 def change_ext(file_path, ext):
-    song = AudioSegment.from_wav(path)
-    file_path = file_path.replace("TOP10/","TOP10/EXT/")
-    song.export("{}.{}".format(path,ext), format=ext)
+	song = AudioSegment.from_wav(file_path)
+	file_path = file_path.replace("TOP8/","TOP8/EXT/") + "." + ext
+	song.export(file_path, format="adts" if ext == "aac" else ext)
 	return file_path
-
-def butter_bandpass(lowcut, highcut, fs, order=5):
-    nyq = 0.5 * fs #Nyquist frequence
-    low = lowcut / nyq
-    high = highcut / nyq
-    b, a = butter(order, [low, high], btype='band')
-    return b, a
 
 def apply_butter_bandpass_filter(file_path, butter_filter):
 	samplingFrequency, signalData = wavfile.read(file_path)
-    b, a = FILTERS[butter_filter]
-    y = lfilter(b, a, signalData)
-	file_path = file_path.replace("TOP10/","TOP10/BAND_PASS/").replace(".wav", "_{}.wav".format(butter_filter))
+	b, a = FILTERS[butter_filter]
+	y = lfilter(b, a, signalData)
+	file_path = file_path.replace("TOP8/","TOP8/BAND_PASS/").replace(".wav", "_{}.wav".format(butter_filter))
 	wavfile.write(file_path,samplingFrequency,y)
 	return file_path
 
 def add_white_noise(file_path,SNR):#Additive white gausian noise.
-    samplingFrequency, signalData = wavfile.read(file_path)
-    RMS_s=math.sqrt(np.mean(signalData**2))#RMS value of signal
-    RMS_n=math.sqrt(RMS_s**2/(pow(10,SNR/20)))#RMS values of noise
-    #Therefore mean=0, to round you can use RMS as STD
-    noise=np.random.normal(0, RMS_n, signal.shape[0])
+	samplingFrequency, signalData = wavfile.read(file_path)
+	RMS_s=math.sqrt(np.mean(signalData**2))#RMS value of signal
+	RMS_n=math.sqrt(RMS_s**2/(pow(10,SNR/20)))#RMS values of noise
+	#Therefore mean=0, to round you can use RMS as STD
+	noise=np.random.normal(0, RMS_n, signalData.shape[0])
 	signal_edit = signalData + noise
-	file_path = file_path.replace("TOP10/","TOP10/NOISE/").replace(".wav", "_NOISE-.wav".format(SNR))
+	file_path = file_path.replace("TOP8/","TOP8/NOISE/").replace(".wav", "_NOISE-{}.wav".format(SNR))
 	wavfile.write(file_path,samplingFrequency,signal_edit)
 	return file_path
 
@@ -46,14 +61,29 @@ def calc_specto(wav_overlay_paths, img_wav_paths=[]):
 	wav_overlay_specto = []
 	# The wav file must be mono, not stereo
 	for f_n in wav_overlay_paths:
-		samplingFrequency, signalData = wavfile.read(f_n)
-		frequencies, times, spectrogram = signal.spectrogram(signalData, samplingFrequency)
-		wav_overlay_specto.append({
-				"name": (f_n.split("/"))[-1],
-				"frequencies": frequencies,
-				"times":times,
-				"spectrogram": spectrogram
-			})
+		if f_n.endswith(".ogg"):
+			ogg_version = AudioSegment.from_ogg(f_n).set_channels(1)
+			f_n = f_n.replace("TOP8/EXT","TOP8/EXT/SUPPORT") + ".wav"
+			ogg_version.export(f_n, format="wav")
+		elif f_n.endswith(".mp3"):
+			mp3_version = AudioSegment.from_mp3(f_n).set_channels(1)
+			f_n = f_n.replace("TOP8/EXT","TOP8/EXT/SUPPORT") + ".wav"
+			mp3_version.export(f_n, format="wav")
+		elif f_n.endswith(".aac"):
+			aac_version = AudioSegment.from_file(f_n, "aac").set_channels(1)
+			f_n = f_n.replace("TOP8/EXT","TOP8/EXT/SUPPORT") + ".wav"
+			aac_version.export(f_n, format="wav")
+		
+		if f_n.endswith(".wav"):
+			samplingFrequency, signalData = wavfile.read(f_n)
+			frequencies, times, spectrogram = signal.spectrogram(signalData, samplingFrequency)
+			wav_overlay_specto.append({
+					"name": (f_n.split("/"))[-1],
+					"frequencies": frequencies,
+					"times":times,
+					"spectrogram": spectrogram
+				})
+
 	return wav_overlay_specto
 
 def create_save_plot(wav_overlay_specto):
@@ -88,7 +118,7 @@ def images_post_processing():
 			
 			width /= 6
 			height /= 6
-			newsize = (width, height) 
+			newsize = (int(width), int(height)) 
 			temp = temp.resize(newsize) #Resize for better OCR read
 			temp = temp.point(lambda p: 0 if p!=255 else 255) # delete interpolation artifacts
 			left = 1
@@ -108,9 +138,9 @@ def images_in_ocr():
 
 if __name__ == '__main__':
 	
-	folders_needed = ["EXT", "BAND_PASS", "NOISE", "IMG_SPECTO", "POST_P_IMG/"]
-	SNR = [5,10,20] #SNR -> Signal to Noise Ratio
-	EXT = ["mp3", "wma", "aac"]
+	folders_needed = ["EXT", "EXT/SUPPORT", "BAND_PASS", "NOISE", "IMG_SPECTO", "POST_P_IMG"]
+	SNR = [5,10,20, 50] #SNR -> Signal to Noise Ratio
+	EXT = ["mp3", "ogg", "aac"]
 	wav_paths = []
 	if not os.path.exists(CURRENT_PATH + DATA_PATH[:-1]):
 		os.mkdir(CURRENT_PATH + DATA_PATH[:-1])

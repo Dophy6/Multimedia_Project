@@ -48,9 +48,8 @@ def make_wav_from_img(image_filename, sampling_freq=44100):
 	return image_filename
 
 def wav_overlay(wav_msg_path, original_audio=ORIGINAL_AUDIO_PATH):
-	sound1 = AudioSegment.from_wav(original_audio)
+	sound1 = AudioSegment.from_wav(original_audio).set_channels(1)
 	sound2 = AudioSegment.from_wav(wav_msg_path)
-
 	tmpsound = sound1.overlay(sound2) 
 	if os.path.exists(wav_msg_path):
   		os.remove(wav_msg_path)
